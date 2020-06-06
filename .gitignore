@@ -1,0 +1,5 @@
+node_modules
+.umi
+.idea
+dist
+package-lock.json

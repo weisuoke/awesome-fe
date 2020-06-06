@@ -1,0 +1,25 @@
+{
+  "name": "awesome-fe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dumi dev --port=8030",
+    "build": "dumi build",
+    "deploy": "bash ./deploy.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weisuoke/awesome-fe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weisuoke/awesome-fe/issues"
+  },
+  "homepage": "https://github.com/weisuoke/awesome-fe#readme",
+  "dependencies": {
+    "dumi": "^1.0.31"
+  }
+}
