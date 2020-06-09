@@ -39,6 +39,31 @@
 - [Vue3.0版本快速入门并实现基础组件通信](https://juejin.im/post/5edbc015518825431f7c6d3b#heading-5)
 - [快速搭建 vue 组件方案 vue-general-components](https://juejin.im/post/5edb6086e51d450d800a35d1)
 - [NutUI 视频组件开发心得](https://juejin.im/post/5ed9ac676fb9a047cd65c9c6)
+- [用 TypeScript 从零实现 Popup 组件并发布到 npm](https://mp.weixin.qq.com/s/4QuKM9U2lFVkXdOOE0y6Yg)
+- [小蝌蚪日记：通过console.log高仿FBI Warning](https://mp.weixin.qq.com/s/h4RiEq8GdN1MGofYw8zQnA)
+
+- [前端福音：为什么使用React和SVG开发图形UI是天作之合？](https://mp.weixin.qq.com/s/5duP-rnZISMcOpu6kf9nCA)
+- [10个实用的JS技巧](https://mp.weixin.qq.com/s/QQp3GTUvnwn_cunmaqDwTg)
+- [你不知道的 Blob](https://mp.weixin.qq.com/s/ismyY2EOUMwFqBuen5EUUg)
+- [进大厂连载 2/15：8 年前端 5 面拿下阿里 P8 Offer | 小卡](https://juejin.im/post/5ededa0ae51d457847716825)
+- [1.2W字 | 了不起的 TypeScript 入门教程](https://juejin.im/post/5edd8ad8f265da76fc45362c)
+- [2020年这些🍔"正则"应该被收藏(更新, 63条)](https://juejin.im/post/5edd89936fb9a047970688a8)
+- [10+个很酷的Vue.js组件，模板和demo示例](https://juejin.im/post/5ede493a6fb9a047aa660181)
+- [看到赚到！重读vue2.0风格指南，我整理了这些关键规则](https://juejin.im/post/5edafece51882542e3023545)
+- [【KT】轻松搞定Redux源码解读与编程艺术](https://juejin.im/post/5dad64aef265da5b8d18dd26)
+- [「面试必问」leetcode高频题精选](https://juejin.im/post/5eddaa0ff265da76d109f222)
+- [我的前端开发工具箱](https://juejin.im/post/5ede16efe51d45788e17f394)
+- [体验微前端（qiankun）](https://juejin.im/post/5ed70bf35188254348576b4e)
+- [精读《用 React 做按需渲染》](https://juejin.im/post/5edd9b426fb9a047e6080a41)
+- [潇潇洒洒写一个KeepAlive动态缓存组件](https://juejin.im/post/5eddaa09f265da76f30e6215)
+- [新版vue-router的hooks用法](https://juejin.im/post/5edc89326fb9a047ea45dfd2)
+- [聊聊前端开发日常的协作工具（全）](https://juejin.im/post/5ed37b57518825434c3d9677)
+- [这个前端竟然用动态规划写瀑布流布局？给我打死他！](https://juejin.im/post/5ed5b9a26fb9a047a07f2c30)
+
+### Github
+
+- [state-of-the-art-shitcode](https://github.com/trekhleb/state-of-the-art-shitcode)
+- [formatJS](https://formatjs.io/)
 
 
 
