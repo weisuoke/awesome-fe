@@ -62,11 +62,23 @@
 - [一起来玩玩WebGL--第一弹](https://mp.weixin.qq.com/s/bR5IBdETINDcVsqMx6Xl_w)
 - [css篇--100道近两万字帮你巩固css知识点](https://juejin.im/post/5ee0cf335188254ec9505381)
 - [前端如何在项目中做出亮点](https://mp.weixin.qq.com/s/mlbgKrv8cn6k8nO1x19NfA)
+- [面试字节跳动时，我竟然遇到了原题……](https://mp.weixin.qq.com/s/QHt9fGP-q8RAs8GI7fP3hw)
+- [微内核架构在前端的应用](https://mp.weixin.qq.com/s/ywc98dS4TVB4t3L2tIyk8g)
+- [让人眼前一亮的 10 大 TS 项目](https://mp.weixin.qq.com/s/bXCqLjPWn-hZOIUuCqAkiw)
+- [四连问：API 接口应该如何设计？如何保证安全？如何签名？如何防重？](https://mp.weixin.qq.com/s/fBHW4mP7wO2Ez5UibLU47Q)
+- [疫情导致的行业危机会影响前端工程师的未来吗？](https://mp.weixin.qq.com/s/TVP8qPJ5-CLchMzNN8fROg)
+- [Node.js CLI 工具最佳实践](https://mp.weixin.qq.com/s/ZgHffL1nKaWe8hqA_Ugdjg)
+- [TypeScript在Model中的高级应用](https://mp.weixin.qq.com/s/xV8VoSXfUCjlR1DCvrsWlQ)
+- [当前端基建任务落到你身上，该如何推动协作？](https://mp.weixin.qq.com/s/H7_twpnFA9Tug7ege94Ygw)
 
 ### Github
 
 - [state-of-the-art-shitcode](https://github.com/trekhleb/state-of-the-art-shitcode)
 - [formatJS](https://formatjs.io/)
+
+
+
+https://drscdn-j79-stage.500px.net/photo/original/store/1001332166/attachment%3D1_tags%3D1/v2?v=1&sig=9c30fc0a270b0a51008e51e9eeb2a258af253ff20b950fa3231e6de139c74f04
 
 
 
