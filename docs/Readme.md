@@ -77,6 +77,24 @@
 - [TypeScript在Model中的高级应用](https://mp.weixin.qq.com/s/xV8VoSXfUCjlR1DCvrsWlQ)
 - [当前端基建任务落到你身上，该如何推动协作？](https://mp.weixin.qq.com/s/H7_twpnFA9Tug7ege94Ygw)
 - [2020年React Redux的5种替代选项](https://mp.weixin.qq.com/s/lqvDxaknoHxW3BfqQwOf4w)
+- [以游戏玩家的视角开启设计模式](https://juejin.im/post/5edcb5a5e51d457863403438)
+- [Bootstrap 5 Alpha发布！不再依赖jQuery，放弃支持IE](https://mp.weixin.qq.com/s/P2YeOjPwzCN-strs1m_z5Q)
+- [深入理解 Vue3 Reactivity API](https://zhuanlan.zhihu.com/p/146097763)
+- [10个打开了我新世界大门的 WebAPI](https://juejin.im/post/5ee8c60ef265da76ed486e20?utm_source=gold_browser_extension)
+- [总结18个webpack插件，总会有你想要的！](https://juejin.im/post/5ee9c98c6fb9a0587c6b136c?utm_source=gold_browser_extension)
+- [细聊Concent & Recoil , 探索react数据流的新开发模式](https://juejin.im/post/5eda2a0ef265da76fa4b6c03?utm_source=gold_browser_extension)
+- [基于 vue-cli4.0 构建 多页面 模板脚手架!](https://juejin.im/post/5ee862e4f265da76dc1bd1fa?utm_source=gold_browser_extension)
+- [大厂如何开发和部署前端代码？淘宝8年案例解读](https://juejin.im/post/5ee73e416fb9a047d564704e?utm_source=gold_browser_extension)
+- [你可能不知道的15个有用的Github功能](https://juejin.im/post/5ee97b4ef265da770b40ea8b?utm_source=gold_browser_extension)
+- [30张脑图带你从零开始学VUE｜VUE基础知识篇](https://juejin.im/post/5ee4965a6fb9a047dd27695a?utm_source=gold_browser_extension)
+- [前端！7个快速发现 bug 神仙调试工具](https://juejin.im/post/5ee80c10e51d4530b31b964f?utm_source=gold_browser_extension)
+- [前端电商 sku 的全排列算法很难吗？学会这个套路，彻底掌握排列组合。](https://juejin.im/post/5ee6d9026fb9a047e60815f1?utm_source=gold_browser_extension)
+- [周末学习发现了 10 个好用JavaScript图像处理库](https://juejin.im/post/5ee95c29518825431a66bea9?utm_source=gold_browser_extension)
+- [DD每周前端七题详解-第四期](https://juejin.im/post/5ee9c2ddf265da02ce217831?utm_source=gold_browser_extension)
+- [闲鱼前端 Faas 框架与通信方案|前端搞 Serverless](https://juejin.im/post/5ee81625f265da76ce579f31?utm_source=gold_browser_extension)
+- [【vue选手极速进阶】图文详解vue+ts+class+注解风格开发排坑全指南](https://juejin.im/post/5ee7a9855188251f59238c77?utm_source=gold_browser_extension)
+- [1.2W字 | 了不起的 TypeScript 入门教程](https://juejin.im/post/5edd8ad8f265da76fc45362c?utm_source=gold_browser_extension)
+- [霖呆呆的中大厂面试记录及2年前端薪资对比(附赠学习方法)](https://juejin.im/post/5eda38ebf265da7700281d57?utm_source=gold_browser_extension)
 
 ### Github
 
@@ -110,3 +128,6 @@ https://drscdn-j79-stage.500px.net/photo/original/store/1001332166/attachment%3D
 
 - algocasts.io算法视频 => JAVA + JS 实现
 - 恋上算法 1-3季
+
+
+
