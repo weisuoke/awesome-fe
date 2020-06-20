@@ -95,6 +95,8 @@
 - [【vue选手极速进阶】图文详解vue+ts+class+注解风格开发排坑全指南](https://juejin.im/post/5ee7a9855188251f59238c77?utm_source=gold_browser_extension)
 - [1.2W字 | 了不起的 TypeScript 入门教程](https://juejin.im/post/5edd8ad8f265da76fc45362c?utm_source=gold_browser_extension)
 - [霖呆呆的中大厂面试记录及2年前端薪资对比(附赠学习方法)](https://juejin.im/post/5eda38ebf265da7700281d57?utm_source=gold_browser_extension)
+- [UmiJS-NestJS | 微前端子应用前期项目策划](https://juejin.im/post/5eec0c9351882565b23c671b)
+- [一道头条面试题：如何设计哈希函数并解决冲突问题](https://mp.weixin.qq.com/s/gXHbOraweaJubb4A9ywD-w)
 
 ### Github
 
