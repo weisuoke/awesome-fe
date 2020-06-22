@@ -97,6 +97,10 @@
 - [霖呆呆的中大厂面试记录及2年前端薪资对比(附赠学习方法)](https://juejin.im/post/5eda38ebf265da7700281d57?utm_source=gold_browser_extension)
 - [UmiJS-NestJS | 微前端子应用前期项目策划](https://juejin.im/post/5eec0c9351882565b23c671b)
 - [一道头条面试题：如何设计哈希函数并解决冲突问题](https://mp.weixin.qq.com/s/gXHbOraweaJubb4A9ywD-w)
+- [【源码解析+代码实现】一篇文章搞定 babel-plugin-import 插件](https://juejin.im/post/5eefff756fb9a0589b027d97?utm_source=gold_browser_extension)
+- [进大厂连载 4/15：如何拿下政采云 P6 前端 Offer](https://juejin.im/post/5ef00650518825658559aeb4?utm_source=gold_browser_extension)
+- [Virtual Dom提升页面渲染效率的原理](https://mp.weixin.qq.com/s/Ak-ZSIWR1AfYKHw5sbxgtw)
+- [了不起的 Webpack HMR 学习指南](https://mp.weixin.qq.com/s/d5MjW48-Zg8hO0QygG3z5w)
 
 ### Github
 
