@@ -101,6 +101,7 @@
 - [进大厂连载 4/15：如何拿下政采云 P6 前端 Offer](https://juejin.im/post/5ef00650518825658559aeb4?utm_source=gold_browser_extension)
 - [Virtual Dom提升页面渲染效率的原理](https://mp.weixin.qq.com/s/Ak-ZSIWR1AfYKHw5sbxgtw)
 - [了不起的 Webpack HMR 学习指南](https://mp.weixin.qq.com/s/d5MjW48-Zg8hO0QygG3z5w)
+- [从 Element UI 源码的构建流程来看前端 UI 库设计](https://juejin.im/post/5ef173c051882565bf507c2d?utm_source=gold_browser_extension)
 
 ### Github
 
