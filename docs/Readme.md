@@ -102,6 +102,11 @@
 - [Virtual Dom提升页面渲染效率的原理](https://mp.weixin.qq.com/s/Ak-ZSIWR1AfYKHw5sbxgtw)
 - [了不起的 Webpack HMR 学习指南](https://mp.weixin.qq.com/s/d5MjW48-Zg8hO0QygG3z5w)
 - [从 Element UI 源码的构建流程来看前端 UI 库设计](https://juejin.im/post/5ef173c051882565bf507c2d?utm_source=gold_browser_extension)
+- [实战技巧，Vue原来还可以这样写](https://juejin.im/post/5eef7799f265da02cd3b82fe?utm_source=gold_browser_extension)
+- [你不知道的 Web Workers （上）](https://juejin.im/post/5ef2a554f265da02e47d952b?utm_source=gold_browser_extension)
+- [NodeJS全栈开发一个功能完善的Express项目（附完整源码）](https://juejin.im/post/5ef0a38af265da0291786b6e?utm_source=gold_browser_extension)
+
+
 
 ### Github
 
