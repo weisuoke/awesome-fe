@@ -13,6 +13,10 @@
 
 - [刘小夕](https://juejin.im/user/5c6256596fb9a049bd42c770)
 
+### 知乎
+
+- [kuitos 的后脑勺](https://zhuanlan.zhihu.com/kuitos)
+
 ### 前端团队
 
 - [政采云前端团队](https://juejin.im/user/5d5366df6fb9a06b2a203553)
@@ -106,6 +110,14 @@
 - [你不知道的 Web Workers （上）](https://juejin.im/post/5ef2a554f265da02e47d952b?utm_source=gold_browser_extension)
 - [NodeJS全栈开发一个功能完善的Express项目（附完整源码）](https://juejin.im/post/5ef0a38af265da0291786b6e?utm_source=gold_browser_extension)
 - [打造一款适合自己的快速开发框架-前端篇之下拉组件设计与实现](https://juejin.im/post/5ef43301f265da22cb481369?utm_source=gold_browser_extension)
+- [浅析 Tree Shaking](https://zhuanlan.zhihu.com/p/127804516)
+- [替代 webpack？带你了解 snowpack 原理，你还学得动么](https://mp.weixin.qq.com/s/Mj0ukGnHPGW8rQR3FIB1CA)
+- [别再说你不懂Top K问题了](https://mp.weixin.qq.com/s/tYUcigO8b4y59Pg7v6imzw)
+- [Taro 3 正式版发布：开放式跨端跨框架解决方案](https://mp.weixin.qq.com/s/hQwSH0EYg5x7FMOR341VBA)
+- [停止复用](https://mp.weixin.qq.com/s/OSC6yXoMPDY025foS9RySQ)
+- [老旧系统改造要点](https://mp.weixin.qq.com/s/hxPE9Sm4_QrAR9dKUQROgg)
+
+- [互动生产力进化之路 | 618 淘系前端技术分享](https://mp.weixin.qq.com/s/VxGB0w5nPsMoKM-exa2-ww)
 
 
 
@@ -136,11 +148,6 @@ https://drscdn-j79-stage.500px.net/photo/original/store/1001332166/attachment%3D
 - 京程一灯
 - 开课吧 17期
 - JavaScript逆向系列课
-
-#### 算法
-
-- algocasts.io算法视频 => JAVA + JS 实现
-- 恋上算法 1-3季
 
 
 
