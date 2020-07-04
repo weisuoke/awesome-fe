@@ -16,6 +16,7 @@
 ### 知乎
 
 - [kuitos 的后脑勺](https://zhuanlan.zhihu.com/kuitos)
+- [颜海镜的博客](https://zhuanlan.zhihu.com/yanhaijing)
 
 ### 前端团队
 
@@ -116,8 +117,21 @@
 - [Taro 3 正式版发布：开放式跨端跨框架解决方案](https://mp.weixin.qq.com/s/hQwSH0EYg5x7FMOR341VBA)
 - [停止复用](https://mp.weixin.qq.com/s/OSC6yXoMPDY025foS9RySQ)
 - [老旧系统改造要点](https://mp.weixin.qq.com/s/hxPE9Sm4_QrAR9dKUQROgg)
-
 - [互动生产力进化之路 | 618 淘系前端技术分享](https://mp.weixin.qq.com/s/VxGB0w5nPsMoKM-exa2-ww)
+- https://www.javaxxz.com/thread-383305-1-3.html
+- [奇舞周刊第 354 期：资损防控 —— 代码扫描技术揭秘](https://www.colabug.com/2020/0703/7493501/)
+
+- [如何设计微前端中的主子路由调度](https://blog.csdn.net/alitech2017/article/details/106901454)
+
+- [精读《用 React 做按需渲染》](https://mp.weixin.qq.com/s/Rv7SPm8GnVi7sDDfDlRxXQ)
+
+- [CSS变量对JS交互组件开发带来的提升与变革](https://www.zhangxinxu.com/wordpress/2020/07/css-var-improve-components/)
+
+- [Vue3 Compiler 优化细节，如何手写高性能渲染函数](https://zhuanlan.zhihu.com/p/150732926)
+
+- [Flutter 核心原理与混合开发模式](https://mp.weixin.qq.com/s/SK64Yl_FoS6kdNU0KAdPGg)
+- [携程RN渲染性能优化实践](https://mp.weixin.qq.com/s/6EYcGKztp20KMEUCHiTpnQ)
+- [精读《snowpack》](https://mp.weixin.qq.com/s/BKS3g47Im1imrkI55JjWSg)
 
 
 

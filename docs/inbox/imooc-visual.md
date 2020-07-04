@@ -162,3 +162,86 @@ SVG 是一种基于 XML 的图像文件格式，它的英文全称为 Scalable V
 >
 > 《深入理解 SVG》
 
+### 3.4 WebGL
+
+Webgl (Web Graphics Library）是一种 3D 绘图协议，WEBGL 可以为 HTML5 Canvas 提供硬件 3D 加速渲染，这样 Web 开发人员就可以借助系統显卡来在浏览器里更流畅地展示 3D 场景和模型了，还能创建复杂的导航和数据视觉化
+
+#### 3.4.1 WebGL 案例分享
+
+- [3D魔方](http://randelshofer.ch/webgl/rubikscube/)
+- [分子表达式](http://web.chemdoodle.com/demos/molgrabber-3d)
+- [3D地球](http://webglearth.com/)
+
+- [3D大脑](http://biodigital.com)
+
+### 3.5 zrender
+
+zrenders是二维绘图引擎，它提供 Canvas、SVG、VML 等多种渲染方式。ZRender 也是 ECharts 的渲染器。
+
+### 3.6 D3
+
+D3 (Data- Driven Documents）是一个 Javascript 图形库，基于 Canvas、Svg 和 HTML。
+
+>一个案例：http://github.com/reclay/vue-d3-tree-example
+
+### 3.7 Three.js
+
+Three.js 是一个基于 WebGL 的 Javascript 3D 图形库
+
+
+
+## 4. 数据可视化前端技术选型（下）
+
+### 4.1 Highcharts
+
+Highcharts 是一个用纯 Javascript 编写的一个图表库，能够很简单便捷的在 Web 网站或是 web 应用程序添加有交互性的图表，并且免费提供给个人学习、个人网站和非商业用途使用。Highcharts 系列包含 Highcharts JS, Highstock JS, Highmaps JS 共三款软件，均为纯 Javascript 编写的 HTML5 图表库。
+
+#### 4.1.1 Highcharts
+
+Highcharts 是一个用纯 Javascript 编写的一个图表库，能够很简单便捷的在 Web 网站或是 Web 应用程序添加有交互性的图表，Highcharts 支持的图表类型有直线图、曲线图、区域图、柱状图、饼状图、散状点图、似表图、气泡图、瀑布流图等多达 20 种图表，其中很多图表可以集成在同一个图形中形成混合
+
+#### 4.1.2 Highstock
+
+Highstock 是用纯 Javascript 编写的股票图表控件，可以开发股票走势或大数据量的时间轴图表。它包含多个高级导航组件：预设置数据时间范围，日期选择器、滚动条、平移、缩放功能。
+
+#### 4.1.3 Highmaps
+
+Highmaps 是一款基于 HTML5 的优秀地图组件。Highmaps 继承了 Highcharts 简单易用的特性，利用它可以方便快捷的创建用于展现销售、选举结果等其他与地理位置关系密切的交互性地图图表。
+
+### 4.2 AntV
+
+AntV 是蚂蚁金服全新一代数据可视化解決方案，致力于提供一套简单方便、专业可靠、无限可能的数据可视化最佳实践
+
+AntV 包括以下解決方案:
+
+- G2: 可视化引擎
+- G2Plot：图表库
+- G6: 图可视化引擎
+- Graphin：基于 G6 的图分析组件 
+- F2: 移动可视化方案
+- Chart Cube: AntV 图表在线制作
+- L7: 地理空间数据可视化
+
+### 4.3 ECharts 系列
+
+系列（series）是指：一组数值映射成对应的图
+
+![image-20200703234721579](https://wsk-mweb.oss-cn-hangzhou.aliyuncs.com/2020-07-03-154723.png)
+
+### 4.4 Echarts4.0 新特性：dataset
+
+Echarts4 开始支持了数据集（dataset）组件用于单独的数据集声明，从而数据可以单独管理，被多个组件复用，并且可以自由指定数据到视觉的映射。这一特性能将逻辑和数据分离，带来更好的复用，并易于理解。
+
+![image-20200703235510448](https://wsk-mweb.oss-cn-hangzhou.aliyuncs.com/2020-07-03-155512.png)
+
+### 4.5 ECharts 基本概念：组件
+
+Echarts 中除了绘图之外其他部分，都可抽象为「组件」。例如，Echarts 中至少有这些组件：
+
+xAxis（直角坐标系 X 轴）、yAxis（直角坐标系 Y 轴）、grid（直角坐标系底板）、angleAxis（极坐标系角度轴）
+
+![image-20200704000240024](https://wsk-mweb.oss-cn-hangzhou.aliyuncs.com/2020-07-03-160241.png)
+
+### 4.6 ECharts 基本概念：定位
+
+大多数组件都提供了定位属性，我们可以采用类似 CSS absolute 的定位属性来控制组件的位置，下面这个案例可以通过修改 grid 组件定位来控制图表的位置
