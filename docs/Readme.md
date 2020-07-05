@@ -7,21 +7,6 @@
 - 主流公众号文章
 - 项目实践
 
-## 前端分享者
-
-### 掘金
-
-- [刘小夕](https://juejin.im/user/5c6256596fb9a049bd42c770)
-
-### 知乎
-
-- [kuitos 的后脑勺](https://zhuanlan.zhihu.com/kuitos)
-- [颜海镜的博客](https://zhuanlan.zhihu.com/yanhaijing)
-
-### 前端团队
-
-- [政采云前端团队](https://juejin.im/user/5d5366df6fb9a06b2a203553)
-
 ## 待归档任务池
 
 ### weisuoke.github.io 文章迁移
@@ -145,6 +130,15 @@
 - [阿里 Midway 正式发布 Serverless v1.0，研发提效 50%](https://mp.weixin.qq.com/s/Zh33-usiMcvCWGw6aBGuhg)
 
 - [看哭了！一个前端自学者从面试被吊打，到拿 offer 的心路历程](https://mp.weixin.qq.com/s/JtCKwuCC9BtwKHFEW2KZ-A)
+- [如何搭建前端异常监控系统](https://juejin.im/post/5f0145d9f265da22e77c0985?utm_source=gold_browser_extension)
+- [1.2w字 ｜ 初中级前端 JavaScript 自测清单 - 1](https://juejin.im/post/5f0023625188252e8c308597?utm_source=gold_browser_extension)
+- [Vue、Nuxt服务端渲染、NodeJS全栈项目~面向小白的完美系统~](https://juejin.im/post/5efc8c9f6fb9a07e8c6891cc?utm_source=gold_browser_extension)
+- [十大惊人的文字动画特效](https://juejin.im/post/5efab10ff265da22e610d2d0?utm_source=gold_browser_extension)
+- [[建议👍]再来100道JS输出题酸爽继续（共1.8W字+巩固JS基础）](https://juejin.im/post/5efb4ca5f265da23016c5c80?utm_source=gold_browser_extension)
+- [（上）Vue+Echarts构建可视化大数据平台实战项目分享（附源码）](https://juejin.im/post/5ebbf0b25188256d8a229035)
+- [（下）Vue+Echarts构建大数据可视化酷炫展示公司品牌实战项目分享（附源码）](https://juejin.im/post/5efca542f265da22c058d8ed?utm_source=gold_browser_extension)
+
+- [2020值得收藏与学习280多款H5小游戏，从入门到彻底了解它（附源码）](https://juejin.im/post/5ef8a8ed6fb9a07e944ed6d6#heading-12)
 
 
 
@@ -156,10 +150,7 @@
 
 - [webp2jpg](https://github.com/renzhezhilu/webp2jpg-online)
 - [tauri](https://github.com/tauri-apps/tauri)
-
-
-
-https://drscdn-j79-stage.500px.net/photo/original/store/1001332166/attachment%3D1_tags%3D1/v2?v=1&sig=9c30fc0a270b0a51008e51e9eeb2a258af253ff20b950fa3231e6de139c74f04
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 
 
 
