@@ -132,6 +132,19 @@
 - [Flutter 核心原理与混合开发模式](https://mp.weixin.qq.com/s/SK64Yl_FoS6kdNU0KAdPGg)
 - [携程RN渲染性能优化实践](https://mp.weixin.qq.com/s/6EYcGKztp20KMEUCHiTpnQ)
 - [精读《snowpack》](https://mp.weixin.qq.com/s/BKS3g47Im1imrkI55JjWSg)
+- [【第1993期】前端架构鉴赏01：Angular 架构模式与最佳实践](https://mp.weixin.qq.com/s/gz98PLI4ne1-AAa-MMC6aw)
+- [【第1990期】设计规范落地的好帮手](https://mp.weixin.qq.com/s/UfjKqJSYQazXWFkjWzujSQ)
+
+- [GitHub 上的顶级项目都是做什么的？（一）](https://zhuanlan.zhihu.com/p/58449931)
+- [GitHub 上的顶级项目都是做什么的？（二）](https://zhuanlan.zhihu.com/p/59125383)
+- [GitHub 上面的顶级项目都是做什么的？（三）](https://zhuanlan.zhihu.com/p/107097907)
+- [GitHub 上面的顶级项目都是做什么的？（四）](https://zhuanlan.zhihu.com/p/107913062)
+
+- [使用 JavaScript 减少功能展平数组](https://varya.me/blog/flatten-array-with-reduce/)
+- [CSS 边距崩溃–是什么，我为什么要关心](http://www.js-craft.io/blog/css-margin-collapsing-what-it-is-why-should-i-care/)
+- [阿里 Midway 正式发布 Serverless v1.0，研发提效 50%](https://mp.weixin.qq.com/s/Zh33-usiMcvCWGw6aBGuhg)
+
+- [看哭了！一个前端自学者从面试被吊打，到拿 offer 的心路历程](https://mp.weixin.qq.com/s/JtCKwuCC9BtwKHFEW2KZ-A)
 
 
 
@@ -139,6 +152,10 @@
 
 - [state-of-the-art-shitcode](https://github.com/trekhleb/state-of-the-art-shitcode)
 - [formatJS](https://formatjs.io/)
+- [ elevator.js](https://github.com/tholman/elevator.js)
+
+- [webp2jpg](https://github.com/renzhezhilu/webp2jpg-online)
+- [tauri](https://github.com/tauri-apps/tauri)
 
 
 
