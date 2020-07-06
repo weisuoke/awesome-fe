@@ -105,30 +105,22 @@
 - [互动生产力进化之路 | 618 淘系前端技术分享](https://mp.weixin.qq.com/s/VxGB0w5nPsMoKM-exa2-ww)
 - https://www.javaxxz.com/thread-383305-1-3.html
 - [奇舞周刊第 354 期：资损防控 —— 代码扫描技术揭秘](https://www.colabug.com/2020/0703/7493501/)
-
 - [如何设计微前端中的主子路由调度](https://blog.csdn.net/alitech2017/article/details/106901454)
-
 - [精读《用 React 做按需渲染》](https://mp.weixin.qq.com/s/Rv7SPm8GnVi7sDDfDlRxXQ)
-
 - [CSS变量对JS交互组件开发带来的提升与变革](https://www.zhangxinxu.com/wordpress/2020/07/css-var-improve-components/)
-
 - [Vue3 Compiler 优化细节，如何手写高性能渲染函数](https://zhuanlan.zhihu.com/p/150732926)
-
 - [Flutter 核心原理与混合开发模式](https://mp.weixin.qq.com/s/SK64Yl_FoS6kdNU0KAdPGg)
 - [携程RN渲染性能优化实践](https://mp.weixin.qq.com/s/6EYcGKztp20KMEUCHiTpnQ)
 - [精读《snowpack》](https://mp.weixin.qq.com/s/BKS3g47Im1imrkI55JjWSg)
 - [【第1993期】前端架构鉴赏01：Angular 架构模式与最佳实践](https://mp.weixin.qq.com/s/gz98PLI4ne1-AAa-MMC6aw)
 - [【第1990期】设计规范落地的好帮手](https://mp.weixin.qq.com/s/UfjKqJSYQazXWFkjWzujSQ)
-
 - [GitHub 上的顶级项目都是做什么的？（一）](https://zhuanlan.zhihu.com/p/58449931)
 - [GitHub 上的顶级项目都是做什么的？（二）](https://zhuanlan.zhihu.com/p/59125383)
 - [GitHub 上面的顶级项目都是做什么的？（三）](https://zhuanlan.zhihu.com/p/107097907)
 - [GitHub 上面的顶级项目都是做什么的？（四）](https://zhuanlan.zhihu.com/p/107913062)
-
 - [使用 JavaScript 减少功能展平数组](https://varya.me/blog/flatten-array-with-reduce/)
 - [CSS 边距崩溃–是什么，我为什么要关心](http://www.js-craft.io/blog/css-margin-collapsing-what-it-is-why-should-i-care/)
 - [阿里 Midway 正式发布 Serverless v1.0，研发提效 50%](https://mp.weixin.qq.com/s/Zh33-usiMcvCWGw6aBGuhg)
-
 - [看哭了！一个前端自学者从面试被吊打，到拿 offer 的心路历程](https://mp.weixin.qq.com/s/JtCKwuCC9BtwKHFEW2KZ-A)
 - [如何搭建前端异常监控系统](https://juejin.im/post/5f0145d9f265da22e77c0985?utm_source=gold_browser_extension)
 - [1.2w字 ｜ 初中级前端 JavaScript 自测清单 - 1](https://juejin.im/post/5f0023625188252e8c308597?utm_source=gold_browser_extension)
@@ -137,8 +129,8 @@
 - [[建议👍]再来100道JS输出题酸爽继续（共1.8W字+巩固JS基础）](https://juejin.im/post/5efb4ca5f265da23016c5c80?utm_source=gold_browser_extension)
 - [（上）Vue+Echarts构建可视化大数据平台实战项目分享（附源码）](https://juejin.im/post/5ebbf0b25188256d8a229035)
 - [（下）Vue+Echarts构建大数据可视化酷炫展示公司品牌实战项目分享（附源码）](https://juejin.im/post/5efca542f265da22c058d8ed?utm_source=gold_browser_extension)
-
 - [2020值得收藏与学习280多款H5小游戏，从入门到彻底了解它（附源码）](https://juejin.im/post/5ef8a8ed6fb9a07e944ed6d6#heading-12)
+- [玩转前端二进制](https://mp.weixin.qq.com/s/QHi6BVM5Jt8XwZ_FKcRYsg)
 
 
 

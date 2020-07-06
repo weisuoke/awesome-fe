@@ -90,11 +90,14 @@ http://www.youbaobao.xyz/data-docs/guide/quide/bmap.html
   ![image-20200702223641372](https://wsk-mweb.oss-cn-hangzhou.aliyuncs.com/2020-07-02-143642.png)
 
 - XMind
+  
   - ![image-20200702223733580](https://wsk-mweb.oss-cn-hangzhou.aliyuncs.com/2020-07-02-143736.png)
 - Visio
-  - ![image-20200702223832269](https://wsk-mweb.oss-cn-hangzhou.aliyuncs.com/2020-07-02-143835.png)
-
+  
+- ![image-20200702223832269](https://wsk-mweb.oss-cn-hangzhou.aliyuncs.com/2020-07-02-143835.png)
+  
 - OmniGraffle
+  
   - ![image-20200702223908964](https://wsk-mweb.oss-cn-hangzhou.aliyuncs.com/2020-07-02-143910.png)
 
 #### 2.3.2 复杂应用
@@ -245,3 +248,37 @@ xAxis（直角坐标系 X 轴）、yAxis（直角坐标系 Y 轴）、grid（直
 ### 4.6 ECharts 基本概念：定位
 
 大多数组件都提供了定位属性，我们可以采用类似 CSS absolute 的定位属性来控制组件的位置，下面这个案例可以通过修改 grid 组件定位来控制图表的位置
+
+### 4.7 Echarts 基本概念：坐标系
+
+很多系列，例如 line（折线图）、bar（柱状图）、scatter（散点图）、heatmap（热力图）等等，需要运行在“坐标系”上。坐标系用于布局这些图，以及显示数据的刻度等等。例如 Echarts 中至少支持这些坐标系：直角坐标系、极坐标系、地理坐标系（GEO）、单轴坐标系、日历坐标系等。其他一些系列，例如 pie（饼图）、tree（树图）等等，并不依赖坐标系，能独立存在。还有一些图，例如 graph（关系图）等，既能独立存在，也能布局在坐标系中，依据用户的设定而来。
+
+一个坐标系，可能由多个组件协作而成。我们以最常见的直角坐标系来举例。直角坐标系中，包括有 XAXIS（直角坐标系 X 轴）、YAXIS（直角坐标系 Y 轴）、grid（直角坐标系底板）三种组件。XAXIS YAXIS 被 grid 自动引用并组织起来，共同工作。
+
+### 4.8 技术选型
+
+#### 4.8.1 ECharts VS Highcharts
+
+Highcharts 和 Echarts 的争论非常多，整体来说，我个人的感受是
+
+- Highcharts 能够兼容 IE6+, Echarts 通过 VML 兼容低端浏览器 
+- Highcharts 文档体验略胜一筹
+- Highcharts 收费，这是很多开发者转向 Echarts 的主要原因
+- Highcharts 基于 svg 实现，Echarts 默认采用 canvas 渲染，4.0 支持 svg 渲染 
+- Echarts 国内知名度更高，国内企业认可度更高
+
+#### 4.8.2 Echarts VS Antv
+
+- AntV 文档阅读体验更符合互联网产品使用习惯
+- AntV 产品体系拆分更加清晰，但一定程度上提升了学习成本 
+- Echarts 社区更强大 
+- Echarts 使用更加广泛
+
+#### 4.8.3 Echarts 优势总结
+
+- 简单易用
+
+- 文档全面
+- 社区强大
+- 高知名度
+

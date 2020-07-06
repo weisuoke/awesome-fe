@@ -11,9 +11,9 @@
 - [前端瓶子君](https://juejin.im/user/5c8f1c6b5188252d65343ff4)
 - [descire](https://juejin.im/user/57c5ae26c4c9710061a1defc)
 - [Colafornia](https://juejin.im/user/5757aa66a341310061239f33/posts)
-- [政采云前端团队](https://juejin.im/user/5d5366df6fb9a06b2a203553)
 - [徐小夕](https://juejin.im/user/5b985481f265da0a87264251)
 - [axuebin](https://juejin.im/user/574f910b207703005cd8686a/posts)
+- [前端劝退师](https://juejin.im/user/57bd1bdfd342d3006bf76a52)
 
 ## 知乎
 
