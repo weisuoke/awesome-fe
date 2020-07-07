@@ -131,8 +131,11 @@
 - [（下）Vue+Echarts构建大数据可视化酷炫展示公司品牌实战项目分享（附源码）](https://juejin.im/post/5efca542f265da22c058d8ed?utm_source=gold_browser_extension)
 - [2020值得收藏与学习280多款H5小游戏，从入门到彻底了解它（附源码）](https://juejin.im/post/5ef8a8ed6fb9a07e944ed6d6#heading-12)
 - [玩转前端二进制](https://mp.weixin.qq.com/s/QHi6BVM5Jt8XwZ_FKcRYsg)
+- [前端截图方案终极杀招（上）](https://mp.weixin.qq.com/s/ywT3RKJXOwH-Dd9EOVDgvg)
+- [纯干货｜程序员如何利用周末提高自己？](https://mp.weixin.qq.com/s/NMwvRAbcSBdGoILvmgHYeg)
+- [频道业务黑科技--行业魔方 | 618 淘系前端技术分享](https://mp.weixin.qq.com/s/P6S02xjK_tTvYO94WwHPWQ)
 
-
+- [图形处理：给 Canvas 文本填充线性渐变](https://mp.weixin.qq.com/s/ixxLPZn9Di-NZJTvKqL98w)
 
 ### Github
 
