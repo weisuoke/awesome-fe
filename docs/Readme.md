@@ -134,8 +134,9 @@
 - [前端截图方案终极杀招（上）](https://mp.weixin.qq.com/s/ywT3RKJXOwH-Dd9EOVDgvg)
 - [纯干货｜程序员如何利用周末提高自己？](https://mp.weixin.qq.com/s/NMwvRAbcSBdGoILvmgHYeg)
 - [频道业务黑科技--行业魔方 | 618 淘系前端技术分享](https://mp.weixin.qq.com/s/P6S02xjK_tTvYO94WwHPWQ)
-
 - [图形处理：给 Canvas 文本填充线性渐变](https://mp.weixin.qq.com/s/ixxLPZn9Di-NZJTvKqL98w)
+- [Vue、Nuxt服务端渲染、NodeJS全栈项目~面向小白的完美系统~](https://juejin.im/post/5efc8c9f6fb9a07e8c6891cc?utm_source=gold_browser_extension)
+- [如何搭建前端异常监控系统](https://juejin.im/post/5f0145d9f265da22e77c0985?utm_source=gold_browser_extension)
 
 ### Github
 
