@@ -137,6 +137,11 @@
 - [图形处理：给 Canvas 文本填充线性渐变](https://mp.weixin.qq.com/s/ixxLPZn9Di-NZJTvKqL98w)
 - [Vue、Nuxt服务端渲染、NodeJS全栈项目~面向小白的完美系统~](https://juejin.im/post/5efc8c9f6fb9a07e8c6891cc?utm_source=gold_browser_extension)
 - [如何搭建前端异常监控系统](https://juejin.im/post/5f0145d9f265da22e77c0985?utm_source=gold_browser_extension)
+- [写给前端的算法进阶指南，我是如何两个月零基础刷200题](https://juejin.im/post/5f05087cf265da22d466f60f)
+- [快速在你的vue/react应用中实现ssr(服务端渲染)](https://juejin.im/post/5efc312ae51d4534aa4aae6c)
+- [进大厂连载 9/15：拿下天猫精灵 P7 Offer](https://juejin.im/post/5f0668fbe51d45347b61a8db)
+
+- [如何用一行 CSS 分别实现 10 种现代布局？](https://juejin.im/post/5f058bef6fb9a07eac0665fb)
 
 ### Github
 
