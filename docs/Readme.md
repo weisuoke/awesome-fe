@@ -142,6 +142,9 @@
 - [进大厂连载 9/15：拿下天猫精灵 P7 Offer](https://juejin.im/post/5f0668fbe51d45347b61a8db)
 
 - [如何用一行 CSS 分别实现 10 种现代布局？](https://juejin.im/post/5f058bef6fb9a07eac0665fb)
+- [AI ❤️ JavaScript, Pipcook 1.0](https://juejin.im/post/5f06c3c85188252e96312fcc?utm_source=gold_browser_extension)
+- [[1.1W字]写给女友的秘籍-浏览器工作原理（渲染流程）篇](https://juejin.im/post/5f05d12a5188252e8406e37b?utm_source=gold_browser_extension)
+- [七个你没用过的炫酷开发工具推荐](https://juejin.im/post/5f06cb23f265da22c96705a0?utm_source=gold_browser_extension)
 
 ### Github
 
