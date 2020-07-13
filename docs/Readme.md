@@ -140,11 +140,18 @@
 - [写给前端的算法进阶指南，我是如何两个月零基础刷200题](https://juejin.im/post/5f05087cf265da22d466f60f)
 - [快速在你的vue/react应用中实现ssr(服务端渲染)](https://juejin.im/post/5efc312ae51d4534aa4aae6c)
 - [进大厂连载 9/15：拿下天猫精灵 P7 Offer](https://juejin.im/post/5f0668fbe51d45347b61a8db)
-
 - [如何用一行 CSS 分别实现 10 种现代布局？](https://juejin.im/post/5f058bef6fb9a07eac0665fb)
 - [AI ❤️ JavaScript, Pipcook 1.0](https://juejin.im/post/5f06c3c85188252e96312fcc?utm_source=gold_browser_extension)
 - [[1.1W字]写给女友的秘籍-浏览器工作原理（渲染流程）篇](https://juejin.im/post/5f05d12a5188252e8406e37b?utm_source=gold_browser_extension)
 - [七个你没用过的炫酷开发工具推荐](https://juejin.im/post/5f06cb23f265da22c96705a0?utm_source=gold_browser_extension)
+
+- [一个 Redux、React Hooks 和 Service Worker 的实践](https://www.chainnews.com/articles/401310476070.htm)
+- [深度广度解析 call 和 apply 原理、使用场景及实现](https://www.colabug.com/2020/0713/7523362/)
+- [在前端如何玩转 Word 文档](https://juejin.im/post/5f0b34f85188252e6c60ec85)
+- [深入源码剖析componentWillXXX为什么UNSAFE](https://mp.weixin.qq.com/s/EyPyX8Noab1q32W_lVrM-g)
+- [从零手写pm-cli脚手架，统一阿里拍卖源码架构](https://juejin.im/post/5f05bca3e51d4534ac1e4f1e)
+- [想拿腾讯Offer？这80道算法高频面试题别漏了](https://www.shangyexinzhi.com/article/2108793.html)
+- [19 个接私活平台汇总升级版，你有技术就有钱](https://www.ershicimi.com/p/c1fb1a28a00f9993cfc8749f14e1541f)
 
 ### Github
 

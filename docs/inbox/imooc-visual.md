@@ -66,7 +66,7 @@ http://www.youbaobao.xyz/data-docs/guide/quide/bmap.html
 
 计算机图形学广泛应用于各个领域，深刻影响和改变着我们的生活。
 
-![image-20200702222305393](https://wsk-mweb.oss-cn-hangzhou.aliyuncs.com/2020-07-02-142307.png)
+![image-20200702222305393](https://wsk-mweb.oss-cn-hangzhou.aliyuncs.com/2020-07-11-083802.jpg)
 
 > http://zhihu.com/question/41468803
 
@@ -87,18 +87,18 @@ http://www.youbaobao.xyz/data-docs/guide/quide/bmap.html
 
 - Excel
 
-  ![image-20200702223641372](https://wsk-mweb.oss-cn-hangzhou.aliyuncs.com/2020-07-02-143642.png)
+  ![截屏2020-07-11 下午4.38.19](https://wsk-mweb.oss-cn-hangzhou.aliyuncs.com/2020-07-11-083841.jpg)
 
 - XMind
   
-  - ![image-20200702223733580](https://wsk-mweb.oss-cn-hangzhou.aliyuncs.com/2020-07-02-143736.png)
+  - ![截屏2020-07-11 下午4.38.53](https://wsk-mweb.oss-cn-hangzhou.aliyuncs.com/2020-07-11-083913.jpg)
 - Visio
   
-- ![image-20200702223832269](https://wsk-mweb.oss-cn-hangzhou.aliyuncs.com/2020-07-02-143835.png)
+- ![截屏2020-07-11 下午4.40.42](https://wsk-mweb.oss-cn-hangzhou.aliyuncs.com/2020-07-11-084102.jpg)
   
 - OmniGraffle
   
-  - ![image-20200702223908964](https://wsk-mweb.oss-cn-hangzhou.aliyuncs.com/2020-07-02-143910.png)
+  - ![截屏2020-07-11 下午4.41.19](https://wsk-mweb.oss-cn-hangzhou.aliyuncs.com/2020-07-11-084138.jpg)
 
 #### 2.3.2 复杂应用
 
@@ -110,12 +110,12 @@ http://www.youbaobao.xyz/data-docs/guide/quide/bmap.html
 **典型应用：**
 
 - 数据大屏
-  - ![image-20200702224050504](https://wsk-mweb.oss-cn-hangzhou.aliyuncs.com/2020-07-02-144052.png)
+  - ![2020-07-11-081900](https://wsk-mweb.oss-cn-hangzhou.aliyuncs.com/2020-07-11-082744.jpg)
 - 数据报表
-  - ![image-20200702224143395](https://wsk-mweb.oss-cn-hangzhou.aliyuncs.com/2020-07-02-144145.png)
+  - ![截屏2020-07-11 下午4.39.28](https://wsk-mweb.oss-cn-hangzhou.aliyuncs.com/2020-07-11-083945.jpg)
 
 - 地图
-  - ![image-20200702224234792](https://wsk-mweb.oss-cn-hangzhou.aliyuncs.com/2020-07-02-144236.png)
+  - ![截屏2020-07-11 下午4.40.01](https://wsk-mweb.oss-cn-hangzhou.aliyuncs.com/2020-07-11-084016.jpg)
 
 ### 2.4 数据可视化发展前景
 
@@ -133,7 +133,7 @@ http://www.youbaobao.xyz/data-docs/guide/quide/bmap.html
 
 前端数据可视化解决方案如下:
 
-![image-20200702225139665](https://wsk-mweb.oss-cn-hangzhou.aliyuncs.com/2020-07-02-145141.png)
+![截屏2020-07-11 下午4.41.58](https://wsk-mweb.oss-cn-hangzhou.aliyuncs.com/2020-07-11-084217.jpg)
 
 #### 3.1.1 Skia
 
@@ -151,7 +151,7 @@ Chrome 使用 Skia 作为绘图引擎，向上层开放了 canvas、svg、WEBGL�
 
 canvas 是 HTML5 的新特性，它允许我们使用 canvas 元素在网页上通过 Javascript 绘制图像。
 
-![image-20200702225717659](https://wsk-mweb.oss-cn-hangzhou.aliyuncs.com/2020-07-02-145719.png)
+![截屏2020-07-11 下午4.42.33](https://wsk-mweb.oss-cn-hangzhou.aliyuncs.com/2020-07-11-084255.jpg)
 
 > 请看Canvas相应的书籍。
 >
@@ -229,21 +229,19 @@ AntV 包括以下解決方案:
 
 系列（series）是指：一组数值映射成对应的图
 
-![image-20200703234721579](https://wsk-mweb.oss-cn-hangzhou.aliyuncs.com/2020-07-03-154723.png)
+![image-20200703234721579](https://wsk-mweb.oss-cn-hangzhou.aliyuncs.com/2020-07-11-084339.jpg)
 
 ### 4.4 Echarts4.0 新特性：dataset
 
 Echarts4 开始支持了数据集（dataset）组件用于单独的数据集声明，从而数据可以单独管理，被多个组件复用，并且可以自由指定数据到视觉的映射。这一特性能将逻辑和数据分离，带来更好的复用，并易于理解。
 
-![image-20200703235510448](https://wsk-mweb.oss-cn-hangzhou.aliyuncs.com/2020-07-03-155512.png)
+![2020-07-11-081930](https://wsk-mweb.oss-cn-hangzhou.aliyuncs.com/2020-07-11-083005.jpg)
 
 ### 4.5 ECharts 基本概念：组件
 
 Echarts 中除了绘图之外其他部分，都可抽象为「组件」。例如，Echarts 中至少有这些组件：
 
-xAxis（直角坐标系 X 轴）、yAxis（直角坐标系 Y 轴）、grid（直角坐标系底板）、angleAxis（极坐标系角度轴）
-
-![image-20200704000240024](https://wsk-mweb.oss-cn-hangzhou.aliyuncs.com/2020-07-03-160241.png)
+xAxis（直角坐标系 X 轴）、yAxis（直角坐标系 Y 轴）、grid（直角坐标系底板）、angleAxis（极坐标系角度轴）![截屏2020-07-11 下午4.36.19](https://wsk-mweb.oss-cn-hangzhou.aliyuncs.com/2020-07-11-083652.jpg)
 
 ### 4.6 ECharts 基本概念：定位
 
