@@ -144,7 +144,6 @@
 - [AI ❤️ JavaScript, Pipcook 1.0](https://juejin.im/post/5f06c3c85188252e96312fcc?utm_source=gold_browser_extension)
 - [[1.1W字]写给女友的秘籍-浏览器工作原理（渲染流程）篇](https://juejin.im/post/5f05d12a5188252e8406e37b?utm_source=gold_browser_extension)
 - [七个你没用过的炫酷开发工具推荐](https://juejin.im/post/5f06cb23f265da22c96705a0?utm_source=gold_browser_extension)
-
 - [一个 Redux、React Hooks 和 Service Worker 的实践](https://www.chainnews.com/articles/401310476070.htm)
 - [深度广度解析 call 和 apply 原理、使用场景及实现](https://www.colabug.com/2020/0713/7523362/)
 - [在前端如何玩转 Word 文档](https://juejin.im/post/5f0b34f85188252e6c60ec85)
@@ -159,6 +158,13 @@
 - [面试！你真的准备好了吗？｜手写API系列梳理](https://juejin.im/post/5ef17e1ce51d457412313e70?utm_source=gold_browser_extension)
 - [基于下一代构建方案落地JOYY业务中台微前端](https://juejin.im/post/5f0c351af265da230d323f8a?utm_source=gold_browser_extension)
 - [史上最强vue总结~万字长文---面试开发全靠它了](https://juejin.im/post/5f0dab7df265da22cc286e70?utm_source=gold_browser_extension)
+- [100行代码实现一个无法删除的水印](https://juejin.im/post/5f12a19e5188252e974f0531?utm_source=gold_browser_extension)
+- [（1.8w字，建议收藏）Vue源码解析—动手实现简化版MVVM](https://juejin.im/post/5f126d476fb9a07e6f7b7e83?utm_source=gold_browser_extension)
+- [Bit + TypeScript + React 最佳实践 - 第三节：bit是如何处理组件之间的依赖的](https://juejin.im/post/5f1287e0e51d45348c1df559?utm_source=gold_browser_extension)
+- [字节前端提前批面试题：触发了几次回流几次重绘](https://juejin.im/post/5f128afa6fb9a07ea7700372?utm_source=gold_browser_extension)
+- [一些看起来很叼难的前端面试题](https://juejin.im/post/5f12509d6fb9a07e8f2ef04b?utm_source=gold_browser_extension)
+- [从零到一，带你彻底搞懂 vite 中的 HMR 原理（源码分析）](https://juejin.im/post/5f0b419ff265da22bf12be56?utm_source=gold_browser_extension)
+- [NodeJS+3D酷炫动画玩转纯手工打造个人博客，不用博客框架](https://juejin.im/post/5f1298da5188252e397eed2f?utm_source=gold_browser_extension#heading-22)
 
 
 
@@ -188,6 +194,6 @@
 
 - 珠峰架构
 - 京程一灯
-- 开课吧 17期
+- 开课吧 20期
 - JavaScript逆向系列课
 
