@@ -165,8 +165,12 @@
 - [一些看起来很叼难的前端面试题](https://juejin.im/post/5f12509d6fb9a07e8f2ef04b?utm_source=gold_browser_extension)
 - [从零到一，带你彻底搞懂 vite 中的 HMR 原理（源码分析）](https://juejin.im/post/5f0b419ff265da22bf12be56?utm_source=gold_browser_extension)
 - [NodeJS+3D酷炫动画玩转纯手工打造个人博客，不用博客框架](https://juejin.im/post/5f1298da5188252e397eed2f?utm_source=gold_browser_extension#heading-22)
+- [Vue、Nuxt服务端渲染、NodeJS全栈项目-面向小白的完美系统](https://github.com/weisuoke/imooc-simple-vue-data-report.git)
 
-
+- [淘系前端：基于 React 打造高自由度的 IDE 布局系统](https://mp.weixin.qq.com/s/csc7x5lw4z0-nFYZpR8KDw)
+- [Vue完美记住滚动条和实现下拉加载](https://juejin.im/post/5ebcb2d6f265da7beb50b458?utm_source=gold_browser_extension)
+- [基于 NestJS 快速搭建 GraphQL 服务](https://juejin.im/post/5f1556c2f265da22be0d964e?utm_source=gold_browser_extension)
+- [命令行解析工具arg.js源码解读](https://juejin.im/post/5f1bc2e06fb9a07ea01a2ceb?utm_source=gold_browser_extension)
 
 ### Github
 
