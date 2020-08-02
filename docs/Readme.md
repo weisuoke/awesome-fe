@@ -180,6 +180,9 @@
 - [算法数据结构：回溯、贪心、动态规划](https://juejin.im/post/6855129007823061006)
 - [玩转经典十大Top10之手撕实现](https://juejin.im/post/6854573220033953806)
 - [个人珍藏的80道多线程并发面试题（1-10答案解析）](https://juejin.im/post/6854573221258199048)
+- [六张图从HTTP/0.9进化到HTTP3.0](https://juejin.im/post/6856036933723521032?utm_source=gold_browser_extension)
+- [试试Taro开发的新姿势，Taro-UI-Vue](https://juejin.im/post/6856361298431737869?utm_source=gold_browser_extension)
+- [从0到1实现自己的前端异常监控SDK](https://juejin.im/post/6856366626750038023?utm_source=gold_browser_extension)
 
 ### Github
 
