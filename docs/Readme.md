@@ -195,6 +195,7 @@
 - [三万字，100张图，1个小时，带后端的同学整体了解 vue 前端架构](https://juejin.im/post/6858504329251258382?utm_source=gold_browser_extension)
 - [前端页面可视化搭建工具业界的轮子](https://juejin.im/post/6858881797490098190?utm_source=gold_browser_extension)
 - [从 0 到 1 node 项目管理系统：搭建基础平台（中）](https://juejin.im/post/6858847833467371534?utm_source=gold_browser_extension)
+- [typescript实战总结之实现一个互联网黑白墙](https://juejin.im/post/6859292592195158030)
 
 ### Github
 
