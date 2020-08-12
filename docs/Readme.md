@@ -196,6 +196,9 @@
 - [前端页面可视化搭建工具业界的轮子](https://juejin.im/post/6858881797490098190?utm_source=gold_browser_extension)
 - [从 0 到 1 node 项目管理系统：搭建基础平台（中）](https://juejin.im/post/6858847833467371534?utm_source=gold_browser_extension)
 - [typescript实战总结之实现一个互联网黑白墙](https://juejin.im/post/6859292592195158030)
+- [能解决 80% 需求的 10个 CSS动画库!](https://juejin.im/post/6859713431755784205?utm_source=gold_browser_extension)
+- [编写高质量可维护的代码：优化逻辑判断](https://juejin.im/post/6859125809655840776?utm_source=gold_browser_extension)
+- [想知道如何高效读懂 Webpack 源码, 然后吊打面试官? 那就进来吧.](https://juejin.im/post/6859934359638507534?utm_source=gold_browser_extension)
 
 ### Github
 
