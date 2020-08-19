@@ -211,10 +211,9 @@
 - [吐血整理的前端代码规范系列 -- css规范](https://juejin.im/post/6862187926849159182?utm_source=gold_browser_extension)
 - [从图片裁剪来聊聊前端二进制](https://juejin.im/post/6862156294611009544?utm_source=gold_browser_extension)
 - [React Router v6 使用指南](https://juejin.im/post/6862305213148381198?utm_source=gold_browser_extension)
-
-
-
-https://lichuanoss.oss-cn-shenzhen.aliyuncs.com/wuxiao/2020-08-15-mien2-nav1.png
+- [前端监控平台系列：JS SDK（已开源）](https://juejin.im/post/6862559324632252430?utm_source=gold_browser_extension)
+- [React 17 要来了，非常特别的一版](https://juejin.im/post/6862493682252283912?utm_source=gold_browser_extension)
+- [如何用 Typescript 写一个完整的 Vue 应用程序](https://juejin.im/post/6860703641037340686?utm_source=gold_browser_extension)
 
 ### Github
 
