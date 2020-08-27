@@ -10,7 +10,7 @@ npm run build
 cd ./dist
 
 # 如果是发布到自定义域名
-# echo 'awesome-fe.weisuoke.com' > CNAME
+echo 'awesome-fe.weisuoke.com' > CNAME
 
 git init
 git add -A
