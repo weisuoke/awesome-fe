@@ -220,6 +220,8 @@
 - [「面经」你可能需要的三轮网易面经](https://juejin.im/post/6862855292577644552?utm_source=gold_browser_extension)
 - [JS引擎（一）：JS中的JIT与基本执行逻辑](https://juejin.im/post/6863269040300032008?utm_source=gold_browser_extension)
 - [【Flutter学习总结】从0到1，到开发四个Flutter项目，为期10个月，分享学习总结](https://juejin.im/post/6863353616473063437?utm_source=gold_browser_extension)
+- [前端进阶必经之路（一）：1.2w字深入理解JavaScript26个核心概念](https://juejin.im/post/6865184344990810126?utm_source=gold_browser_extension)
+- [Node 在 Controller 层如何校验数据合法性](https://juejin.im/post/6865802427098988551?utm_source=gold_browser_extension)
 
 ### Github
 
@@ -232,21 +234,4 @@
 - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 
 
-
-### 视频教程
-
-#### 慕课网
-
-- Typescript+ React 高仿 Antd 从零到一打造自己的组件库
-- Vue Element+ Node.js 开发企业通用管理后台系统
-- 基于TypeScript从零重构axios
-- ReactNative+ Typescript 仿喜马拉雅开发 App
-- 数据可视化入门到精通一打造前端差异化竞争力
-
-#### 系列课程
-
-- 珠峰架构
-- 京程一灯
-- 开课吧 20期
-- JavaScript逆向系列课
 
