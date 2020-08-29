@@ -222,6 +222,9 @@
 - [【Flutter学习总结】从0到1，到开发四个Flutter项目，为期10个月，分享学习总结](https://juejin.im/post/6863353616473063437?utm_source=gold_browser_extension)
 - [前端进阶必经之路（一）：1.2w字深入理解JavaScript26个核心概念](https://juejin.im/post/6865184344990810126?utm_source=gold_browser_extension)
 - [Node 在 Controller 层如何校验数据合法性](https://juejin.im/post/6865802427098988551?utm_source=gold_browser_extension)
+- [从头开始，彻底理解服务端渲染原理(8千字汇总长文)](https://zhuanlan.zhihu.com/p/164493894)
+- [跨平台文件在线预览解决方案（二）](https://juejin.im/post/6864430135135698957?utm_source=gold_browser_extension)
+- [vue3项目--让我们更快开发vue（一）](https://juejin.im/post/6865842981618843656?utm_source=gold_browser_extension)
 
 ### Github
 
