@@ -227,7 +227,10 @@
 - [vue3项目--让我们更快开发vue（一）](https://juejin.im/post/6865842981618843656?utm_source=gold_browser_extension)
 - [Node.js日志神器（winston）](https://juejin.im/post/6865926810061045774?utm_source=gold_browser_extension)
 - [如何搭建一个属于自己的脚手架](https://juejin.im/post/6866435508487225358?utm_source=gold_browser_extension)
-- [【译】6种方式秀出你的代码](https://juejin.im/post/6865870226534514695?utm_source=gold_browser_extension)
+- [全栈开发必备技能：构建RESTful API的13种最佳实践](https://juejin.im/post/6866414204715597831?utm_source=gold_browser_extension)
+- [基于Vue实现一个有点意思的拼拼乐小游戏](https://juejin.im/post/6866802944697139213?utm_source=gold_browser_extension)
+
+
 
 
 
