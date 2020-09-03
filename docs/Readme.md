@@ -234,6 +234,13 @@
 - [22+ 高频实用的 JavaScript 片段 （2020年）](https://juejin.im/post/6867299629436764167?utm_source=gold_browser_extension)
 - [如何设计一个JavaScript插件系统，编程思维比死磕API更重要](https://juejin.im/post/6867335238905921543?utm_source=gold_browser_extension)
 - [「一劳永逸」48张小图带你领略flex布局之美](https://juejin.im/post/6866914148387651592?utm_source=gold_browser_extension)
+- [首个 Vue 3 组件库发布](https://juejin.im/post/6867515263672123399?utm_source=gold_browser_extension)
+- [Webpack漫谈](https://juejin.im/post/6867797346550284296?utm_source=gold_browser_extension)
+- [云音乐 React Native 体系建设与发展](https://juejin.im/post/6867722436369416206?utm_source=gold_browser_extension)
+- [vue3.0/vite/typescript 重写upload组件](https://juejin.im/post/6867716120087003144?utm_source=gold_browser_extension)
+- [Gitlab-ci: 从零开始的前端自动化部署](https://mp.weixin.qq.com/s/NH6EzRgFrhS6z2jYnI2E2Q)
+- [手把手教你如何实现大量图片的自适应图片页面的排列](https://mp.weixin.qq.com/s/bgJEQPaG8ufUC-6QhHEfXw)
+- [BetterScroll 2.0 发布：精益求精，与你同行](https://juejin.im/post/6868086607027650573?utm_source=gold_browser_extension#heading-7)
 
 ### Github
 
