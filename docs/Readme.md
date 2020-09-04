@@ -246,6 +246,8 @@
 - [如何设计低代码平台快速构建页面 | (200+页面)](https://juejin.im/post/6855579207448133646?utm_source=gold_browser_extension)
 - [教你使用CSS3实现新拟态UI](https://juejin.im/post/6868099832175820808?utm_source=gold_browser_extension)
 - [推荐一款强大的前端CLI命令行工具](https://juejin.im/post/6868086704960438280?utm_source=gold_browser_extension)
+- [Umi@3.0+Ts+Antd@4.0从零搭建后台项目工程](https://juejin.im/post/6868164601201033230?utm_source=gold_browser_extension)
+- [vue3.0+vite+TypeScript 初体验](https://juejin.im/post/6868167869436264461?utm_source=gold_browser_extension)
 
 ### Github
 
