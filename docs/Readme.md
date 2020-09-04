@@ -241,6 +241,11 @@
 - [Gitlab-ci: 从零开始的前端自动化部署](https://mp.weixin.qq.com/s/NH6EzRgFrhS6z2jYnI2E2Q)
 - [手把手教你如何实现大量图片的自适应图片页面的排列](https://mp.weixin.qq.com/s/bgJEQPaG8ufUC-6QhHEfXw)
 - [BetterScroll 2.0 发布：精益求精，与你同行](https://juejin.im/post/6868086607027650573?utm_source=gold_browser_extension#heading-7)
+- [你还在为项目里的重复请求发愁吗?](https://juejin.im/post/6868530321776705544?utm_source=gold_browser_extension)
+- [2020年你应该了解的23个极为有用的NodeJS库](https://juejin.im/post/6868616801513799687?utm_source=gold_browser_extension)
+- [如何设计低代码平台快速构建页面 | (200+页面)](https://juejin.im/post/6855579207448133646?utm_source=gold_browser_extension)
+- [教你使用CSS3实现新拟态UI](https://juejin.im/post/6868099832175820808?utm_source=gold_browser_extension)
+- [推荐一款强大的前端CLI命令行工具](https://juejin.im/post/6868086704960438280?utm_source=gold_browser_extension)
 
 ### Github
 
