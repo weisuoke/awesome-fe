@@ -248,6 +248,13 @@
 - [推荐一款强大的前端CLI命令行工具](https://juejin.im/post/6868086704960438280?utm_source=gold_browser_extension)
 - [Umi@3.0+Ts+Antd@4.0从零搭建后台项目工程](https://juejin.im/post/6868164601201033230?utm_source=gold_browser_extension)
 - [vue3.0+vite+TypeScript 初体验](https://juejin.im/post/6868167869436264461?utm_source=gold_browser_extension)
+- [React17新特性：启发式更新算法](https://zhuanlan.zhihu.com/p/182411298)
+- [尺取法---解决带关键字："连续、最、子"问题---Javascript实现](https://juejin.im/post/6869289036503056398?utm_source=gold_browser_extension)
+- [搭建 umi + qiankun + antd 的微前端平台](https://juejin.im/post/6869220236886245383?utm_source=gold_browser_extension)
+- [vue+node.js手把手教你搭建一个直播平台（前言+准备工作）](https://juejin.im/post/6868898254156333069?utm_source=gold_browser_extension)
+- [一次性解决Promise所有面试题](https://juejin.im/post/6868898917950423054?utm_source=gold_browser_extension)
+
+
 
 ### Github
 
