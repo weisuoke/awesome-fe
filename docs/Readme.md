@@ -229,7 +229,6 @@
 - [如何搭建一个属于自己的脚手架](https://juejin.im/post/6866435508487225358?utm_source=gold_browser_extension)
 - [全栈开发必备技能：构建RESTful API的13种最佳实践](https://juejin.im/post/6866414204715597831?utm_source=gold_browser_extension)
 - [基于Vue实现一个有点意思的拼拼乐小游戏](https://juejin.im/post/6866802944697139213?utm_source=gold_browser_extension)
-
 - [Vite: 如何不使用 webpack 开发应用](https://juejin.im/post/6867043707506409480?utm_source=gold_browser_extension)
 - [22+ 高频实用的 JavaScript 片段 （2020年）](https://juejin.im/post/6867299629436764167?utm_source=gold_browser_extension)
 - [如何设计一个JavaScript插件系统，编程思维比死磕API更重要](https://juejin.im/post/6867335238905921543?utm_source=gold_browser_extension)
@@ -253,8 +252,8 @@
 - [搭建 umi + qiankun + antd 的微前端平台](https://juejin.im/post/6869220236886245383?utm_source=gold_browser_extension)
 - [vue+node.js手把手教你搭建一个直播平台（前言+准备工作）](https://juejin.im/post/6868898254156333069?utm_source=gold_browser_extension)
 - [一次性解决Promise所有面试题](https://juejin.im/post/6868898917950423054?utm_source=gold_browser_extension)
-
-
+- [Angular真有React开发人员讲得那么差劲？](https://zhuanlan.zhihu.com/p/214053025)
+- [[Web翻译]使用Web组件构建您的下一个设计系统](https://juejin.im/post/6870035681398718477?utm_source=gold_browser_extension)
 
 ### Github
 
