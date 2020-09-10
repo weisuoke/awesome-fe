@@ -255,6 +255,7 @@
 - [Angular真有React开发人员讲得那么差劲？](https://zhuanlan.zhihu.com/p/214053025)
 - [[Web翻译]使用Web组件构建您的下一个设计系统](https://juejin.im/post/6870035681398718477?utm_source=gold_browser_extension)
 - [【解决方案】智能UI自动化测试](https://juejin.im/post/6870066538221666311?utm_source=gold_browser_extension)
+- [他写出了 Vue，却做不对这十道 Vue 笔试题](https://juejin.im/post/6870737289736093710?utm_source=gold_browser_extension)
 
 ### Github
 
