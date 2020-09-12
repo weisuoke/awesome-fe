@@ -256,6 +256,9 @@
 - [[Web翻译]使用Web组件构建您的下一个设计系统](https://juejin.im/post/6870035681398718477?utm_source=gold_browser_extension)
 - [【解决方案】智能UI自动化测试](https://juejin.im/post/6870066538221666311?utm_source=gold_browser_extension)
 - [他写出了 Vue，却做不对这十道 Vue 笔试题](https://juejin.im/post/6870737289736093710?utm_source=gold_browser_extension)
+- [一个“不需要”写代码 的 mock & 代理 工具](https://juejin.im/post/6871592049485807630?utm_source=gold_browser_extension)
+- [让你的前端组件混沌一下？](https://juejin.im/post/6871114023849426952?utm_source=gold_browser_extension)
+- [Docker+Nginx+Jenkins实现前端自动化部署](https://juejin.im/post/6869736425953165319?utm_source=gold_browser_extension)
 
 ### Github
 
