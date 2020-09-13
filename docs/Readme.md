@@ -259,6 +259,8 @@
 - [一个“不需要”写代码 的 mock & 代理 工具](https://juejin.im/post/6871592049485807630?utm_source=gold_browser_extension)
 - [让你的前端组件混沌一下？](https://juejin.im/post/6871114023849426952?utm_source=gold_browser_extension)
 - [Docker+Nginx+Jenkins实现前端自动化部署](https://juejin.im/post/6869736425953165319?utm_source=gold_browser_extension)
+- [微信小程序仿网易云音乐有关实时搜索功能（细节+优化）](https://juejin.im/post/6871866332770467854?utm_source=gold_browser_extension)
+- [基于 Egg.js 一步步搭建微信网关（一）](https://juejin.im/post/6871889924480565255?utm_source=gold_browser_extension)
 
 ### Github
 
