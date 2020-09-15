@@ -261,6 +261,9 @@
 - [Docker+Nginx+Jenkins实现前端自动化部署](https://juejin.im/post/6869736425953165319?utm_source=gold_browser_extension)
 - [微信小程序仿网易云音乐有关实时搜索功能（细节+优化）](https://juejin.im/post/6871866332770467854?utm_source=gold_browser_extension)
 - [基于 Egg.js 一步步搭建微信网关（一）](https://juejin.im/post/6871889924480565255?utm_source=gold_browser_extension)
+- [浅析鸿蒙 JavaScript GUI 技术栈](https://zhuanlan.zhihu.com/p/240594356)
+- [总是做些没什么技术含量的运营活动开发怎么办？](https://juejin.im/post/6872655593354559495?utm_source=gold_browser_extension)
+- [一份不可多得的 TS 学习指南（1.8W字）](https://juejin.im/post/6872111128135073806?utm_source=gold_browser_extension)
 
 ### Github
 
