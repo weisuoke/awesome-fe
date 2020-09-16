@@ -264,6 +264,13 @@
 - [浅析鸿蒙 JavaScript GUI 技术栈](https://zhuanlan.zhihu.com/p/240594356)
 - [总是做些没什么技术含量的运营活动开发怎么办？](https://juejin.im/post/6872655593354559495?utm_source=gold_browser_extension)
 - [一份不可多得的 TS 学习指南（1.8W字）](https://juejin.im/post/6872111128135073806?utm_source=gold_browser_extension)
+- [逐行分析鸿蒙系统的 JavaScript 框架](https://juejin.im/post/6872639403102208014?utm_source=gold_browser_extension)
+- [前端一键自动部署工具🛠](https://juejin.im/post/6872914108979609614?utm_source=gold_browser_extension)
+- [关于 JavaScript 错误处理的最完整指南](https://juejin.im/post/6872867757407338509?utm_source=gold_browser_extension)
+- [项目实战-埋点系统初探](https://juejin.im/post/6872398266642726926?utm_source=gold_browser_extension)
+- [Antlr4 前端应用与实践](https://juejin.im/post/6872931804362309640?utm_source=gold_browser_extension)
+- [Flutter 快速上手，秒变大前端](https://juejin.im/post/6872526285654982663?utm_source=gold_browser_extension)
+- [蒲公英 · JELLY技术周刊 Vol.22: npm i react-router@6.0.0-beta.0](https://juejin.im/post/6872896296307392519?utm_source=gold_browser_extension)
 
 ### Github
 
