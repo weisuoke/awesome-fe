@@ -271,6 +271,8 @@
 - [Antlr4 前端应用与实践](https://juejin.im/post/6872931804362309640?utm_source=gold_browser_extension)
 - [Flutter 快速上手，秒变大前端](https://juejin.im/post/6872526285654982663?utm_source=gold_browser_extension)
 - [蒲公英 · JELLY技术周刊 Vol.22: npm i react-router@6.0.0-beta.0](https://juejin.im/post/6872896296307392519?utm_source=gold_browser_extension)
+- [lodash源码解析：reject、remove、repeat、replace、result、round](https://juejin.im/post/6873776068055007245?utm_source=gold_browser_extension)
+- [傻瓜式教程：使用Vue和Electron构建Markdown预览器](https://juejin.im/post/6873817361632198664?utm_source=gold_browser_extension)
 
 ### Github
 
