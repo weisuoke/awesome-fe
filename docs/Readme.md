@@ -273,6 +273,7 @@
 - [蒲公英 · JELLY技术周刊 Vol.22: npm i react-router@6.0.0-beta.0](https://juejin.im/post/6872896296307392519?utm_source=gold_browser_extension)
 - [lodash源码解析：reject、remove、repeat、replace、result、round](https://juejin.im/post/6873776068055007245?utm_source=gold_browser_extension)
 - [傻瓜式教程：使用Vue和Electron构建Markdown预览器](https://juejin.im/post/6873817361632198664?utm_source=gold_browser_extension)
+- [高亮：单关键词、多关键词、多组多关键词，从简单到复杂实现满足多方面需求的页面关键词高亮](https://juejin.im/post/6844903747944972295#heading-0)
 
 ### Github
 
