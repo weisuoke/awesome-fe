@@ -274,6 +274,16 @@
 - [lodash源码解析：reject、remove、repeat、replace、result、round](https://juejin.im/post/6873776068055007245?utm_source=gold_browser_extension)
 - [傻瓜式教程：使用Vue和Electron构建Markdown预览器](https://juejin.im/post/6873817361632198664?utm_source=gold_browser_extension)
 - [高亮：单关键词、多关键词、多组多关键词，从简单到复杂实现满足多方面需求的页面关键词高亮](https://juejin.im/post/6844903747944972295#heading-0)
+- [打破云和端的那堵墙，Midway Serverless 带你感受云端一体应用研发](https://mp.weixin.qq.com/s/mEa-w8yw03c5tj6e5Mdu_Q)
+- [《一年顶十年》干货读书笔记](https://mp.weixin.qq.com/s/9cDxdnyAa4WBJBjqdnfZsg)
+- [5000字 | 24张图带你彻底理解Java中的21种锁](https://mp.weixin.qq.com/s/1cWszX8MWXq_XNMXNyeDMg)
+- [vivo商城前端架构升级-总览篇](https://mp.weixin.qq.com/s/vD9yvYNaxTQBLABik6aqNg)
+- [接口调度者——API 网关](https://mp.weixin.qq.com/s/f7OaxwK0xvaVc4TK3d0f6Q)
+- [写一个通用的幂等组件，我觉得很有必要](https://mp.weixin.qq.com/s/9fhqnbeXPz7-7x0Eadd8DA)
+- [TRPG Engine —— 一款专为跑团而生的即时通讯软件 Typescript + React + React Native](https://www.v2ex.com/t/708243#reply3)
+- [从交通视频中提取车辆轨迹的项目正式发布啦 (代码 + 文档)](https://www.v2ex.com/t/707713#reply14)
+- [ **Easy-Monitor 3.0 开源 - 基于 Addon 的 Node.js 性能监控解决方案**](https://cnodejs.org/topic/5ee1ee83b703280f0bcb922a)
+- [**Node.js 在企业中的应用实践集锦 - 2020 年中汇总**](https://cnodejs.org/topic/5efb4c5d13f8b244e57cc632)
 
 ### Github
 
