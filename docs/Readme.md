@@ -318,6 +318,7 @@
 - [前端插件化架构的探索和实践](https://mp.weixin.qq.com/s?__biz=Mzg4MzE2MzY1OA==&mid=2247485081&idx=1&sn=aaf43d2b82145a9c07c94ae6d024654e&chksm=cf4ad1fcf83d58ea7e77b359e2e4c19d52d8f18d80ad3c23c8f7f950f10efc1d326270e0279e&token=948623849&lang=zh_CN#rd)
 - [爱奇艺全链路压测探索与实践](https://mp.weixin.qq.com/s/BhaDdnOxvTcp7-xSU_UvhA)
 - [基于NodeJS从零构建线上自动化打包工作流（H5-Dooring特别版）](https://juejin.im/post/6875120334602371085)
+- [手把手教姐姐写消息队列](https://mp.weixin.qq.com/s/0MykGst1e2pgnXXUjojvhQ)
 
 ### Github
 
