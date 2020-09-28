@@ -353,7 +353,11 @@
 - [【第2077期】过去的未来：成为用户体验设计师](https://mp.weixin.qq.com/s/MtCuXoeYocOyrvfl5TNTyQ)
 - [写好 JS 条件语句的 5 条守则](https://mp.weixin.qq.com/s/q6R2UCnRrdep_JEcU4bq8g)
 - [简单又好用的前端深色模式和主题化开发方案](https://mp.weixin.qq.com/s/yMov0wBCzNfKyOjeJKsD8Q)
-- 
+- [不用try catch，如何机智的捕获错误](https://mp.weixin.qq.com/s/ne7Ts5fagf6xFq7mNhr2ng)
+- [【第2078期】iframe 接班人-微前端框架 qiankun 在中后台系统实践](https://mp.weixin.qq.com/s/duUxw82DizU15vqRrL_iOw)
+- [程序员的开源月刊：HelloGitHub（第 54 期）](https://mp.weixin.qq.com/s/63UizEeFMi_QDv-E3aJIjQ)
+- [从 React 历史的长河里聊虚拟DOM及其价值](https://mp.weixin.qq.com/s/6P4ev_XoXEmeXxW2HSpWfQ)
+- [「译」更快的 async 函数和 promises](https://mp.weixin.qq.com/s/MoaqqcOwR5PYDWWEOO1X6A)
 
 ### Github
 
