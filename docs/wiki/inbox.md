@@ -1,4 +1,12 @@
-## 待归档
+---
+nav:
+  title: Wiki
+  order: 99
+title: Inbox
+order: 2
+---
+
+# Inbox
 
 ### 名词
 
@@ -53,7 +61,10 @@
 - 一个校验数据合法的轮子
 - 前端人工智能？TensorFlow.js 学会游戏通关
 - 在React中引入Vue3的reactivity分包来实现最强大的状态管理。
-  
+- 自己写一个babel插件，把jsx转换成js
+- 不用babel，自己实现这个分词和转换和遍历
+- 实现一个虚拟DOM，把虚拟DOM转换成HTML。虚拟 DOM 转换 HTML，是广度优先还是深度优先？
+
 ### 原理
 
 - React-Redux 100行代码简易版探究原理。（面试热点，React Hook + TypeScript实现）
@@ -78,4 +89,62 @@
 - 硬核开源，使用 react-hooks 手写 ant-design-pro，搭配 node 完整api
 - 重拳出击：打造 Vue3.0 + Typescript + TSX 开(乞)发(丐)模式
 - 如何在Vue中使用lottie加载SVG动画
-- [13道http面试题，你能否接住](https://juejin.im/post/5e8d2eadf265da47ec762d7b)
+- 13道http面试题，你能否接住
+
+
+
+## 前端分享者
+
+### 掘金
+
+- [刘小夕](https://juejin.im/user/5c6256596fb9a049bd42c770)
+- [苏里](https://juejin.im/user/582d3b450ce463006ce6d4e9)
+- [前端早早聊](https://juejin.im/user/5790c76dc4c9710054f0f58b/posts)
+- [shanyue](https://juejin.im/user/56a34361816dfa005925a654/posts)
+- [晨曦时梦见兮](https://juejin.im/user/5b13f11d5188257da1245183/posts)
+- [神奇的程序员](https://juejin.im/user/5cbbe37c51882532c334c324/posts)
+- [前端瓶子君](https://juejin.im/user/5c8f1c6b5188252d65343ff4)
+- [descire](https://juejin.im/user/57c5ae26c4c9710061a1defc)
+- [Colafornia](https://juejin.im/user/5757aa66a341310061239f33/posts)
+- [徐小夕](https://juejin.im/user/5b985481f265da0a87264251)
+- [axuebin](https://juejin.im/user/574f910b207703005cd8686a/posts)
+- [前端劝退师](https://juejin.im/user/57bd1bdfd342d3006bf76a52)
+- [阿宝哥](https://juejin.im/user/764915822103079)
+
+### 知乎
+
+- [kuitos 的后脑勺](https://zhuanlan.zhihu.com/kuitos)
+- 颜海镜的博客
+
+## 前端 Github
+
+### General
+
+- [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate)
+- [RealWorld](https://github.com/gothinkster/realworld)
+- [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS)
+- [Airbnb JavaScript Guide](https://github.com/airbnb/javascript)
+- [Storybook](https://github.com/storybookjs/storybook)
+- [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+
+### Node
+
+- [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices)
+
+### 动画库
+
+- [Spirit](https://spiritapp.io/)
+- [mojs](https://github.com/mojs/mojs) The motion graphics toolbelt for the web.
+
+- [zz85/timeliner](https://github.com/zz85/timeliner) simple javascript timeline library for animation and prototyping
+
+- [mattdesl/keytime](https://github.com/mattdesl/keytime) [EXPERIMENT] keyframe animation tools
+
+- [mrdoob/frame.js](https://github.com/mrdoob/frame.js) JavaScript Animation Framework
+
+- [Sprite3D.js](http://minimal.be/lab/Sprite3D/) a small library for generating and manipulating CSS 3D transforms
+
+- [Dwitter](https://www.dwitter.net/)
+
+- [airbnb/lottie-web](https://github.com/airbnb/lottie-web)
+

@@ -1,3 +1,11 @@
+---
+nav:
+  title: Wiki
+  order: 99
+title: Wiki
+order: 1
+---
+
 # Awesome front-end develop
 
 ## Inbox
@@ -11,15 +19,11 @@
 - [一文读懂base64编码](https://juejin.im/post/5edc2c3d518825433e1fb86a?utm_source=gold_browser_extension)
 - [如何实现高性能的在线 PDF 预览](https://juejin.im/post/5ed3974ae51d45784d7ca7a5?utm_source=gold_browser_extension)
 - [269个常用工具函数助你提升工作效率](https://segmentfault.com/a/1190000022858798)
-- 单点登录的实现
-  - [**单点登录的三种实现方式**](https://cnodejs.org/topic/55f6e69904556da7553d20dd)
-  - [nodejs-sso-example](https://github.com/hezhii/nodejs-sso-example)
 - [NutUI 视频组件开发心得](https://juejin.im/post/5ed9ac676fb9a047cd65c9c6)
 - [用 TypeScript 从零实现 Popup 组件并发布到 npm](https://mp.weixin.qq.com/s/4QuKM9U2lFVkXdOOE0y6Yg)
 - [小蝌蚪日记：通过console.log高仿FBI Warning](https://mp.weixin.qq.com/s/h4RiEq8GdN1MGofYw8zQnA)
 - [前端福音：为什么使用React和SVG开发图形UI是天作之合？](https://mp.weixin.qq.com/s/5duP-rnZISMcOpu6kf9nCA)
 - [10个实用的JS技巧](https://mp.weixin.qq.com/s/QQp3GTUvnwn_cunmaqDwTg)
-- [你不知道的 Blob](https://mp.weixin.qq.com/s/ismyY2EOUMwFqBuen5EUUg)
 - [1.2W字 | 了不起的 TypeScript 入门教程](https://juejin.im/post/5edd8ad8f265da76fc45362c)
 - [2020年这些🍔"正则"应该被收藏(更新, 63条)](https://juejin.im/post/5edd89936fb9a047970688a8)
 - [看到赚到！重读vue2.0风格指南，我整理了这些关键规则](https://juejin.im/post/5edafece51882542e3023545)
@@ -337,102 +341,266 @@
 - [Javascript 多线程编程的前世今生](https://mp.weixin.qq.com/s/87C9GAFb0Y_i5iPbIL5Hzg)
 
 - [我对JS延迟异步脚本的思考](https://mp.weixin.qq.com/s/DAIU48epCOMSlmRRBAn9sg)
+
 - [利用VS Code进行远程开发，就问你香不香？](https://mp.weixin.qq.com/s/ZDVYk188oPLugRI6oeVYIQ)
+
 - [关于Redis缓存，这三个问题一定要知道！](https://mp.weixin.qq.com/s/hwv75q5iT_C_UgeeScccxA)
+
 - [苏宁的Node.js实践：不低于Java的渲染性能、安全稳定迭代快](https://mp.weixin.qq.com/s/qQJ4j1JvsHabf6cx1f2H-Q)
+
 - [java学习原理篇|如何学习使用一个新工具](https://mp.weixin.qq.com/s/7iH0b4wpoN2j4ADZNMxLxg)
+
 - [vhost：一种 virtio 高性能的后端驱动实现](https://cloud.tencent.com/developer/article/1075600)
+
 - [成为最差前端开发的10个建议](https://mp.weixin.qq.com/s/hdSC0zygcrTdqGUzBQ_ywA)
+
 - [快速学会新东西，最重要的一点诀窍](https://mp.weixin.qq.com/s/oQWPya36PK5Wv6BKSQ-ZgQ)
+
 - [谈谈工程师的成长密码](https://mp.weixin.qq.com/s/fQlbPf6-rZW8cMwmejYsNA)
+
 - [Facebook 新一代 React 状态管理库 Recoil](https://mp.weixin.qq.com/s/CK8jcN4tVrOw_lx5MHSr6Q)
+
 - [2020前端30K知识清单-国庆都结束了，赶紧充电学习!](https://mp.weixin.qq.com/s/eH7kCvqON7yqs0Y-A4h_8g)
+
 - [《我想进大厂》之Redis夺命连环11问](https://mp.weixin.qq.com/s/4LdLgDmSH84WE_cxN6SmAw)
+
 - [图解常见的九种设计模式](https://mp.weixin.qq.com/s/-jpIitC1j3geciJzkuexdA)
+
 - [姐姐问我什么是变基操作(git-rebase)](https://mp.weixin.qq.com/s/h_W3Sjx4tzyNt3tB_F9jhg)
+
 - [国庆八天教你怎么写出一个钢琴](https://mp.weixin.qq.com/s/SV_xXZ7yszHYrz4p8alVAw)
+
 - [前端一键自动部署工具🛠 v1.2.0（支持集群部署） 更新咯](https://juejin.im/post/6880792496444538887)
+
 - [【面试说】一年半前端 Bigo 一二三 面](https://juejin.im/post/6880028535101227021#heading-10)
+
 - [技术胖的 TypeScript免费视频图文教程（2W字）](https://juejin.im/post/6876240277208563720)
+
 - [webpack优化方案 | 实践总结](https://juejin.im/post/6880487034130169869)
+
 - [「面试」拿到B站的意向书](https://juejin.im/post/6879726910373380109)
+
 - [手写Promise源码深入了解其原理](https://juejin.im/post/6880536806715686919)
+
 - [Typescript 在 Vue 中的实践(包含2.x、3.x)](https://mp.weixin.qq.com/s/KLGmfsRjH104ccVADOVt8w)
+
 - [在 JavaScript 中使用 Promises 时最常见的 3 个错误](https://mp.weixin.qq.com/s/3Q03XSYyH0rpjUEYKDg6qg)
+
 - [【第2081期】理解ECMAScript规范（三）](https://mp.weixin.qq.com/s/WpsMJe7rPkjFpyF1eKiouA)
+
 - [Nginx + SpringBoot 实现负载均衡。](https://mp.weixin.qq.com/s/hdjZk3P49zwvlHck3m44gQ)
+
 - [5000字！带你零距离接触websocket！](https://mp.weixin.qq.com/s/ui29QjnulMhnaFB0x4sCVw)
+
 - [一套代码、多端运行，Flutter是如何实现的？](https://mp.weixin.qq.com/s/gd7r_HKHuZqcsu4QKW6ZEA)
+
 - [使用Sentinel对Spring MVC接口进行限流](https://mp.weixin.qq.com/s/Ayk1pOnOnClguB5QUvJHLg)
+
 - [高性能解决线程饥饿的利器 StampedLock](https://mp.weixin.qq.com/s/vwvcgBPOnW7M2GrgVDDdGg)
+
 - [JavaScript 里的奇葩知识](https://mp.weixin.qq.com/s/rQ3bFYxQYDNes1eJWl6zwg)
+
 - [阿里云研究员叔同：Serverless 正当时！](https://mp.weixin.qq.com/s/wmIdltVRgiwvRpylqKJ1sg)
+
 - [Chrome 87 开发者工具新特性【你好骚哦】](https://mp.weixin.qq.com/s/0zhacWh628aWQ1lmxyDVDA)
+
 - [聊一聊前端性能优化 CRP](https://mp.weixin.qq.com/s/8SZlGbtvSzA25oXkqX_u5w)
+
 - [2021年，Vue会变成什么样？](https://mp.weixin.qq.com/s/1vscBQ2USYdk-iNS0mev-g)
+
 - [一些小众却有用的 Node.js 包](https://mp.weixin.qq.com/s/yeGZPxhdcaL8TC2FmSVjMw)
+
 - [「译」更快的 async 函数和 promises](https://mp.weixin.qq.com/s/pPMdQzq8JvSIaGQ8pzLeGw)
+
 - [JS模拟监控页面FPS帧率](https://mp.weixin.qq.com/s/W1Dbl0Wtv5IVnfwwHkjARg)
+
 - [RabbitMQ 七战 Kafka，差异立现！](https://mp.weixin.qq.com/s/-JGGa-DaN06VVLahCbjaXA)
+
 - [仅需四步，写一个 Spring Boot Starter](https://mp.weixin.qq.com/s/F2yCeKmiCAzww9MWmiO0Gg)
+
 - [LinkedList 真的是查找慢增删快？刷新你的认知！](https://mp.weixin.qq.com/s/zxqczUZUwNaAkTwPoW5CnA)
+
 - [「面试」破(B)站之旅](https://mp.weixin.qq.com/s/bphAkNyPYwKexUGoGI8s1g)
+
 - [一文搞懂Node.js以及浏览器中的事件循环机制](https://mp.weixin.qq.com/s/jVf4u2LyT8CYmsPfzTiIIw)
+
 - [老司机给我们解读 Spring Boot 最流行的 16 条实践忠告](https://mp.weixin.qq.com/s/OLk_ALbHiw0ohoIIfOr-2g)
+
 - [前端赋能业务：Node实现自动化部署平台](https://mp.weixin.qq.com/s/YQD2W7h5WcGugIOVOd3lGg)
+
 - [面试造核弹：细数那些有毒的开发岗位描述](https://mp.weixin.qq.com/s/3DyeBvs57wmbx9b81fBZuQ)
+
 - [奇舞周刊第 367 期：Node.js v14.13.0 发布](https://mp.weixin.qq.com/s/6byGV9gIsvoR5Dl-IsAMlQ)
+
 - [教程 | 在华为鸿蒙OS上尝鲜，第一个“hello world”](https://mp.weixin.qq.com/s/oH-5TBr2rqI1IM4z3dKJqw)
+
 - [大型前端项目的断点调试共享化和复用化实践](https://mp.weixin.qq.com/s/XfSfwNTniJLke8c9pQ5R4w)
+
 - [LeetCode 第 209 场周赛 解题报告](https://mp.weixin.qq.com/s/SctLxAL2FVHjK-bz3oka_w)
+
 - [终于找到了一款我喜欢的安装和管理 Go 版本的工具](https://mp.weixin.qq.com/s/yTblk9Js1Zcq5aWVcYGjOA)
+
 - [为 Express 开外挂](https://mp.weixin.qq.com/s/CRJ8bhXE8syT-pRQUIm-0g)
+
 - [三歪推荐：Redis常见的面试题](https://mp.weixin.qq.com/s/H8H5-T8Y6KCOsOEMmRNR5Q)
+
 - [简单实用又不花里胡哨的鼠标滑过样式](https://mp.weixin.qq.com/s/C0PWN3L1gCX0rqWxn6S6GA)
+
 - [听说99%的程序员都不会使用git reset 和 git revert](https://mp.weixin.qq.com/s/NfB_acFjZBssASrOfnpuGg)
+
 - [前端路上的开源总结(持续更新中...)](https://mp.weixin.qq.com/s/wa8t1XDdyw9M4IKuYVdPcQ)
+
 - [现场教学，优雅地处理基于 Vue CLI 项目中的 async await 异常](https://mp.weixin.qq.com/s/gGe7WtphY1X7tKR_LP0lew)
+
 - [2020年中大厂前端面试总结](https://mp.weixin.qq.com/s/f2cXdNYVGz3GAR8dNR1lTw)
+
 - [Vue3 + TS 细节](https://mp.weixin.qq.com/s/nXmydnRWJ2hn68thMOFrag)
+
 - [Vite原理深入浅出](https://mp.weixin.qq.com/s/Jy-YMg--lkXa8qlKEMJ4KA)
+
 - [2020 年前端面试复习必读文章【超三百篇】](https://mp.weixin.qq.com/s/PXxcGHwcfc5iXdp43vTZKA)
+
 - [为什么程序员都不喜欢使用switch，而是大量的 if……else if ？](https://mp.weixin.qq.com/s/p_4PNhA6GRqr0wTlKMGJOQ)
+
 - [一篇文章上手Vue3中新增的API](https://mp.weixin.qq.com/s/X3dCaH-fiEnB3TXp64FJoA)
+
 - [浏览器是如何调度进程和线程的？](https://mp.weixin.qq.com/s/bkSmKYGHk0V5eZIfuSTNyQ)
+
 - [排查守候在零点两分的 bug](https://mp.weixin.qq.com/s/cBTrJpcFFoHYMz4QjWshuQ)
+
 - [你可以使用这些工具来图形化管理Docker](https://mp.weixin.qq.com/s/Lz0yemd8mQmJK0eFVP5moA)
+
 - [我对JS延迟异步脚本的思考](https://mp.weixin.qq.com/s/J4Duk8yexqBlBxjrjqwEKw)
+
 - [Vue3.0+TS 项目上手教程](https://mp.weixin.qq.com/s/Q6QfJrzg7pLUjnL0bhXlmw)
+
 - [一款无需写任何代码，即可一键生成前后端代码的开源工具](https://mp.weixin.qq.com/s/rSBUyiIZR7Nxq62j4FvRZg)
+
 - [11个JavaScript代码重构最佳实践](https://mp.weixin.qq.com/s/ZmQOPTggrCv59aZnYKnQ9g)
+
 - [2021年，Vue会变成什么样？](https://mp.weixin.qq.com/s/j0v3nxCpiLQP02wS50wnJQ)
+
 - [Vue 数据更新了但页面没有更新的 7 种情况汇总及延伸](https://mp.weixin.qq.com/s/85mA2iL8JA2JZ9DqIMZHsQ)
+
 - [简单实用又不花里胡哨的鼠标滑过样式](https://mp.weixin.qq.com/s/txEHnEcseSoar-VXRE-gEQ)
+
 - [用28张图告诉你什么是推荐系统](https://mp.weixin.qq.com/s/n7TqfvfId2yuIVDK7nYRvA)
+
 - [vue源码中值得学习的方法](https://mp.weixin.qq.com/s/Bs7UJ0xBfMkLS7vSrS4K9g)
+
 - [前端装饰器模式快闪](https://mp.weixin.qq.com/s/Lph9HRay6bJU_KzOjsW6Mg)
+
 - [使用 Vue3 开发小程序？没错，现在就可以！](https://mp.weixin.qq.com/s/HnM-BQdmJYYMR6zPGSZcFg)
+
 - [技术周刊 · 实现 Recoil 只需百行代码？](https://mp.weixin.qq.com/s/_z3QEAMrChNIU-wzHRn81A)
+
 - [【2020面试真题】这15道面试真题，你能答出几道？](https://mp.weixin.qq.com/s/OSqZgsuFLUbaqXiCuEvv1A)
+
 - [使用NodeJS实现JWT原理](https://mp.weixin.qq.com/s/LawbDakuqmOLKaW0xBbzGg)
+
 - [别在代码里乱打日志了，这可是门技术活~](https://mp.weixin.qq.com/s/p5LTCPgsGoEjuKL0F65PAg)
+
 - [面试官：来说说单点登录的三种实现方式](https://mp.weixin.qq.com/s/5pYNsd52gy1UkWWlUonG4g)
+
 - [玩转SpringSession，重要知识点全面剖析！](https://mp.weixin.qq.com/s/B9BxbRqEeNCKzpzprVdIMg)
+
 - [链接太长，自己设计个短链接服务吧](https://mp.weixin.qq.com/s/vfuPtLK_MN5U6wQVix9p7A)
+
 - [草率了，又一个Maven打包的问题](https://mp.weixin.qq.com/s/YA0MwyPwd1unHJvLl6kxKA)
+
 - [一位资深程序员的感悟：这个行业，仅靠年轻人是不够的](https://mp.weixin.qq.com/s/tz_PPWZ8pkJA80A35djM1w)
+
 - [JVM 史上最最最完整知识总结！](https://mp.weixin.qq.com/s/GAXLr0cIcLnGaTXVstHKvA)
+
 - [扛住 100 亿次请求？我们来试一试](https://mp.weixin.qq.com/s/BSYzmm6SWxUU89Oh6wULOg)
+
 - [如何优雅的设计 Java 异常](https://mp.weixin.qq.com/s/2bmLAAtlo0sYECYbWkU_LQ)
+
 - [面试官：Java 反射是什么？我回答不上来！](https://mp.weixin.qq.com/s/S0YT-uvfzNT7feaWadlC-A)
+
 - [卧槽！牛皮了，头一次见有大佬把 TCP 三次握手四次挥手解释的这么明白](https://mp.weixin.qq.com/s/2l6BlHC43sgCm2tk8v3rZA)
+
 - [这个项目竟然可以自动生成原创文章](https://mp.weixin.qq.com/s/wrxTwlMnVqnIZwIi3riQKQ)
+
 - [10个实用技巧让你的 Vue 代码更优雅](https://mp.weixin.qq.com/s/s1GxDbyQ21ENlsFemcIcUw)
+
 - [前端机器学习的利器，更快的 Pipcook 1.2](https://mp.weixin.qq.com/s/WjLcyCi7-rzGOkbQRQAAZw)
+
 - [每日一题之分割字符串为所有可能的数组](https://mp.weixin.qq.com/s/bD50lZWkNURzaE9zT_dQUA)
+
 - [谁说前端不用懂，手摸手 Docker 从入门到实践](https://mp.weixin.qq.com/s/1YDDCiDUMtxFlGQ94aoItg)
+
 - [50个能帮你节省时间的开发工具](https://mp.weixin.qq.com/s/vn9-Dh5ox1tlB46Vt4JPvA)
+
 - [新手学习 react 迷惑的点(完整版)](https://mp.weixin.qq.com/s/po9LYF-60sXd4y_EE8tA6A)
+
+- [标星高达 6.5 K的一份《Vim 从入门到精通》的中文教程](https://mp.weixin.qq.com/s/IcOjeAk0_iSnUgGQRmbSnw)
+
+- [【第25期】国资委发文！10本书讲透数字化时代新机遇](https://mp.weixin.qq.com/s/2n4zUSbl8IrMYvfOWq_HFQ)
+
+- [一张长长长图，带你看完项目管理全流程！](https://mp.weixin.qq.com/s/s83zFarKVKPt63deMqGhvw)
+
+- [10大热门Kubernetes新平台和工具](https://mp.weixin.qq.com/s/uFiW04w92OFoKdrNAX0Y-A)
+
+- [面试加分-企业级Vue瀑布流](https://mp.weixin.qq.com/s/2RRanYj1lVITmo9CcJcBlg)
+
+- [想精进前端的自我反省](https://mp.weixin.qq.com/s/vMdsKT-0dvci3sfwhUb9MA)
+
+- [Chrome 上开发调试的九个技巧](https://mp.weixin.qq.com/s/IfulsK-tZeJPA9rKJd-mKA)
+
+- [极客 Play 玩 Terminal——GitHub 热点速览 Vol.40](https://mp.weixin.qq.com/s/lk2v3_jj8jiDBoFKqLAKVQ)
+
+- [我给自己定的“双节” OKR 顺利完成](https://mp.weixin.qq.com/s/rGWCMQ7ubOxt76k4iXJBkQ)
+
+- [人工智能学术第一课怎么选？看这一篇就够了！](https://mp.weixin.qq.com/s/EbjEfyJiz_nGTGAkZes0nQ)
+
+- [SpringBoot 基于 CAS 实现单点登录登出](https://mp.weixin.qq.com/s/WGzI-lfTbM-Mwg94ljnlWw)
+
+- [彻底弄懂ReentrantLock —— 超详细的原码分析](https://mp.weixin.qq.com/s/Lt90JcguPB85RsiGT4I4nw)
+
+- [logj4与sl4j的区别](https://mp.weixin.qq.com/s/OpBBvZlwQQECDWpFuTP3sA)
+
+- [一次百万长连接压测 Nginx OOM 的问题排查分析](https://mp.weixin.qq.com/s/XpR1OSS17lghFCgBICDw-Q)
+
+- [一款轻量级，可快速上手的开源后台系统](https://mp.weixin.qq.com/s/LpbD4CgiGeDtM0kJmeLWpg)
+
+- [前端技术观察周刊](https://mp.weixin.qq.com/s/4bjn5T_iSn1uW40coRwLhw)
+
+- [Swift 官方又开源一新基础项目](https://mp.weixin.qq.com/s/gBNJBmrt0z9CtYI9ZUMQ2g)
+
+- [排查 Node.js 服务内存泄漏，没想到竟是它？](https://mp.weixin.qq.com/s/ZN3kmom9sIAi9HhrVWYl3Q)
+
+- [12 个提高JavaScript编码效率的 NPM 技巧](https://mp.weixin.qq.com/s/YpIf5wNOs0PQp99ZpcAlYQ)
+
+- [学不会设计模式，是因为你还没用过这个神奇的网站！](https://mp.weixin.qq.com/s/765xDo5WRVlx1Yinvw3ppg)
+
+- [实现单机五子棋，难吗？](https://mp.weixin.qq.com/s/37OpM45L5OGs-F9jAyViEg)
+
+- [为什么 Redis 单线程能支撑高并发？](https://mp.weixin.qq.com/s/SNPYcujJq1UbIiZhhZ7Qow)
+
+- [我写炫酷 CSS 效果的常用套路](https://mp.weixin.qq.com/s/kHBBxXap6dKIZojeYnjGPA)
+
+- [Go语言爱好者周刊：第 64 期 — goup 这个工具了解下](https://mp.weixin.qq.com/s/2RSxE93kk8kmyecnUtQuWg)
+
+- [Go 实战项目推荐：后台管理系统这么受欢迎吗？又一个 Go 开源项目](https://mp.weixin.qq.com/s/LREmslVMm7KtJPEAvZAmJQ)
+
+- [基于 Go 协程实现图片马赛克应用（下）：并发重构](https://mp.weixin.qq.com/s/r7hqnvrrtdgul4INAi0TSw)
+
+- [前端周报：恶意npm软件包收集用户隐私信息并在GitHub传播；传迅雷前CEO曾派司机进机房盗取数据；微软允许员工永久在家办公](https://mp.weixin.qq.com/s/4yVuvP2NyObe6pSwyS4c7w)
+
+- [深入理解 Vue3 Reactivity API](https://mp.weixin.qq.com/s/0Dqj7LI2PG3XYH2G-dNhGw)
+
+- [LeetCode 第 210 场周赛 解题报告](https://mp.weixin.qq.com/s/yplw5PUmmH7LtY5q6rKPZA)
+
+- [实用的 bash 自定义脚本，快速提效工作流程](https://mp.weixin.qq.com/s/MdElPG4TV76eGVx7jQfDgw)
+
+- [设计模式大冒险第一关：观察者模式](https://mp.weixin.qq.com/s/ehrBQkjtBTyyiuUo8KiBLg)
+
+- [我在阿里这半年](https://mp.weixin.qq.com/s/BwWfXMFk49E2AE82yWpjww)
+
+- [常见面试题之缓存雪崩、缓存穿透、缓存击穿](https://mp.weixin.qq.com/s/d9An-DOYjuRdQpuVxi48DA)
+
+  
 
 ### Github
 
