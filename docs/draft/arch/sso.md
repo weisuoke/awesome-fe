@@ -15,3 +15,5 @@ order: 1
 
 - [nodejs-sso-example](https://github.com/hezhii/nodejs-sso-example)
 - [什么是单点登录（SSO）](https://zhuanlan.zhihu.com/p/66037342)
+- [面试官：来说说单点登录的三种实现方式](https://mp.weixin.qq.com/s/5pYNsd52gy1UkWWlUonG4g)
+
