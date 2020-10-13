@@ -110,6 +110,7 @@ order: 2
 - [axuebin](https://juejin.im/user/574f910b207703005cd8686a/posts)
 - [前端劝退师](https://juejin.im/user/57bd1bdfd342d3006bf76a52)
 - [阿宝哥](https://juejin.im/user/764915822103079)
+- https://www.cnblogs.com/strick/
 
 ### 知乎
 
