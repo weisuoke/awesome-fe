@@ -595,6 +595,24 @@ order: 1
 - [惊艳！可视化的 js：动态图演示 Promises & Async/Await 的过程！](https://mp.weixin.qq.com/s/anEdflYYh2Fc3RWQouH_ug)
 - [Vue3 DOM Diff 核心算法解析](https://mp.weixin.qq.com/s/u3WUQ6Nn1nBHM6WbdWFgPQ)
 - [重磅推出：一个轻量级的前端部署工具](https://mp.weixin.qq.com/s/o14OYNs0iDnjLSEBy_xsXA)
+- [想去大厂必须掌握前端性能监控](https://mp.weixin.qq.com/s/XIqkozhY4Jn_DAZ_J9C5Ww)
+- [分析网页 JavaScript Bundles 的几种方法](https://mp.weixin.qq.com/s/kMiV7r2663bOlUaswcuXgQ)
+- [【第2087期】Promise V8 源码分析(一)](https://mp.weixin.qq.com/s/V47KQoVOm7Eiioo2VSgxIw)
+- [URL 去重的 6 种方案！(附详细代码)](https://mp.weixin.qq.com/s/13gVM8ufQN-qrVdAA_yvLQ)
+- [浏览器垃圾回收机制与 Vue 项目内存泄漏场景分析](https://mp.weixin.qq.com/s/paDL3Lfty3AyU-5naWvBRw)
+- [轻松玩转函数式编程](https://mp.weixin.qq.com/s/ghXLcgrZFxDYQMAwrziFFw)
+- [前端搞报表|数据分析提效全链路解决方案](https://mp.weixin.qq.com/s/M0TrL1xA9NEd2GKELYoHpQ)
+- [JavaScript进阶之实现拖拽](https://mp.weixin.qq.com/s/yHqIdFAm4nEqu8BFnk2STA)
+- [Spring Boot 最流行的 16 条实践解读！](https://mp.weixin.qq.com/s/GPv7poKXZjtGmZodvI_uSA)
+- [ES11新增的这9个新特性，你都掌握了吗？](https://mp.weixin.qq.com/s/KtJhdpyDbvFghmR-9uIs8Q)
+- [简易数据分析（八）： Web Scraper 抓取详情页、利用 Link 选择器翻页](https://mp.weixin.qq.com/s/lcIvzFX7AMXNL63bybFPiA)
+- [回头再看一遍Tomcat架构，我能装逼了](https://mp.weixin.qq.com/s/wh2MEJa0VjfG2FWjUmsElA)
+- [Promise V8 源码分析(一)](https://mp.weixin.qq.com/s/jG_uBNFaHTvie1EsHUASmg)
+- [JavaScript 启动性能瓶颈分析与解决方案](https://mp.weixin.qq.com/s/G7LReOBVe6krQzhaWoTEug)
+- [谈谈 React 5种最流行的状态管理库](https://mp.weixin.qq.com/s/524RYPNXiTpclBatdIlGqw)
+- [搞一个万能的 webserver](https://mp.weixin.qq.com/s/YXtBVEhTMMEqzKyDTqeLtg)
+- [JavaScript技术专家晋升考试题，敢应战吗？](https://mp.weixin.qq.com/s/2QZ1lQ00EL3CTz7J_Pu0Ow)
+- 
 
 ### Github
 
