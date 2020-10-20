@@ -35,6 +35,7 @@ order: 1
 - 实现自定义Hooks
 - Popover组件的实现
 - Portal组件的实现
+- 使用TypeScript写一个React组件
 
 ### 2.2 API
 
