@@ -20,9 +20,10 @@ order: 1
       - [大厂是如何做大型 web 应用公共组件架构思考的？](https://mp.weixin.qq.com/s/pz-DY1QHAMbIJntRDvR5xA)
       - [[译] 使用 microbundle 打包 TypeScript 组件库](https://cloud.tencent.com/developer/article/1676230)
       - [彻底学会element-ui按需引入和纯净主题定制](https://mp.weixin.qq.com/s/Jx7kv9VUbvoT2LDET9Oy4Q)
+      - [如何设计组件还不会吗？简单谈论下组件化思想](https://mp.weixin.qq.com/s/cCEe-xUCSdo2dI6uDgDJKw)
     - Storybook5.x + React (Inspire by - 慕课网实战组件)
-  - Storybook6.x + React + Rollup + StyledComponents
-  - Storybook6.x + React + Rollup + Less/Sass
+    - Storybook6.x + React + Rollup + StyledComponents
+    - Storybook6.x + React + Rollup + Less/Sass
     - Storybook6.x + Vue3 + Rollup + Less/Sass
     - Storybook6.x + React + Rollup + Less/Sass + TypeScript
   - 组件
@@ -65,6 +66,7 @@ order: 1
   - [推荐一款强大的前端CLI命令行工具](https://juejin.im/post/6868086704960438280?utm_source=gold_browser_extension)
   - [前端工程化之“脚手架”](https://mp.weixin.qq.com/s/Hjoph0kMTBs4Axt_benSnA)
   - [22款超好用的CLI工具](https://mp.weixin.qq.com/s/3jkGlPW7LaTkfMvr5IkvxA)
+  - [使用 JavaScript 减少功能展平数组](https://varya.me/blog/flatten-array-with-reduce/)
 - 低代码平台
   - [如何设计低代码平台快速构建页面 | (200+页面)](https://juejin.im/post/6855579207448133646?utm_source=gold_browser_extension)
 - Serverless
@@ -80,14 +82,14 @@ order: 1
   - [Serverless 架构下的服务优雅下线实践](https://mp.weixin.qq.com/s/bCXQEJicWNHBcTD_HWNmiQ)
   - [【第2092期】权威指南：Serverless 未来十年发展解读（上）](https://mp.weixin.qq.com/s/AqO8ao4bVBwmRGf4wdK09g)
   - [【第2093期】权威指南：Serverless 未来十年发展解读（下）](https://mp.weixin.qq.com/s/dLxqZyHGC1K2sz-bYcPrNg)
-  - [闲鱼前端 Faas 框架与通信方案|前端搞 Serverless](https://juejin.im/post/5ee81625f265da76ce579f31?utm_source=gold_browser_extension)
 - 监控系统
-	- [如何搭建前端异常监控系统](https://juejin.im/post/5f0145d9f265da22e77c0985?utm_source=gold_browser_extension)
-	- [从0到1实现自己的前端异常监控SDK](https://juejin.im/post/6856366626750038023?utm_source=gold_browser_extension)
-	- [前端监控平台系列：JS SDK（已开源）](https://juejin.im/post/6862559324632252430?utm_source=gold_browser_extension)
-	- [如何搭建前端异常监控系统](https://juejin.im/post/5f0145d9f265da22e77c0985?utm_source=gold_browser_extension)
-	- [你不知道的前端异常处理（万字长文，建议收藏）](https://mp.weixin.qq.com/s/wyfcSjGvgDU-iuPm8k7exQ)
-	- [前端性能和错误监控](https://mp.weixin.qq.com/s/f8l9BVUNcfb_pMT9mE-s_Q)
+  - [如何搭建前端异常监控系统](https://juejin.im/post/5f0145d9f265da22e77c0985?utm_source=gold_browser_extension)
+  - [从0到1实现自己的前端异常监控SDK](https://juejin.im/post/6856366626750038023?utm_source=gold_browser_extension)
+  - [前端监控平台系列：JS SDK（已开源）](https://juejin.im/post/6862559324632252430?utm_source=gold_browser_extension)
+  - [如何搭建前端异常监控系统](https://juejin.im/post/5f0145d9f265da22e77c0985?utm_source=gold_browser_extension)
+  - [你不知道的前端异常处理（万字长文，建议收藏）](https://mp.weixin.qq.com/s/wyfcSjGvgDU-iuPm8k7exQ)
+  - [前端性能和错误监控](https://mp.weixin.qq.com/s/f8l9BVUNcfb_pMT9mE-s_Q)
+  - [监控、链路追踪、日志这三者有何区别？](https://mp.weixin.qq.com/s/PK22jcpML9i1rEpzCn-gqg)
 - ESModule
   - [Vite原理深入浅出](https://mp.weixin.qq.com/s/Jy-YMg--lkXa8qlKEMJ4KA)
   - [Vite 如何做到让 Vue 本地开发更快速？](https://mp.weixin.qq.com/s/9pH1PW6iP5fKJavpAPdciA)
@@ -114,6 +116,7 @@ order: 1
 - Word
   - [在前端如何玩转 Word 文档](https://juejin.im/post/5f0b34f85188252e6c60ec85)
 - Node
+	- [效能提升神器 | 前后端一体化部署工具 CloudBase Framework 开源](https://juejin.im/post/5f0d0d8ee51d453493112e06?utm_source=gold_browser_extension)
   - [一些小众却有用的 Node.js 包](https://mp.weixin.qq.com/s/yeGZPxhdcaL8TC2FmSVjMw)
   - [前端赋能业务：Node实现自动化部署平台](https://mp.weixin.qq.com/s/YQD2W7h5WcGugIOVOd3lGg)
   - [使用NodeJS实现JWT原理](https://mp.weixin.qq.com/s/LawbDakuqmOLKaW0xBbzGg)
@@ -136,12 +139,14 @@ order: 1
   - [Node.js 在微医的应用场景及实践](https://mp.weixin.qq.com/s/7RuQq1mTn7jiuPfqGKDD0A)
   -  [【第2088期】前端中台化，把格局做大——NodeJS 和测试服务探索](https://mp.weixin.qq.com/s/3Ukere2IY8T624WRFgspWg)
   -  [前端一键自动部署工具🛠](https://juejin.im/post/6872914108979609614?utm_source=gold_browser_extension)
+  -  [保护 Node.js 项目的源代码](https://zhuanlan.zhihu.com/p/72666207)
 - V8
   - [万字长文深入掌握 JS 数组用法 - 浅析 V8 源码 array.js](https://mp.weixin.qq.com/s/4yFqof8_q7kLzo6WSD5Mrw)
   - [震惊！这个代码片段竟然会让 V8 内存无法回收？！](https://mp.weixin.qq.com/s/rKITSLt94CJamIlh73ovGQ)
   - [浏览器是如何工作的：Chrome V8让你更懂JavaScript](https://mp.weixin.qq.com/s/aRPMwmm-8xaDW49ywy9MMA)
   - [在 Chrome(V8) 中 Symbol() 、Object.create(null) 和 {} 的内存占用分别是多少？](https://mp.weixin.qq.com/s/6URRQKNhG7cDfVAPU0iIyg)
   - [V8 8.5 带来的三个实用新特性！](https://mp.weixin.qq.com/s/E-T2ACyjdTlg_dLAvtKbeQ)
+  - [Promise V8 源码分析(一)](https://mp.weixin.qq.com/s/jG_uBNFaHTvie1EsHUASmg)
 - 性能优化
   - [在淘宝优化了一个大型项目，分享一些干货（代码实例，图文结合）](https://juejin.im/post/5edd942af265da76f8601199?utm_source=gold_browser_extension)
   - [[1.1W字]写给女友的秘籍-浏览器工作原理（渲染流程）篇](https://juejin.im/post/5f05d12a5188252e8406e37b?utm_source=gold_browser_extension)
@@ -150,6 +155,23 @@ order: 1
   - [手把手教你看懂Chrome火焰图！](https://mp.weixin.qq.com/s/buPIEAe20K44eFLsFRaHgA)
   - [前端性能优化指南](https://mp.weixin.qq.com/s/huPucMTKdfVajcPGXfB38g)
   - [页面性能优化办法有哪些？](https://mp.weixin.qq.com/s/bd7Ste_8d8nONDtTDnefmA)
+  - [原来大佬都是用这些工具偷偷优化网站的](https://mp.weixin.qq.com/s/dHo1AWXJXNZdTPNJ_3in1g)
+  - [从 10 多秒到 1.05 秒！前端性能优化实践](https://mp.weixin.qq.com/s/x4BymqOEb40LEvrskqGebQ)
+  - [想去大厂必须掌握前端性能监控](https://mp.weixin.qq.com/s/XIqkozhY4Jn_DAZ_J9C5Ww)
+  - [你不知道的 Web 前端监控（4000字，了解应用的运行状况）](https://mp.weixin.qq.com/s/LCFwOxnidOucdP2kMhWELg)
+- 管理后台
+  - [Go 实战项目推荐：后台管理系统这么受欢迎吗？又一个 Go 开源项目](https://mp.weixin.qq.com/s/LREmslVMm7KtJPEAvZAmJQ)
+  - [一款轻量级，可快速上手的开源后台系统](https://mp.weixin.qq.com/s/LpbD4CgiGeDtM0kJmeLWpg)
+  - [推荐12款适合做Java后台管理系统的项目](https://mp.weixin.qq.com/s/uQLZLn3o7Ri_JD0OfY0FGA)
+  - [一套完整的 后台管理系统，赚钱就靠它了！](https://mp.weixin.qq.com/s/gdNyaVnK3hO01FaFhsGyXg)
+  - [强大，10k+点赞的 SpringBoot 后台管理系统竟然出了详细教程！](https://mp.weixin.qq.com/s/Eor6cDxceKfdVOtW-05VqA)
+	- [分享一个标星42.4k 的商城管理后台项目模板](https://mp.weixin.qq.com/s/Z916LX1BLxQDgiuERCz6Fg)
+- WebAssembly
+  - [WebAssembly 如何提升 JavaScript 的性能？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651239720&idx=1&sn=623a5af3987ec7b399cc0247011aa959&scene=21#wechat_redirect)
+  - [如何使用 WebAssembly 和 JS 构建高性能应用程序](https://mp.weixin.qq.com/s/QexDmAXNEQ2O9Ae-S20oIg)
+  - [基于 ffmpeg + Webassembly 实现前端视频帧提取](https://mp.weixin.qq.com/s/M_sb69Hogbf4kvluAoRKVA)
+- Deno
+  - 
 
 
 ## Article
@@ -165,10 +187,52 @@ order: 1
   - editor.js
   - react-hook-form
   - nest
+- webpack
+  - [总结18个webpack插件，总会有你想要的！](https://juejin.im/post/5ee9c98c6fb9a0587c6b136c?utm_source=gold_browser_extension)
+  - [了不起的 Webpack HMR 学习指南](https://mp.weixin.qq.com/s/d5MjW48-Zg8hO0QygG3z5w)
+  - [Webpack漫谈](https://juejin.im/post/6867797346550284296?utm_source=gold_browser_extension)
+  - [webpack5上手体验](https://mp.weixin.qq.com/s/gQ-cRjCHpvK0-vuuHsrapg)
+  - [webpack优化方案 | 实践总结](https://juejin.im/post/6880487034130169869)
+  - [Webpack 5 released，中文（部分）尝鲜版介绍](https://mp.weixin.qq.com/s/xae2-Cb78G9Gm51nrr5t2Q)
+  - [阔别两年，webpack 5 正式发布了！](https://mp.weixin.qq.com/s/sh7rcv6hdhYfWr1bv_ssbg)
+  - [Webpack 5 发布，Chrome 86 支持本地文件系统](https://mp.weixin.qq.com/s/mIJgd3udng0fQAJ4hZEN0w)
+  - [Webpack 5.0正式发布：更好的持久化缓存算法、提高Web平台的兼容性、带来Node生态新功能](https://mp.weixin.qq.com/s/rGawkY2kfRBxFq83UPQ9uQ)
+  - [Webpack 的插件机制 - Tapable](https://mp.weixin.qq.com/s/qWq46-7EJb0Byo1H3SDHCg)
+  - [辛辛苦苦学会的 webpack dll 配置，可能已经过时了](https://mp.weixin.qq.com/s/6vaO3fX4eLEjBIgydhMoJQ)
+- Flutter
+  - [【Flutter学习总结】从0到1，到开发四个Flutter项目，为期10个月，分享学习总结](https://juejin.im/post/6863353616473063437?utm_source=gold_browser_extension)
+  - [Flutter 快速上手，秒变大前端](https://juejin.im/post/6872526285654982663?utm_source=gold_browser_extension)
+  - [Graphic：基于图形语法的 Flutter 可视化库](https://zhuanlan.zhihu.com/p/247778062?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+  - [12种Flutter开发工具推荐](https://mp.weixin.qq.com/s/qJTB9eyAtIJ3PJZ1kh4T7w)
+  - [Flutter 最佳实践](https://mp.weixin.qq.com/s/Xqdw3LcVkk0iPE7kHYxkiw)
+  -  [一套代码、多端运行，Flutter是如何实现的？](https://mp.weixin.qq.com/s/gd7r_HKHuZqcsu4QKW6ZEA)
+  -  [Flutter 核心原理与混合开发模式](https://mp.weixin.qq.com/s/SK64Yl_FoS6kdNU0KAdPGg)
 
 ## 算法
 
 - [这个前端竟然用动态规划写瀑布流布局？给我打死他！](https://juejin.im/post/5ed5b9a26fb9a047a07f2c30)
 - [别再说你不懂Top K问题了](https://mp.weixin.qq.com/s/tYUcigO8b4y59Pg7v6imzw)
 - [学习一下LRU（最近最少使用）缓存机制](https://juejin.im/post/6856673818530807821?utm_source=gold_browser_extension)
-- 
+- [TypeScript实现图的遍历](https://juejin.im/post/5f2036f6f265da22da54e0e7?utm_source=gold_browser_extension)
+- [浅析 Tree Shaking](https://zhuanlan.zhihu.com/p/127804516)
+- [「算法与数据结构」带你看分治算法之美](https://mp.weixin.qq.com/s/iRHnvDN-hH4iEubIVxFxYA)
+- [你可能不知道的快速排序：三路快排](https://mp.weixin.qq.com/s/J5FEmsRB20Iw9HlcTNGVGA)
+- [快速排序的JavaScript实现详解](https://mp.weixin.qq.com/s/FKRJe3mJVw2H3C7eGsjmjA)
+
+
+
+## CSS
+
+- [CSS变量对JS交互组件开发带来的提升与变革](https://www.zhangxinxu.com/wordpress/2020/07/css-var-improve-components/)
+- [CSS 边距崩溃–是什么，我为什么要关心](http://www.js-craft.io/blog/css-margin-collapsing-what-it-is-why-should-i-care/)
+- [如何用一行 CSS 分别实现 10 种现代布局？](https://juejin.im/post/5f058bef6fb9a07eac0665fb)
+- [能解决 80% 需求的 10个 CSS动画库!](https://juejin.im/post/6859713431755784205?utm_source=gold_browser_extension)
+- [吐血整理的前端代码规范系列 -- css规范](https://juejin.im/post/6862187926849159182?utm_source=gold_browser_extension)
+- [教你使用CSS3实现新拟态UI](https://juejin.im/post/6868099832175820808?utm_source=gold_browser_extension)
+- [收藏！40 个 CSS 布局技巧](https://mp.weixin.qq.com/s/kL1c2Khpcr-D1E-2wZe0RA)
+- [CSS实现居中+换行+左对齐](https://blog.kaciras.com/article/14/use-pure-CSS-to-implement-center+wrap+left-alignment-layout)
+- [我写炫酷 CSS 效果的常用套路](https://mp.weixin.qq.com/s/kHBBxXap6dKIZojeYnjGPA)
+- [2020年应使用的3种CSS字体属性](https://mp.weixin.qq.com/s/wn7NgYpA8KtOr3abcYCqTQ)
+- [从0到1纯CSS绘制的阴阳图案【学习实现思路】](https://mp.weixin.qq.com/s/4g3x4KkODIK0E6CIXtMnig)
+- [良好的CSS编码习惯](https://mp.weixin.qq.com/s/kTprxwkfchuMTRSiMoJ-sA)
+- [2020年你不应该错过的CSS新特性](https://mp.weixin.qq.com/s/HbfThzav79GFS-sMirAINA)
