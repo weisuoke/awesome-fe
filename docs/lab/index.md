@@ -147,6 +147,7 @@ order: 1
   - [在 Chrome(V8) 中 Symbol() 、Object.create(null) 和 {} 的内存占用分别是多少？](https://mp.weixin.qq.com/s/6URRQKNhG7cDfVAPU0iIyg)
   - [V8 8.5 带来的三个实用新特性！](https://mp.weixin.qq.com/s/E-T2ACyjdTlg_dLAvtKbeQ)
   - [Promise V8 源码分析(一)](https://mp.weixin.qq.com/s/jG_uBNFaHTvie1EsHUASmg)
+  - [浏览器是如何工作的：Chrome V8让你更懂JavaScript](https://mp.weixin.qq.com/s/ASwOPvsKSVSzxHM0FOKKVA)
 - 性能优化
   - [在淘宝优化了一个大型项目，分享一些干货（代码实例，图文结合）](https://juejin.im/post/5edd942af265da76f8601199?utm_source=gold_browser_extension)
   - [[1.1W字]写给女友的秘籍-浏览器工作原理（渲染流程）篇](https://juejin.im/post/5f05d12a5188252e8406e37b?utm_source=gold_browser_extension)
@@ -159,6 +160,8 @@ order: 1
   - [从 10 多秒到 1.05 秒！前端性能优化实践](https://mp.weixin.qq.com/s/x4BymqOEb40LEvrskqGebQ)
   - [想去大厂必须掌握前端性能监控](https://mp.weixin.qq.com/s/XIqkozhY4Jn_DAZ_J9C5Ww)
   - [你不知道的 Web 前端监控（4000字，了解应用的运行状况）](https://mp.weixin.qq.com/s/LCFwOxnidOucdP2kMhWELg)
+  - [腾讯是如何把握极致的前端性能监控？](https://mp.weixin.qq.com/s/2sC15-FXT5Kg8dDtzB0XNQ)
+  - [从“等等”到“秒开”再到“直开”，是什么让闲鱼社区相见恨晚？](https://mp.weixin.qq.com/s/tt7y90up2v-_k1SL6JZ1sA)
 - 管理后台
   - [Go 实战项目推荐：后台管理系统这么受欢迎吗？又一个 Go 开源项目](https://mp.weixin.qq.com/s/LREmslVMm7KtJPEAvZAmJQ)
   - [一款轻量级，可快速上手的开源后台系统](https://mp.weixin.qq.com/s/LpbD4CgiGeDtM0kJmeLWpg)
@@ -171,7 +174,6 @@ order: 1
   - [如何使用 WebAssembly 和 JS 构建高性能应用程序](https://mp.weixin.qq.com/s/QexDmAXNEQ2O9Ae-S20oIg)
   - [基于 ffmpeg + Webassembly 实现前端视频帧提取](https://mp.weixin.qq.com/s/M_sb69Hogbf4kvluAoRKVA)
 - Deno
-  - 
 
 
 ## Article
@@ -207,6 +209,8 @@ order: 1
   - [Flutter 最佳实践](https://mp.weixin.qq.com/s/Xqdw3LcVkk0iPE7kHYxkiw)
   -  [一套代码、多端运行，Flutter是如何实现的？](https://mp.weixin.qq.com/s/gd7r_HKHuZqcsu4QKW6ZEA)
   -  [Flutter 核心原理与混合开发模式](https://mp.weixin.qq.com/s/SK64Yl_FoS6kdNU0KAdPGg)
+- Deno
+  - [Deno 钻研之术](https://github.com/hylerrix/deno-tutorial)
 
 ## 算法
 
