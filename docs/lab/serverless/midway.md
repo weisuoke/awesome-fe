@@ -6,7 +6,7 @@ group:
   title: Serverless
   order: 5
 title: Midway
-order: 1
+order: 5
 ---
 
 # Midway

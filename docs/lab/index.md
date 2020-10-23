@@ -57,57 +57,10 @@ order: 1
   - [前端如何优雅的处理类数组对象？](https://mp.weixin.qq.com/s/_XnKPi9-Q3CU9ETS_OXf2Q)
   - [lodash源码解析：reject、remove、repeat、replace、result、round](https://juejin.im/post/6873776068055007245?utm_source=gold_browser_extension)
   - [URL 去重的 6 种方案！(附详细代码)](https://mp.weixin.qq.com/s/13gVM8ufQN-qrVdAA_yvLQ)
-- Cli
-  - [Node.js CLI 工具最佳实践](https://cloud.tencent.com/developer/article/1595194)
-  - [从零手写pm-cli脚手架，统一阿里拍卖源码架构](https://juejin.im/post/5f05bca3e51d4534ac1e4f1e)
-  - [命令行解析工具arg.js源码解读](https://juejin.im/post/5f1bc2e06fb9a07ea01a2ceb?utm_source=gold_browser_extension)
-  - [如何搭建一个属于自己的脚手架](https://juejin.im/post/6866435508487225358?utm_source=gold_browser_extension)
-  - [从0到1用Node完成一个CLI工具](https://mp.weixin.qq.com/s/AM7OFRv7Zc8oj_YAAWsnbQ)
-  - [推荐一款强大的前端CLI命令行工具](https://juejin.im/post/6868086704960438280?utm_source=gold_browser_extension)
-  - [前端工程化之“脚手架”](https://mp.weixin.qq.com/s/Hjoph0kMTBs4Axt_benSnA)
-  - [22款超好用的CLI工具](https://mp.weixin.qq.com/s/3jkGlPW7LaTkfMvr5IkvxA)
   - [使用 JavaScript 减少功能展平数组](https://varya.me/blog/flatten-array-with-reduce/)
 - 低代码平台
   - [如何设计低代码平台快速构建页面 | (200+页面)](https://juejin.im/post/6855579207448133646?utm_source=gold_browser_extension)
-- Serverless
-  - [你学BFF和Serverless了吗](https://juejin.im/post/5ee0635de51d4578740f76ae?utm_source=gold_browser_extension)
-  - [阿里 Midway 正式发布 Serverless v1.0，研发提效 50%](https://mp.weixin.qq.com/s/Zh33-usiMcvCWGw6aBGuhg)
-  - [打破云和端的那堵墙，Midway Serverless 带你感受云端一体应用研发](https://mp.weixin.qq.com/s/mEa-w8yw03c5tj6e5Mdu_Q)
-  - [浅出：让React插上Serverless翅膀，飞向云端](https://mp.weixin.qq.com/s/DB5IeA1t5Kds6Qo_VEX2MA)
-  - [Serverless：我还是一个大孩子](https://mp.weixin.qq.com/s/s6XIHmZBvWEvyY46s5Lbsg)
-  - [无服务器开发（Serverless）有多神奇？](https://mp.weixin.qq.com/s/4JRfYo8fuqayCi_KhlgAUA)
-  - [云栖大会｜闲鱼Serverless架构实践（精品）](https://mp.weixin.qq.com/s/6UY3q-uZzasPTruFAiq6Ug)
-  - [阿里云研究员叔同：Serverless 正当时！](https://mp.weixin.qq.com/s/wmIdltVRgiwvRpylqKJ1sg)
-  - [Serverless｜Framework——图文玩转 AWS Lambda](https://mp.weixin.qq.com/s/rRWc3CieJKU36CT4zu7A4A)
-  - [Serverless 架构下的服务优雅下线实践](https://mp.weixin.qq.com/s/bCXQEJicWNHBcTD_HWNmiQ)
-  - [【第2092期】权威指南：Serverless 未来十年发展解读（上）](https://mp.weixin.qq.com/s/AqO8ao4bVBwmRGf4wdK09g)
-  - [【第2093期】权威指南：Serverless 未来十年发展解读（下）](https://mp.weixin.qq.com/s/dLxqZyHGC1K2sz-bYcPrNg)
-- 监控系统
-  - [如何搭建前端异常监控系统](https://juejin.im/post/5f0145d9f265da22e77c0985?utm_source=gold_browser_extension)
-  - [从0到1实现自己的前端异常监控SDK](https://juejin.im/post/6856366626750038023?utm_source=gold_browser_extension)
-  - [前端监控平台系列：JS SDK（已开源）](https://juejin.im/post/6862559324632252430?utm_source=gold_browser_extension)
-  - [如何搭建前端异常监控系统](https://juejin.im/post/5f0145d9f265da22e77c0985?utm_source=gold_browser_extension)
-  - [你不知道的前端异常处理（万字长文，建议收藏）](https://mp.weixin.qq.com/s/wyfcSjGvgDU-iuPm8k7exQ)
-  - [前端性能和错误监控](https://mp.weixin.qq.com/s/f8l9BVUNcfb_pMT9mE-s_Q)
-  - [监控、链路追踪、日志这三者有何区别？](https://mp.weixin.qq.com/s/PK22jcpML9i1rEpzCn-gqg)
-- ESModule
-  - [Vite原理深入浅出](https://mp.weixin.qq.com/s/Jy-YMg--lkXa8qlKEMJ4KA)
-  - [Vite 如何做到让 Vue 本地开发更快速？](https://mp.weixin.qq.com/s/9pH1PW6iP5fKJavpAPdciA)
-  - [聊聊 ESM、Bundle 、Bundleless 、Vite 、Snowpack](https://mp.weixin.qq.com/s/DkOHjCAdTk3uy4lBnrUESQ)
-  - [下一个时代的打包工具 esbuild](https://mp.weixin.qq.com/s/NxIU7jw8u1jq7826hMVm4Q)
-  - [替代 webpack？带你了解 snowpack 原理，你还学得动么](https://mp.weixin.qq.com/s/Mj0ukGnHPGW8rQR3FIB1CA)
-  - [精读《snowpack》](https://mp.weixin.qq.com/s/BKS3g47Im1imrkI55JjWSg)
-- 微前端
-  - [体验微前端（qiankun）](https://juejin.im/post/5ed70bf35188254348576b4e)
-  - [如何设计微前端中的主子路由调度](https://blog.csdn.net/alitech2017/article/details/106901454)
-  - [搭建 umi + qiankun + antd 的微前端平台](https://juejin.im/post/6869220236886245383?utm_source=gold_browser_extension)
-  - [微前端思考与总结](https://mp.weixin.qq.com/s/YTiJ4UBgZs2om2SI6TUcmQ)
-  - [对微前端的11个错误认识](https://mp.weixin.qq.com/s/QtZVYZ5Y5Yt4r07GE5JMEA)
-  - [你必须知道的11个微前端框架](https://mp.weixin.qq.com/s/gtyD1v6UiIWyDV949KePVQ)
-  - [深度：微前端在企业级应用中的实践 (1万字，华为)](https://mp.weixin.qq.com/s/_QRdhtukdi76z0OnAIB8oQ)
-  - [Berial，一个硬了的微前端框架](https://juejin.im/post/6856170280600109064?utm_source=gold_browser_extension#heading-3)
-  - [基于下一代构建方案落地JOYY业务中台微前端](https://juejin.im/post/5f0c351af265da230d323f8a?utm_source=gold_browser_extension)
-  - [【第2078期】iframe 接班人-微前端框架 qiankun 在中后台系统实践](https://mp.weixin.qq.com/s/duUxw82DizU15vqRrL_iOw)
+  - [关于低代码( low-code )这回事](https://juejin.im/post/6885973728489340936?utm_source=gold_browser_extension)
 - AST
   - [看了就懂的 AST 和 Babel 工作流程](https://mp.weixin.qq.com/s/m-EJljsARM5dUlu-IXJnKQ)
   - [一文助你搞懂 AST](https://mp.weixin.qq.com/s/SbrDCjzREFf9PSZKn2d66Q)
@@ -116,7 +69,7 @@ order: 1
 - Word
   - [在前端如何玩转 Word 文档](https://juejin.im/post/5f0b34f85188252e6c60ec85)
 - Node
-	- [效能提升神器 | 前后端一体化部署工具 CloudBase Framework 开源](https://juejin.im/post/5f0d0d8ee51d453493112e06?utm_source=gold_browser_extension)
+  - [效能提升神器 | 前后端一体化部署工具 CloudBase Framework 开源](https://juejin.im/post/5f0d0d8ee51d453493112e06?utm_source=gold_browser_extension)
   - [一些小众却有用的 Node.js 包](https://mp.weixin.qq.com/s/yeGZPxhdcaL8TC2FmSVjMw)
   - [前端赋能业务：Node实现自动化部署平台](https://mp.weixin.qq.com/s/YQD2W7h5WcGugIOVOd3lGg)
   - [使用NodeJS实现JWT原理](https://mp.weixin.qq.com/s/LawbDakuqmOLKaW0xBbzGg)
@@ -162,6 +115,8 @@ order: 1
   - [你不知道的 Web 前端监控（4000字，了解应用的运行状况）](https://mp.weixin.qq.com/s/LCFwOxnidOucdP2kMhWELg)
   - [腾讯是如何把握极致的前端性能监控？](https://mp.weixin.qq.com/s/2sC15-FXT5Kg8dDtzB0XNQ)
   - [从“等等”到“秒开”再到“直开”，是什么让闲鱼社区相见恨晚？](https://mp.weixin.qq.com/s/tt7y90up2v-_k1SL6JZ1sA)
+  - [聊一聊前端性能优化 CRP](https://mp.weixin.qq.com/s/8SZlGbtvSzA25oXkqX_u5w)
+  - [仅需 5 分钟，快速优化 Web 性能的10 个手段](https://juejin.im/post/6885867756864929806?utm_source=gold_browser_extension)
 - 管理后台
   - [Go 实战项目推荐：后台管理系统这么受欢迎吗？又一个 Go 开源项目](https://mp.weixin.qq.com/s/LREmslVMm7KtJPEAvZAmJQ)
   - [一款轻量级，可快速上手的开源后台系统](https://mp.weixin.qq.com/s/LpbD4CgiGeDtM0kJmeLWpg)
@@ -174,6 +129,11 @@ order: 1
   - [如何使用 WebAssembly 和 JS 构建高性能应用程序](https://mp.weixin.qq.com/s/QexDmAXNEQ2O9Ae-S20oIg)
   - [基于 ffmpeg + Webassembly 实现前端视频帧提取](https://mp.weixin.qq.com/s/M_sb69Hogbf4kvluAoRKVA)
 - Deno
+- 鸿蒙系统
+  - [浅析鸿蒙 JavaScript GUI 技术栈](https://zhuanlan.zhihu.com/p/240594356)
+  - [逐行分析鸿蒙系统的 JavaScript 框架](https://juejin.im/post/6872639403102208014?utm_source=gold_browser_extension)
+  - [鸿蒙系统中的 JS 开发框架](https://mp.weixin.qq.com/s?__biz=MzI0NTAyNjE0NQ==&mid=2675578259&idx=1&sn=3b615746ba8d05a763433595269197a1&scene=21#wechat_redirect)
+  - [教程 | 在华为鸿蒙OS上尝鲜，第一个“hello world”](https://mp.weixin.qq.com/s/oH-5TBr2rqI1IM4z3dKJqw)
 
 
 ## Article
@@ -222,8 +182,6 @@ order: 1
 - [「算法与数据结构」带你看分治算法之美](https://mp.weixin.qq.com/s/iRHnvDN-hH4iEubIVxFxYA)
 - [你可能不知道的快速排序：三路快排](https://mp.weixin.qq.com/s/J5FEmsRB20Iw9HlcTNGVGA)
 - [快速排序的JavaScript实现详解](https://mp.weixin.qq.com/s/FKRJe3mJVw2H3C7eGsjmjA)
-
-
 
 ## CSS
 
