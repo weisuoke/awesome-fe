@@ -21,10 +21,6 @@ order: 2
 - 2019年京东PLUS会员前端开发之路
 - 关于微前端你必须了解的三种实现方式
 - "可插拔式"组件设计，领略组件开发的奥秘
-- Stook-rest：React 异步数据管理思考
-- 可能是基于 Hooks 和 Typescript 最好的状态管理工具
-- Stook：极简主义的 React 状态管理库
-- 基于 Ant Design + React 的后台管理项目打包优化实践
 - 腾讯视频 Node.js 服务是如何支撑国庆阅兵直播高并发的？
 - Node.js--cluster原理分析 - Novak12 - 博客园
 - 前端页面被取消的重复请求
@@ -35,16 +31,12 @@ order: 2
 - 前端代码是怎样智能生成的-图像分离篇
 - 如何解决 Render Props 的回调地狱
 - 前端极致性能优化手册大全
-- Egg + React 实战日记本（万字长文，望收藏点赞）
-- 状态管理中的第一性原理
-- 使用 React 的 Context API 来管理数据
 - Antd Form 实现机制解析
 - 阿里p6面经
 
 ### 好玩
 
 - 双十一模块 79.34% 的代码是怎样智能生成的
-- 🔥[译] 正交React组件的好处
 - Single-Spa微前端实践
 - 基于 HTML5 WebGL + WebVR 的 3D 虚实现实可视化培训系统
 - 基于 Angular 的小程序可视化编辑器 —— Panel-Magic
@@ -62,7 +54,6 @@ order: 2
 
 ### 原理
 
-- React-Redux 100行代码简易版探究原理。（面试热点，React Hook + TypeScript实现）
 - TypeScript从零实现基于Proxy的响应式库，带你彻底搞懂Vue3的响应式原理！
 - Promise的实现原理以及相关用法
 - redux真的不复杂
@@ -70,13 +61,10 @@ order: 2
 ### 小Demo
 
 - 手把手教你写几个使用的的AST插件
-- React Hooks 实现一个搜索功能
 - 一步一步手写一个自己前端脚手架cli工具
 - 前端轻量化部署脚手架实践
 - 边写边学系列（四）—— Gatsby 搭建炫酷屌炸天的个人博客
 - Gatsby 入门指南
-- React + TypeScript + Node.JS实现一个后台管理系统
-- [手摸手，打造属于自己的 React 组件库](https://github.com/jokingzhang/blog/issues/1)
 - 撸一个前端监控系统（React + Node + Mysql + Webpack plugin + Docker）
 - 硬核开源，使用 react-hooks 手写 ant-design-pro，搭配 node 完整api
 - 13道http面试题，你能否接住

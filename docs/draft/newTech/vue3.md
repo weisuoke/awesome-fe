@@ -25,6 +25,5 @@ order: 1
 
 - [vue3.0新特性盘点](https://mp.weixin.qq.com/s/HiEb2oiUgioTxi-5dXoBbQ)
 
-- [2021年，Vue会变成什么样？](https://mp.weixin.qq.com/s/1vscBQ2USYdk-iNS0mev-g)
-- [使用 Vue3 开发小程序？没错，现在就可以！](https://mp.weixin.qq.com/s/HnM-BQdmJYYMR6zPGSZcFg)
 - [深入理解 Vue3 Reactivity API](https://mp.weixin.qq.com/s/0Dqj7LI2PG3XYH2G-dNhGw)
+
