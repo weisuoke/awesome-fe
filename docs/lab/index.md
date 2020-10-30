@@ -66,6 +66,7 @@ order: 1
   - [一文助你搞懂 AST](https://mp.weixin.qq.com/s/SbrDCjzREFf9PSZKn2d66Q)
   - [手把手教你写几个实用的AST插件](https://mp.weixin.qq.com/s/-CC2a31NgrsUZCYrfTI-Dg)
   - [【源码解析+代码实现】一篇文章搞定 babel-plugin-import 插件](https://juejin.im/post/5eefff756fb9a0589b027d97?utm_source=gold_browser_extension)
+  - [【编译篇】AST实现函数错误的自动上报](https://juejin.im/post/6888470833237327879?utm_source=gold_browser_extension)
 - Word
   - [在前端如何玩转 Word 文档](https://juejin.im/post/5f0b34f85188252e6c60ec85)
 - Node
@@ -171,6 +172,15 @@ order: 1
   -  [Flutter 核心原理与混合开发模式](https://mp.weixin.qq.com/s/SK64Yl_FoS6kdNU0KAdPGg)
 - Deno
   - [Deno 钻研之术](https://github.com/hylerrix/deno-tutorial)
+- WebGL
+  - [一起来玩玩WebGL--第一弹](https://mp.weixin.qq.com/s/bR5IBdETINDcVsqMx6Xl_w)
+  - [气象风力可视化实践（mapbox+webgl)](https://juejin.im/post/6858218795422220295?utm_source=gold_browser_extension)
+- Electron
+	- [Sugar-Electron 基于Electron的轻量级开发框架](https://juejin.im/post/6857402778122190856?utm_source=gold_browser_extension)
+	- [超详实！带你一步步搭建Electron10+React16+Antd4架构工程](https://juejin.im/post/6886653370170343432?utm_source=gold_browser_extension)
+	- [Electron+vue从零开始打造一个本地音乐播放器](https://juejin.im/post/6887964816237920263?utm_source=gold_browser_extension)
+	- [聊聊 electron 中实现多窗口之间的通信方式](https://juejin.im/post/6887908223395823630?utm_source=gold_browser_extension)
+	- [Electron 架构揭秘](https://mp.weixin.qq.com/s/f-fR8Nmc1yda4_9WT0NVpw)
 
 ## 算法
 
@@ -210,7 +220,7 @@ order: 1
 - [总是做些没什么技术含量的运营活动开发怎么办？](https://juejin.im/post/6872655593354559495?utm_source=gold_browser_extension)
 - [《一年顶十年》干货读书笔记](https://mp.weixin.qq.com/s/9cDxdnyAa4WBJBjqdnfZsg)
 - [不写文档你就输了](https://mp.weixin.qq.com/s/zjsujU5hiPg0WUwsYC8P-g)
-- [我的编程能力从什么时候开始突飞猛进](https://mp.weixin.qq.com/s/bFXfePeg7UcRt_QgJCfKhQ)
+- ~~[我的编程能力从什么时候开始突飞猛进](https://mp.weixin.qq.com/s/bFXfePeg7UcRt_QgJCfKhQ)~~
 - [什么是架构师的必备技能？](https://mp.weixin.qq.com/s/g1wIGkWpJsxknBbqSrBTZA)
 - ~~[请赶紧删除它们](https://mp.weixin.qq.com/s/LRs-stZwTd-DDsXhHYYtBw)~~
 - [GitHub上最励志的计算机自学教程](https://mp.weixin.qq.com/s/VwlplWFT_4k_uOkn2xBOiQ)
@@ -228,3 +238,22 @@ order: 1
 - [我的前端技术专家长成之路](https://mp.weixin.qq.com/s/U6PsJdBz3H4r3xm2hszA0g)
 - [如何将业务代码写得更优雅](https://mp.weixin.qq.com/s/Hga6Ef4uTdXru9w59T8t7A)
 - [一名优秀的前端工程师要掌握的JavaScript 技巧](https://mp.weixin.qq.com/s/p7X6m0R5ndnEDux5-aL5Tw)
+- [2019年京东PLUS会员前端开发之路]()
+- [作为前端，我对业务的一点理解](https://mp.weixin.qq.com/s/hTsB5x2GZkj13ncDV5X5Sg)
+- [谈谈工程师的成长密码](https://mp.weixin.qq.com/s/fQlbPf6-rZW8cMwmejYsNA)
+- [我在阿里这半年](https://mp.weixin.qq.com/s/BwWfXMFk49E2AE82yWpjww)
+
+## 架构
+
+- [微内核架构在前端的应用](https://mp.weixin.qq.com/s/ywc98dS4TVB4t3L2tIyk8g)
+- [大厂如何开发和部署前端代码？淘宝8年案例解读](https://juejin.im/post/5ee73e416fb9a047d564704e?utm_source=gold_browser_extension)
+- [【第1993期】前端架构鉴赏01：Angular 架构模式与最佳实践](https://mp.weixin.qq.com/s/gz98PLI4ne1-AAa-MMC6aw)
+- [老旧系统改造要点](https://mp.weixin.qq.com/s/hxPE9Sm4_QrAR9dKUQROgg)
+- [「可视化搭建系统」——从设计到架构，探索前端的领域和意义](https://juejin.im/post/6854573220532748302)
+- [面向复杂场景的表单解决方案](https://juejin.im/post/6862869137710907405?utm_source=gold_browser_extension)
+- [Gitlab-ci: 从零开始的前端自动化部署](https://mp.weixin.qq.com/s/NH6EzRgFrhS6z2jYnI2E2Q)
+- [Antlr4 前端应用与实践](https://juejin.im/post/6872931804362309640?utm_source=gold_browser_extension)
+- [vivo商城前端架构升级-总览篇](https://mp.weixin.qq.com/s/vD9yvYNaxTQBLABik6aqNg)
+- [前端插件化架构的探索和实践](https://mp.weixin.qq.com/s?__biz=Mzg4MzE2MzY1OA==&mid=2247485081&idx=1&sn=aaf43d2b82145a9c07c94ae6d024654e&chksm=cf4ad1fcf83d58ea7e77b359e2e4c19d52d8f18d80ad3c23c8f7f950f10efc1d326270e0279e&token=948623849&lang=zh_CN#rd)
+- [基于业务场景下的图片/文件上传方案总结](https://mp.weixin.qq.com/s/xRaHM0EhpOhUkSbjS6yRWw)
+- 

@@ -19,3 +19,4 @@ order: 1
 - [下一个时代的打包工具 esbuild](https://mp.weixin.qq.com/s/NxIU7jw8u1jq7826hMVm4Q)
 - [替代 webpack？带你了解 snowpack 原理，你还学得动么](https://mp.weixin.qq.com/s/Mj0ukGnHPGW8rQR3FIB1CA)
 - [精读《snowpack》](https://mp.weixin.qq.com/s/BKS3g47Im1imrkI55JjWSg)
+- [vite对比webpack的优势](https://mp.weixin.qq.com/s/YD2bSyKVRp-W4GsR2cFl_Q)

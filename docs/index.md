@@ -1,5 +1,5 @@
 ---
-title: 前端面试手册
+title: Awesome frontend
 order: 10
 hero:
   title: Awesome Front-end develop
