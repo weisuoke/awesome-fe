@@ -213,34 +213,24 @@ order: 1
 
 - [多图 | 作为前端，工作中处理过什么复杂的需求，如何解决的?](https://www.zhihu.com/question/362103682/answer/1024196584)
 - [前端如何在项目中做出亮点](https://mp.weixin.qq.com/s/mlbgKrv8cn6k8nO1x19NfA)
-- [当前端基建任务落到你身上，该如何推动协作？](https://mp.weixin.qq.com/s/H7_twpnFA9Tug7ege94Ygw)
 - [互动生产力进化之路 | 618 淘系前端技术分享](https://mp.weixin.qq.com/s/VxGB0w5nPsMoKM-exa2-ww)
 - [纯干货｜程序员如何利用周末提高自己？](https://mp.weixin.qq.com/s/NMwvRAbcSBdGoILvmgHYeg)
 - [编写高质量可维护的代码：优化逻辑判断](https://juejin.im/post/6859125809655840776?utm_source=gold_browser_extension)
 - [总是做些没什么技术含量的运营活动开发怎么办？](https://juejin.im/post/6872655593354559495?utm_source=gold_browser_extension)
-- [《一年顶十年》干货读书笔记](https://mp.weixin.qq.com/s/9cDxdnyAa4WBJBjqdnfZsg)
 - [不写文档你就输了](https://mp.weixin.qq.com/s/zjsujU5hiPg0WUwsYC8P-g)
-- ~~[我的编程能力从什么时候开始突飞猛进](https://mp.weixin.qq.com/s/bFXfePeg7UcRt_QgJCfKhQ)~~
-- [什么是架构师的必备技能？](https://mp.weixin.qq.com/s/g1wIGkWpJsxknBbqSrBTZA)
-- ~~[请赶紧删除它们](https://mp.weixin.qq.com/s/LRs-stZwTd-DDsXhHYYtBw)~~
 - [GitHub上最励志的计算机自学教程](https://mp.weixin.qq.com/s/VwlplWFT_4k_uOkn2xBOiQ)
 - [2020前端30K知识清单-国庆都结束了，赶紧充电学习!](https://mp.weixin.qq.com/s/eH7kCvqON7yqs0Y-A4h_8g)
-- [快速学会新东西，最重要的一点诀窍](https://mp.weixin.qq.com/s/oQWPya36PK5Wv6BKSQ-ZgQ)
 - [成为最差前端开发的10个建议](https://mp.weixin.qq.com/s/hdSC0zygcrTdqGUzBQ_ywA)
 - [想精进前端的自我反省](https://mp.weixin.qq.com/s/vMdsKT-0dvci3sfwhUb9MA)
-- [5G前端时代会迎来什么改变？](https://mp.weixin.qq.com/s/_9CbOh42GA8ZsUXg-R_eDQ)
-- [回炉重铸， 91 天见证不一样的自己（第二期）](https://mp.weixin.qq.com/s/eAUmLZSeqjuWl67c9X1B6w)
 - [作为前端，我对业务的一点理解](https://mp.weixin.qq.com/s/deXNiWZivpgD_N88XU2QKg)
 - [你好：打工人，请收下我不成熟的开发技巧](https://mp.weixin.qq.com/s/Rs6prVOWx7KhnSeDX_zS0w)
 - [2020年：前端开发的痛苦与快乐](https://mp.weixin.qq.com/s/rvwdiB6qdWpHuxjo09M5cg)
-- [**只有平庸的人，才总是处于最佳状态**](https://mp.weixin.qq.com/s/3ae1Sa4E_vO1XQZs8B6Zkg)
 - [程序员，为什么不建议你写框架](https://mp.weixin.qq.com/s/GaEoLZY4Dr_pfrhyTGLcQg)
 - [我的前端技术专家长成之路](https://mp.weixin.qq.com/s/U6PsJdBz3H4r3xm2hszA0g)
 - [如何将业务代码写得更优雅](https://mp.weixin.qq.com/s/Hga6Ef4uTdXru9w59T8t7A)
 - [一名优秀的前端工程师要掌握的JavaScript 技巧](https://mp.weixin.qq.com/s/p7X6m0R5ndnEDux5-aL5Tw)
 - [2019年京东PLUS会员前端开发之路]()
 - [作为前端，我对业务的一点理解](https://mp.weixin.qq.com/s/hTsB5x2GZkj13ncDV5X5Sg)
-- [谈谈工程师的成长密码](https://mp.weixin.qq.com/s/fQlbPf6-rZW8cMwmejYsNA)
 - [我在阿里这半年](https://mp.weixin.qq.com/s/BwWfXMFk49E2AE82yWpjww)
 
 ## 架构
@@ -256,4 +246,27 @@ order: 1
 - [vivo商城前端架构升级-总览篇](https://mp.weixin.qq.com/s/vD9yvYNaxTQBLABik6aqNg)
 - [前端插件化架构的探索和实践](https://mp.weixin.qq.com/s?__biz=Mzg4MzE2MzY1OA==&mid=2247485081&idx=1&sn=aaf43d2b82145a9c07c94ae6d024654e&chksm=cf4ad1fcf83d58ea7e77b359e2e4c19d52d8f18d80ad3c23c8f7f950f10efc1d326270e0279e&token=948623849&lang=zh_CN#rd)
 - [基于业务场景下的图片/文件上传方案总结](https://mp.weixin.qq.com/s/xRaHM0EhpOhUkSbjS6yRWw)
-- 
+- [当前端基建任务落到你身上，该如何推动协作？](https://mp.weixin.qq.com/s/H7_twpnFA9Tug7ege94Ygw)
+
+## TypeScript
+
+- [TypeScript在Model中的高级应用](https://mp.weixin.qq.com/s/xV8VoSXfUCjlR1DCvrsWlQ)
+- [1.2W字 | 了不起的 TypeScript 入门教程](https://juejin.im/post/5edd8ad8f265da76fc45362c?utm_source=gold_browser_extension)
+- [typescript实战总结之实现一个互联网黑白墙](https://juejin.im/post/6859292592195158030)
+- ["无 Typescript" 编程](https://juejin.im/post/6862981984801521672?utm_source=gold_browser_extension)
+- [**分享一个电商系统-可对接无人零售：Eggjs+Tarojs+AntDesign+React+Graphql+Typescript**](https://cnodejs.org/topic/5ef8528213f8b244e57cbcc3)
+- [typescript高级用法之infer的理解与使用](https://mp.weixin.qq.com/s/bUZKtHgmKbspS3v25Z8GvQ)
+- [TypeScript：一个好泛型的价值](https://mp.weixin.qq.com/s/Do2xI7JrUWghs9Ck1-0L3g)
+- [你不知道的 TypeScript 泛型（万字长文，建议收藏）](https://mp.weixin.qq.com/s/bNn3D-O2ZJbYZCCfqHGKxw)
+- [技术胖的 TypeScript免费视频图文教程（2W字）](https://juejin.im/post/6876240277208563720)
+- [TypeScript中的六个重新让你认知的知识点](https://mp.weixin.qq.com/s/mK9-uweUowhJFmof-UdOjw)
+- [Next.js + TypeScript 搭建一个简易的博客系统](https://mp.weixin.qq.com/s/QM6MSsYK4cCv0i46TJExUw)
+- [TypeScript： 请停止使用 any](https://mp.weixin.qq.com/s/2_p7o2PKZwx8LEgW0w8Wsg)
+- [Vue3+TypeScript完整项目上手教程](https://mp.weixin.qq.com/s/04Ai2gspbAcPNpE6RYRGHA)
+
+## 后端
+
+### API
+
+- [四连问：API 接口应该如何设计？如何保证安全？如何签名？如何防重？](https://mp.weixin.qq.com/s/fBHW4mP7wO2Ez5UibLU47Q)
+

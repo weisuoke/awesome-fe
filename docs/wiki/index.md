@@ -16,10 +16,6 @@ order: 1
 
 ### 文章
 
-- [四连问：API 接口应该如何设计？如何保证安全？如何签名？如何防重？](https://mp.weixin.qq.com/s/fBHW4mP7wO2Ez5UibLU47Q)
-
-- [TypeScript在Model中的高级应用](https://mp.weixin.qq.com/s/xV8VoSXfUCjlR1DCvrsWlQ)
-
 - [10个打开了我新世界大门的 WebAPI](https://juejin.im/post/5ee8c60ef265da76ed486e20?utm_source=gold_browser_extension)
 
 - [你可能不知道的15个有用的Github功能](https://juejin.im/post/5ee97b4ef265da770b40ea8b?utm_source=gold_browser_extension)
@@ -29,8 +25,6 @@ order: 1
 - [前端电商 sku 的全排列算法很难吗？学会这个套路，彻底掌握排列组合。](https://juejin.im/post/5ee6d9026fb9a047e60815f1?utm_source=gold_browser_extension)
 
 - [周末学习发现了 10 个好用JavaScript图像处理库](https://juejin.im/post/5ee95c29518825431a66bea9?utm_source=gold_browser_extension)
-
-- [1.2W字 | 了不起的 TypeScript 入门教程](https://juejin.im/post/5edd8ad8f265da76fc45362c?utm_source=gold_browser_extension)
 
 - [一道头条面试题：如何设计哈希函数并解决冲突问题](https://mp.weixin.qq.com/s/gXHbOraweaJubb4A9ywD-w)
 
@@ -90,8 +84,6 @@ order: 1
 
 - [前端页面可视化搭建工具业界的轮子](https://juejin.im/post/6858881797490098190?utm_source=gold_browser_extension)
 
-- [typescript实战总结之实现一个互联网黑白墙](https://juejin.im/post/6859292592195158030)
-
 - [一道价值25k的蚂蚁金服异步串行面试题](https://juejin.im/post/6860646761392930830?utm_source=gold_browser_extension)
 
 - [前端的计时是否准确，技术方案如何做](https://juejin.im/post/6861575487622217736?utm_source=gold_browser_extension)
@@ -101,8 +93,6 @@ order: 1
 - [前端音视频的那些名词](https://juejin.im/post/6861941219938418702?utm_source=gold_browser_extension)
 
 - [十分钟的时间，武装你的代码库](https://juejin.im/post/6861769180736126983?utm_source=gold_browser_extension)
-
-- ["无 Typescript" 编程](https://juejin.im/post/6862981984801521672?utm_source=gold_browser_extension)
 
 - [JS引擎（一）：JS中的JIT与基本执行逻辑](https://juejin.im/post/6863269040300032008?utm_source=gold_browser_extension)
 
@@ -226,8 +216,6 @@ order: 1
 
 - [起个简单枯燥的标题：找出连续差相同的数字](https://mp.weixin.qq.com/s/LRR62XL6y15G8rmUzp0ziQ)
 
-- [**分享一个电商系统-可对接无人零售：Eggjs+Tarojs+AntDesign+React+Graphql+Typescript**](https://cnodejs.org/topic/5ef8528213f8b244e57cbcc3)
-
 - [如何实现H5可视化编辑器的实时预览和真机扫码预览功能](https://mp.weixin.qq.com/s/SDegBMDBrfR3kWNgZTMQEQ)
 
 - [【第2077期】过去的未来：成为用户体验设计师](https://mp.weixin.qq.com/s/MtCuXoeYocOyrvfl5TNTyQ)
@@ -272,8 +260,6 @@ order: 1
 
 - [如何用Github轻松拉取谷歌容器镜像](https://mp.weixin.qq.com/s/Tz0wPN_ILfOu7kY5rIftrg)
 
-- [typescript高级用法之infer的理解与使用](https://mp.weixin.qq.com/s/bUZKtHgmKbspS3v25Z8GvQ)
-
 - [用OKR工作法拆解写作](https://mp.weixin.qq.com/s/0w5Uf-R_9HMbkMwJasZ3Mw)
 
 - [PHP与.NET统治Web开发世界的八个理由](https://mp.weixin.qq.com/s/sx4j2v9iNmPmhIa24MG7wg)
@@ -296,8 +282,6 @@ order: 1
 
 - [成为最差前端开发的10个建议](https://mp.weixin.qq.com/s/O6L3e84iV2P9up2viyIwwg)
 
-- [TypeScript：一个好泛型的价值](https://mp.weixin.qq.com/s/Do2xI7JrUWghs9Ck1-0L3g)
-
 - [细数 TS 中那些奇怪的符号](https://mp.weixin.qq.com/s/Vegt0rjDJjQnvxF3cQKrRw)
 
 - [知乎高赞：怎么学操作系统和计算机网络？（建议收藏）](https://mp.weixin.qq.com/s/E1PqGPJ_G9GDxASTWdJY-Q)
@@ -313,8 +297,6 @@ order: 1
 - [Spring5新增的两大功能，吹一波这个框架](https://mp.weixin.qq.com/s/t9IR4kbMrrSETAONNJTtSQ)
 
 - [十一疯狂偷学之：卡夫卡快速入门指南~](https://mp.weixin.qq.com/s/bUNAD2fkGTD73jVLw8rDHg)
-
-- [你不知道的 TypeScript 泛型（万字长文，建议收藏）](https://mp.weixin.qq.com/s/bNn3D-O2ZJbYZCCfqHGKxw)
 
 - [一行代码实现黑暗模式](https://mp.weixin.qq.com/s/pHvG4YAdxoytulGmPvN-oA)
 
@@ -359,8 +341,6 @@ order: 1
 - [姐姐问我什么是变基操作(git-rebase)](https://mp.weixin.qq.com/s/h_W3Sjx4tzyNt3tB_F9jhg)
 
 - [国庆八天教你怎么写出一个钢琴](https://mp.weixin.qq.com/s/SV_xXZ7yszHYrz4p8alVAw)
-
-- [技术胖的 TypeScript免费视频图文教程（2W字）](https://juejin.im/post/6876240277208563720)
 
 - [「面试」拿到B站的意向书](https://juejin.im/post/6879726910373380109)
 
@@ -536,8 +516,6 @@ order: 1
 
 - [从面试角度一文学完 Kafka](https://mp.weixin.qq.com/s/QF9b9vpncLS24xMzFkanTQ)
 
-- [TypeScript中的六个重新让你认知的知识点](https://mp.weixin.qq.com/s/mK9-uweUowhJFmof-UdOjw)
-
 - [『爬虫四步走』手把手教你使用Python抓取并存储网页数据！](https://mp.weixin.qq.com/s/vso9RYil3T9fg18VbrBDyA)
 
 - [Springboot整合RabbitMQ，怎么搞？](https://mp.weixin.qq.com/s/u9THTfRXEfiiXOoH3Olocg)
@@ -661,8 +639,6 @@ order: 1
 - [面试蚂蚁35K岗，3道题被干掉](https://mp.weixin.qq.com/s/8ysc_IWxvf13ci-e4LwIMg)
 
 - [Nginx 从入门到实践，万字详解！](https://mp.weixin.qq.com/s/b9Ft0IWvYifwwLNrb3zB1A)
-
-- [Next.js + TypeScript 搭建一个简易的博客系统](https://mp.weixin.qq.com/s/QM6MSsYK4cCv0i46TJExUw)
 
 - [如何处理 JavaScript 比较中的临界情况](https://mp.weixin.qq.com/s/zSjaTIX3kYUxRJNcD_BFIg)
 
@@ -859,8 +835,6 @@ order: 1
 - [Flutter 中三棵重要的树(渲染过程、布局约束、应用视图的构建等)](https://mp.weixin.qq.com/s/k4crVFDTEGRg93pI5LTMDQ)
 
 - [什么叫高并发？](https://mp.weixin.qq.com/s/fyOJXpSwpwGaM-Nnsc6kkg)
-
-- [TypeScript： 请停止使用 any](https://mp.weixin.qq.com/s/2_p7o2PKZwx8LEgW0w8Wsg)
 
 - [聊一聊如何搭建高性能网站](https://mp.weixin.qq.com/s/REjPf3HwOKsAuE6PB1Jq6A)
 
@@ -1178,8 +1152,6 @@ order: 1
 
 - [React hooks 最佳实践【更新中】](https://juejin.im/post/6888597510399623175?utm_source=gold_browser_extension)
 
-- [Next.js + TypeScript 搭建一个简易的博客系统](https://mp.weixin.qq.com/s/utN7ET-qGbiKL_La9p05MA)
-
 - [webpack 中最易混淆的 5 个知识点](https://mp.weixin.qq.com/s/BHSihethgh_zH0K1J3qwnA)
 
 - [【读懂源码】React 架构的演变 - 从同步到异步](https://mp.weixin.qq.com/s/jOTxys4HU-HiZeIMvf8KDg)
@@ -1247,6 +1219,92 @@ order: 1
 - [使用Vue3封装一些有用的组合API](https://juejin.im/post/6888925879243079687?utm_source=gold_browser_extension)
 
 - [一句有趣的JS代码](https://juejin.im/post/6888702006962814990?utm_source=gold_browser_extension)
+
+- [Springboot怎么整合Mybatis-plus？？？](https://mp.weixin.qq.com/s/m5a1ZpjcFmGXTEGyup9Irg)
+
+- [spring-cloud-oauth2实现用户认证及单点登录](https://mp.weixin.qq.com/s/UuH8XJDVt79xfRvPY04K_A)
+
+- [SpringBoot中filter的使用详解及原理](https://mp.weixin.qq.com/s/ogjnhZ4zvndLI1IsTzOhtg)
+
+- [【文末送书】揭秘 Go 实现的 Harbor 镜像仓库：首个中国的 CNCF 毕业项目](https://mp.weixin.qq.com/s/CIaeR-xQ_UeMwa0fgcs7qw)
+
+- [限流中的漏桶和令牌桶算法理论剖析](https://mp.weixin.qq.com/s/crxPU9SBbCTKCUHxwg7zGw)
+
+- [值得一看的小程序 TabBar 创意动画](https://mp.weixin.qq.com/s/3QN9U7gpFJWc1sFNd6ZNMQ)
+
+- [Spring Boot 2 + Spring Security 5 + JWT 的单页应用 Restful 解决方案](https://mp.weixin.qq.com/s/Yi44ZW46nEOILMZ34fi6Lg)
+
+- [前端组件化埋点的实践](https://mp.weixin.qq.com/s/tWgeXw43inYAfq4dChQBYg)
+
+- [GitHub 热榜：标星 1.6w，黑客必看的黑魔法开发指南！](https://mp.weixin.qq.com/s/kb2-0ELTnsbHTOJUKUgC0g)
+
+- [我在大厂写React学到了什么？性能优化篇](https://mp.weixin.qq.com/s/A6jmQx67CCMWmDHj5cQOFQ)
+
+- [前端前沿观察，Cookie 居然可以这样整了](https://mp.weixin.qq.com/s/yBbzkPYhJomjXP-a_TeIVg)
+
+- [前端隐秘角落 - web安全的演变历程](https://mp.weixin.qq.com/s/Z6dMK6u1aAYEGU4SNmI-uw)
+
+- [Guava - 拯救垃圾代码，写出优雅高效，效率提升N倍](https://mp.weixin.qq.com/s/PvCGOZULzjbtNm6x9iLs-A)
+
+- [五分钟，带你彻底掌握 MyBatis缓存 工作原理](https://mp.weixin.qq.com/s/DM1M2ZV288zwqXU5bl8Q0Q)
+
+- [彻底搞懂 Node.js 中的 Require 机制(源码分析到手写实践)](https://mp.weixin.qq.com/s/M8KyGY_PjtxcvFrGb8cbww)
+
+- [大厂是如何自动化部署Web应用的？（收藏！）](https://mp.weixin.qq.com/s/mlXzGH6ex-XEKn0Z935RsQ)
+
+- [你可能不知道的Animation动画技巧与细节](https://juejin.im/post/6889226357851553805?utm_source=gold_browser_extension)
+
+- [node.js 沙盒逃逸分析](https://juejin.im/post/6889226643525599240?utm_source=gold_browser_extension)
+
+- [腾讯IMWeb团队是如何使用 NodeJS 实现 JWT 原理](https://mp.weixin.qq.com/s/QCv4qhUv2a7kj3mXMrzgZg)
+
+- [JavaScript ES2021最值得期待的新特性解析](https://mp.weixin.qq.com/s/z2jqutCTMuLm8ZAuKF0a_Q)
+
+- [从生产到消费，基于物料的前端开发链路](https://mp.weixin.qq.com/s/80uv4IIXAllOqlRqJWMUfQ)
+
+- [在Ant Design 4.0里，我们如何追求快乐的工作？](https://mp.weixin.qq.com/s/F6g4SyJyZj0-DGdsxvbzxw)
+
+- [奇舞周刊第 370 期：官方文档编写指南](https://mp.weixin.qq.com/s/cuzDxAhR9BEGwfWuMrHHHQ)
+
+- [带你彻底掌握 MyBatis缓存工作原理](https://mp.weixin.qq.com/s/nkoUjud9_-QhG5Tp40gFeA)
+
+- [Vue 3 高阶指南之 WeakSet](https://mp.weixin.qq.com/s/fED2inUejcK6JsC9j7BCwA)
+
+- [前端程序员必须掌握之三角函数在前端动画中的应用](https://mp.weixin.qq.com/s/sBpzQZHyS7acBimTdkRHoA)
+
+- [【第2103期】阿里@铁军：保持成长动力，与技术、业务、团队共成长](https://mp.weixin.qq.com/s/0UsqSctPMpDGpsPw-76ivw)
+
+- [20+个可视化搭建工具，一次玩个够](https://mp.weixin.qq.com/s/RGzFTo7c9-vZlVbFo4w6AA)
+
+- [根据公司的业务需求我是这样封装组件的](https://mp.weixin.qq.com/s/-YtUWzn5CDMyeeqQw3prHw)
+
+- [「Redux源码解析」亿(一)点点我的思考](https://juejin.im/post/6889194239675072520?utm_source=gold_browser_extension)
+
+- [小程序云函数接口设计](https://juejin.im/post/6889230609269391367?utm_source=gold_browser_extension)
+
+- [快速复习和理解React Hooks的基本用法，面试好帮手](https://juejin.im/post/6889216661908357133?utm_source=gold_browser_extension)
+
+- [React源码系列五：React Scheduler调度原理第一篇](https://juejin.im/post/6889314677528985614?utm_source=gold_browser_extension)
+
+- [多业务场景下前端工程化的思考](https://juejin.im/post/6889342911905792013?utm_source=gold_browser_extension)
+
+- [Vue 中 MathJax 的使用与渲染的监听 (下)](https://juejin.im/post/6889356770012528648?utm_source=gold_browser_extension)
+
+- [活动可视化搭建系统——你的KPI被我承包了](https://juejin.im/post/6889320306800852999?utm_source=gold_browser_extension)
+
+- [前端测试最佳实践（持续更新，建议收藏）](https://mp.weixin.qq.com/s/c3fYEndmMTFfsyWwjj35ag)
+
+- [一文读懂channel设计](https://mp.weixin.qq.com/s/hVPIi4VVyRrO8T5Zd3E11A)
+
+- [高阶函数应用：柯里化与反柯里化](https://mp.weixin.qq.com/s/vMdqz_-e1UfY1tGdrCgmOw)
+
+- [知乎社区核心业务 Golang 化实践](https://mp.weixin.qq.com/s/10BBSbuk1mn3QC5AgI5sWA)
+
+- [Kubernetes API 编程利器：Operator 和 Operator Framework](https://mp.weixin.qq.com/s/VNhVI_ecGdk-gToJienHNg)
+
+- [一文精通 Webpack 构建流程](https://mp.weixin.qq.com/s/p-WwFpSgmIQE6Hl2PhHOBQ)
+
+- 
 
   
 
