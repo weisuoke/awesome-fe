@@ -270,3 +270,31 @@ order: 1
 
 - [四连问：API 接口应该如何设计？如何保证安全？如何签名？如何防重？](https://mp.weixin.qq.com/s/fBHW4mP7wO2Ez5UibLU47Q)
 
+## 其他
+
+- [10个打开了我新世界大门的 WebAPI](https://juejin.im/post/5ee8c60ef265da76ed486e20?utm_source=gold_browser_extension)
+
+## Github
+
+- [你可能不知道的15个有用的Github功能](https://juejin.im/post/5ee97b4ef265da770b40ea8b?utm_source=gold_browser_extension)
+- [GitHub 上的顶级项目都是做什么的？（一）](https://zhuanlan.zhihu.com/p/58449931)
+- [GitHub 上的顶级项目都是做什么的？（二）](https://zhuanlan.zhihu.com/p/59125383)
+- [GitHub 上面的顶级项目都是做什么的？（三）](https://zhuanlan.zhihu.com/p/107097907)
+- [GitHub 上面的顶级项目都是做什么的？（四）](https://zhuanlan.zhihu.com/p/107913062)
+- [GitHub 上的“神书”：《500 Lines or Less》](https://mp.weixin.qq.com/s/q-7_TNXmfOeijQOuBA4uQg)
+- [霸榜 GitHub：又一款 OCR 神器面世！](https://mp.weixin.qq.com/s/hNge3mr1zy4tZR9mS3pQYA)
+- [程序员的开源月刊：HelloGitHub（第 54 期）](https://mp.weixin.qq.com/s/63UizEeFMi_QDv-E3aJIjQ)
+- [过万 star 高星项目的秘密——GitHub 热点速览 Vol.39](https://mp.weixin.qq.com/s/L-4wbVt-K1MHxaC-lGjtmg)
+- [Github上有趣的100个python项目](https://mp.weixin.qq.com/s/TKClh0CAh-fYJbG-BAmiBw)
+- [如何用Github轻松拉取谷歌容器镜像](https://mp.weixin.qq.com/s/Tz0wPN_ILfOu7kY5rIftrg)
+- [持续集成利器，GitHub Actions](https://mp.weixin.qq.com/s/yvMdaAO_386A8LAGE5YiPQ)
+- [极客 Play 玩 Terminal——GitHub 热点速览 Vol.40](https://mp.weixin.qq.com/s/lk2v3_jj8jiDBoFKqLAKVQ)
+- [前端周报：恶意npm软件包收集用户隐私信息并在GitHub传播；传迅雷前CEO曾派司机进机房盗取数据；微软允许员工永久在家办公](https://mp.weixin.qq.com/s/4yVuvP2NyObe6pSwyS4c7w)
+- [收藏夹吃灰了：GitHub 上值得收藏的100个精选前端项目](https://mp.weixin.qq.com/s/kHpRlWZJ9Q6Pziy9xhuADQ)
+- [NB 的开源项目遍地开花——GitHub 热点速览 Vol.41](https://mp.weixin.qq.com/s/ZBbE3m0QIMXvgFfKRovOvA)
+- [懒人福音——GitHub 热点速览 Vol.42](https://mp.weixin.qq.com/s/NKvHv4DXSqEnFQ6x8Qtlgw)
+- [GitHub CLI is Now Available: Here’s Why You Should Be Excited](https://blog.bitsrc.io/github-cli-is-now-available-heres-why-you-should-be-excited-91d8bdd81a51)
+- [前端项目自动化部署——超详细教程（Jenkins、Github Actions）](https://juejin.im/post/6887751398499287054?utm_source=gold_browser_extension)
+- [GitHub 上值得收藏的 100 个精选前端项目！](https://mp.weixin.qq.com/s/gg9CFRgGLeizETEGa5WrWg)
+- [全球最火的程序员学习路线！没有之一！3天就在Github收获了接近1w点赞](https://juejin.im/post/6888613308153692174?utm_source=gold_browser_extension)
+- [GitHub 热榜：标星 1.6w，黑客必看的黑魔法开发指南！](https://mp.weixin.qq.com/s/kb2-0ELTnsbHTOJUKUgC0g)
