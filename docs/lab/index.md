@@ -21,6 +21,7 @@ order: 1
       - [[译] 使用 microbundle 打包 TypeScript 组件库](https://cloud.tencent.com/developer/article/1676230)
       - [彻底学会element-ui按需引入和纯净主题定制](https://mp.weixin.qq.com/s/Jx7kv9VUbvoT2LDET9Oy4Q)
       - [如何设计组件还不会吗？简单谈论下组件化思想](https://mp.weixin.qq.com/s/cCEe-xUCSdo2dI6uDgDJKw)
+      - "可插拔式"组件设计，领略组件开发的奥秘
     - Storybook5.x + React (Inspire by - 慕课网实战组件)
     - Storybook6.x + React + Rollup + StyledComponents
     - Storybook6.x + React + Rollup + Less/Sass
@@ -124,7 +125,7 @@ order: 1
   - [推荐12款适合做Java后台管理系统的项目](https://mp.weixin.qq.com/s/uQLZLn3o7Ri_JD0OfY0FGA)
   - [一套完整的 后台管理系统，赚钱就靠它了！](https://mp.weixin.qq.com/s/gdNyaVnK3hO01FaFhsGyXg)
   - [强大，10k+点赞的 SpringBoot 后台管理系统竟然出了详细教程！](https://mp.weixin.qq.com/s/Eor6cDxceKfdVOtW-05VqA)
-	- [分享一个标星42.4k 的商城管理后台项目模板](https://mp.weixin.qq.com/s/Z916LX1BLxQDgiuERCz6Fg)
+  - [分享一个标星42.4k 的商城管理后台项目模板](https://mp.weixin.qq.com/s/Z916LX1BLxQDgiuERCz6Fg)
 - WebAssembly
   - [WebAssembly 如何提升 JavaScript 的性能？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651239720&idx=1&sn=623a5af3987ec7b399cc0247011aa959&scene=21#wechat_redirect)
   - [如何使用 WebAssembly 和 JS 构建高性能应用程序](https://mp.weixin.qq.com/s/QexDmAXNEQ2O9Ae-S20oIg)
@@ -168,8 +169,8 @@ order: 1
   - [Graphic：基于图形语法的 Flutter 可视化库](https://zhuanlan.zhihu.com/p/247778062?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
   - [12种Flutter开发工具推荐](https://mp.weixin.qq.com/s/qJTB9eyAtIJ3PJZ1kh4T7w)
   - [Flutter 最佳实践](https://mp.weixin.qq.com/s/Xqdw3LcVkk0iPE7kHYxkiw)
-  -  [一套代码、多端运行，Flutter是如何实现的？](https://mp.weixin.qq.com/s/gd7r_HKHuZqcsu4QKW6ZEA)
-  -  [Flutter 核心原理与混合开发模式](https://mp.weixin.qq.com/s/SK64Yl_FoS6kdNU0KAdPGg)
+  - [一套代码、多端运行，Flutter是如何实现的？](https://mp.weixin.qq.com/s/gd7r_HKHuZqcsu4QKW6ZEA)
+  - [Flutter 核心原理与混合开发模式](https://mp.weixin.qq.com/s/SK64Yl_FoS6kdNU0KAdPGg)
 - Deno
   - [Deno 钻研之术](https://github.com/hylerrix/deno-tutorial)
 - WebGL
@@ -298,3 +299,34 @@ order: 1
 - [GitHub 上值得收藏的 100 个精选前端项目！](https://mp.weixin.qq.com/s/gg9CFRgGLeizETEGa5WrWg)
 - [全球最火的程序员学习路线！没有之一！3天就在Github收获了接近1w点赞](https://juejin.im/post/6888613308153692174?utm_source=gold_browser_extension)
 - [GitHub 热榜：标星 1.6w，黑客必看的黑魔法开发指南！](https://mp.weixin.qq.com/s/kb2-0ELTnsbHTOJUKUgC0g)
+
+## 算法
+
+- [前端电商 sku 的全排列算法很难吗？学会这个套路，彻底掌握排列组合。](https://juejin.im/post/5ee6d9026fb9a047e60815f1?utm_source=gold_browser_extension)
+- [算法图解：如何用两个栈实现一个队列？](https://mp.weixin.qq.com/s/18GdYCCaaltx4ZMVkPsptg)
+- [简单易懂的回溯算法（Back Tracking)](https://mp.weixin.qq.com/s/IJQuAdXYVtt2REUe6bI6MA)
+- [深度剖析Tim Sort - Pyhon及Chrome引擎v8使用的高效排序算法](https://juejin.im/post/6857161900225101832?utm_source=gold_browser_extension)
+- [「算法与数据结构」Trie树之美](https://juejin.im/post/6888451657504391181?utm_source=gold_browser_extension)
+- [算法一招鲜：环形链表之双指针](https://mp.weixin.qq.com/s/gcDAecLRx1YEE_Tn-Ex-oQ)
+- [「算法与数据结构」二叉树之美](https://mp.weixin.qq.com/s/GlNQquZ-E1ge0aBTHizKIQ)
+- [【小小心得】证明洗牌算法随机性](https://juejin.im/post/6890513616236363790?utm_source=gold_browser_extension)
+- [写给前端的算法进阶指南，我是如何两个月零基础刷200题](https://juejin.im/post/5f05087cf265da22d466f60f)
+- [算法数据结构：回溯、贪心、动态规划](https://juejin.im/post/6855129007823061006)
+- [「算法与数据结构」DFS和BFS算法之美](https://juejin.im/post/6861376131615227912?utm_source=gold_browser_extension)
+- [漏桶、令牌桶限流算法的Go语言实现](https://mp.weixin.qq.com/s/T_LvVfAOzgANO1XSCViJrw)
+- [面试官爱问的 10 大经典排序算法，20+张图来搞定](https://mp.weixin.qq.com/s/yLPy6rAYe9cOp0oDsjHJVw)
+- [「算法与数据结构」带你看回溯算法之美](https://mp.weixin.qq.com/s/LBsEiETOCCuMxjp_dtR14g)
+- [「算法与数据结构」链表的9个基本操作](https://mp.weixin.qq.com/s/_zy-enQroI6Qg3avOnFAOQ)
+- [作为前端，我是如何在Leetcode 算法比赛中进入前100的](https://mp.weixin.qq.com/s/IvEuoOjwRbPD10ljna-kGg)
+- [提前批算法工程师面试之路 （第二弹）](https://mp.weixin.qq.com/s/14fJ1dpe86ztLPwsUwnrXg)
+- [大话字符串匹配KMP算法](https://mp.weixin.qq.com/s/_OvSpWLxbzP4QKpt0oTpxw)
+- [比KMP快7倍的Sunday算法是什么来头？](https://mp.weixin.qq.com/s/gBLC0TvKlSJ64Kx4eliZEw)
+- [小白学算法：买卖股票的最佳时机！](https://mp.weixin.qq.com/s/44VT8Y2VXgxe3TC-I4CQ_w)
+- [限流中的漏桶和令牌桶算法理论剖析](https://mp.weixin.qq.com/s/crxPU9SBbCTKCUHxwg7zGw)
+
+## 智能化
+
+- 双十一模块 79.34% 的代码是怎样智能生成的
+- 前端人工智能？TensorFlow.js 学会游戏通关
+- [初探 TensorFlow.js](https://mp.weixin.qq.com/s/DlycsXT--kOTuEXvVqxnjQ)
+- [前端入门机器学习 Tensorflow.js 简明教程](https://mp.weixin.qq.com/s/OlrRhVTivnvIMKvTyVh93Q)
