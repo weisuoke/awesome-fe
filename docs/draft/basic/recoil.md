@@ -13,7 +13,7 @@ order: 5
 
 ## 使用
 
-```jsx
+```js
 import React, { useState } from 'react';
 import { RecoilRoot, atom, useRecoilState } from './recoil';
 import ReactDOM from 'react-dom';
@@ -76,7 +76,7 @@ export {
 
 src/recoil/RecoilRoot.js
 
-```jsx
+```js
 import React, { useRef } from 'react'
 import AppContext from './AppContext'
 
@@ -159,3 +159,5 @@ export default useRecoilState;
 
 - [细聊Concent & Recoil , 探索react数据流的新开发模式](https://juejin.im/post/5eda2a0ef265da76fa4b6c03?utm_source=gold_browser_extension)
 - [Facebook 新一代 React 状态管理库 Recoil](https://mp.weixin.qq.com/s/CK8jcN4tVrOw_lx5MHSr6Q)
+
+- [技术周刊 · 实现 Recoil 只需百行代码？](https://mp.weixin.qq.com/s/_z3QEAMrChNIU-wzHRn81A)
