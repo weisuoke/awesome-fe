@@ -817,6 +817,11 @@ order: 1
 - [手把手带你入门前端工程化——超详细教程](https://juejin.im/post/6892003555818143752?utm_source=gold_browser_extension)
 - [简简单单写个九宫格抽奖组件（一）](https://juejin.im/post/6892231633907220493?utm_source=gold_browser_extension)
 - [忙了一夜用CompositionAPI征服产品妹子花里胡哨的需求](https://juejin.im/post/6891885484524437518?utm_source=gold_browser_extension)
+- [【第2111期】知乎部署系统演进](https://mp.weixin.qq.com/s/A2ORb7cd4AaGOvLfFXWkSg)
+- [技术和方案，不能拆开来看](https://mp.weixin.qq.com/s/xEmrZaASMgitDxCTLgCEFQ)
+- [从「微信公众号」的场景来理解和实现观察者模式](https://mp.weixin.qq.com/s/M4n0-TKWecolifrUe9JBfg)
+- [前端 api 请求缓存方案](https://mp.weixin.qq.com/s/M4n0-TKWecolifrUe9JBfg)
+- [关于后台管理系统前端项目的思考](https://juejin.im/post/6892665349611896845?utm_source=gold_browser_extension)
 
 
 
