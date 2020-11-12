@@ -109,16 +109,9 @@ order: 2
 
 - [Spirit](https://spiritapp.io/)
 - [mojs](https://github.com/mojs/mojs) The motion graphics toolbelt for the web.
-
 - [zz85/timeliner](https://github.com/zz85/timeliner) simple javascript timeline library for animation and prototyping
-
 - [mattdesl/keytime](https://github.com/mattdesl/keytime) [EXPERIMENT] keyframe animation tools
-
 - [mrdoob/frame.js](https://github.com/mrdoob/frame.js) JavaScript Animation Framework
-
 - [Sprite3D.js](http://minimal.be/lab/Sprite3D/) a small library for generating and manipulating CSS 3D transforms
-
 - [Dwitter](https://www.dwitter.net/)
-
 - [airbnb/lottie-web](https://github.com/airbnb/lottie-web)
-

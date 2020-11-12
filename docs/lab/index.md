@@ -330,3 +330,19 @@ order: 1
 - 前端人工智能？TensorFlow.js 学会游戏通关
 - [初探 TensorFlow.js](https://mp.weixin.qq.com/s/DlycsXT--kOTuEXvVqxnjQ)
 - [前端入门机器学习 Tensorflow.js 简明教程](https://mp.weixin.qq.com/s/OlrRhVTivnvIMKvTyVh93Q)
+
+## 前端早早聊主题
+
+### lowCode
+
+- 如何设计实现 PC 站点搭建 Schema
+- 如何设计实现中后台搭建 Paas服务
+- 如何设计实现 H5 页面搭建 | 数据模型
+- 如何为搭建物料自动生成代码 | 自动编码
+- 如何设计实现 toC 营销搭建 | 终端秒开
+- 如何设计实现跨端页面搭建 | 跨端模块
+- 如何设计实现 toB 商家搭建 | 海量部署
+
+
+
+src/schemas/resources/resource.graphqls
