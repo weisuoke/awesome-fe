@@ -1912,6 +1912,22 @@ order: 1
 
 - [手把手教你实现拼图互动小游戏(纯VUE版本)](https://mp.weixin.qq.com/s/0MpVvsXLR-V5dRUK0uJyWg)
 
+- [手把手教你做一个华为鸿蒙系统Demo级项目（JS角度）](https://mp.weixin.qq.com/s/c7GMkn4nI16Yyz5nwiN52g)
+
+- [快速使用Vue3最新的15个常用API](https://mp.weixin.qq.com/s/ihL86c5WSqEvtZRrG494UQ)
+
+- [有必要使用服务器端渲染(SSR)吗？](https://mp.weixin.qq.com/s/_hQRjrH7SELDSxPmaWOkww)
+
+- [JS数组奇巧淫技](https://mp.weixin.qq.com/s/tuuajm-9o_5egdmeFBJEig)
+
+- [Next.js +Egg.js+React项目部署详解](https://mp.weixin.qq.com/s/C8LYVgOAhEZgNm0F9K4UPg)
+
+- [前端换肤的N种方案，请收下](https://mp.weixin.qq.com/s/LgItijgdSMlHTIAj6ejw7A)
+
+- [《吐血整理》系列 前端开发工具、组件库集合](https://mp.weixin.qq.com/s/YbX265gXyxQw-wHLz_HZlQ)
+
+- [【Web技术】785- 网页骨架屏自动生成方案分享](https://mp.weixin.qq.com/s/jjv6PyB61i2Hj-FfjNP6dw)
+
   
 
 
