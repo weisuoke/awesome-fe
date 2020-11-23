@@ -231,34 +231,218 @@ watch 函数用来侦听特定的数据源，并在回调函数中执行副作�
   }
   export default defineComponent({
     setup(props, context) {
-      const state = reactive<Person>({ number: 'vue', age: 10 })
+      const state = reactive<Person>({ number: 'vue', age:  })
     }
   })
 </script>
 ```
 
+#### 监听用ref声明的数据源
+
+```vue
+<script lang="ts">
+	import { defineComponent, ref, watch } from 'vue';
+  
+  interface Person {
+    name: string,
+    age: number
+  }
+  
+  export default defineComponent({
+    setup(props, context) {
+      watch(age, () => console.log(age.value));	// 100
+      
+      // 修改age时会触发 watch 的回调，打印后变更的值
+      age.value = 100
+      return {
+        age
+      }
+    }
+  })
+</script>
+```
+
+#### 同时监听多个值
+
+```vue
+<script>
+	import { computed, defineComponent, reactive, toRefs, watch } from 'vue';
+  interface Person {
+    name: string,
+    age: number
+  }
+  
+  export default defineComponent {
+    setup(props, context) {
+      const state = reactive<Person>({ name: 'vue', age: 10 })
+      
+      watch(
+      	[() => state.age, () => state.name],
+        ([newName, newAge], [oldName, oldAge]) => {
+          console.log(newName)
+          console.log(newAge)
+          
+          console.log(oldName)
+          console.log(oldAge)
+        }
+      )
+      
+      // 修改age时会触发watch的回调，打印变更前后的值，此时要注意，更改其中一个值，都会执行watch的回调
+      state.age = 100
+      state.name = 'vue3'
+      
+      return {
+        ...toRefs(state)
+      }
+    }
+  }
+</script>
+```
+
+#### stop 停止监听
+
+在 setup() 函数内创建的 watch 监视，会在当前组件被销毁的时候自动停止。如果想要明确地停止某个监视，可以调用 watch() 函数的返回值即可
+
+```vue
+<script>
+	import { computed, defineComponent, reactive, toRefs, watch } from 'vue';
+  interface Person {
+    name: string,
+    age: number
+  }
+  
+  export default defineComponent {
+    setup(props, context) {
+      const state = reactive<Person>({ name: 'vue', age: 10 })
+      
+      watch(
+      	[() => state.age, () => state.name],
+        ([newName, newAge], [oldName, oldAge]) => {
+          console.log(newName)
+          console.log(newAge)
+          
+          console.log(oldName)
+          console.log(oldAge)
+        }
+      )
+      
+      // 修改age时会触发watch的回调，打印变更前后的值，此时要注意，更改其中一个值，都会执行watch的回调
+      state.age = 100
+      state.name = 'vue3'
+      
+      setTimeout(() => {
+        stop()
+        // 此时修改时, 不会触发watch 回调
+        state.age = 1000
+      	state.name = 'vue3-'
+      }, 1000) // 1秒之后讲取消watch的监听
+      
+      return {
+        ...toRefs(state)
+      }
+    }
+  }
+</script>
+```
+
+### LifeCycle Hooks(新的生命后期)
+
+新版的生命周期函数，可以按需导入到组件中，且只能在 setup() 函数中使用, 但是也可以在setup 外定义, 在 setup 中使用
+
+```vue
+<script lang="ts">
+	import { set } from 'lodash';
+  export default defineComponent({
+    setup(props, context) {
+      onBeforeMount(()=> {
+        console.log('beformounted!')
+      })
+      onMounted(() => {
+        console.log('mounted!')
+      })
+
+      onBeforeUpdate(()=> {
+        console.log('beforupdated!')
+      })
+      onUpdated(() => {
+        console.log('updated!')
+      })
+
+      onBeforeUnmount(()=> {
+        console.log('beforunmounted!')
+      })
+      onUnmounted(() => {
+        console.log('unmounted!')
+      })
+
+      onErrorCaptured(()=> {
+        console.log('errorCaptured!')
+      })
+
+      return {}
+    }
+  });
+</script>
+```
+
+### Template refs
+
+通过refs 来获取真实dom元素, 这个和react 的用法一样,为了获得对模板内元素或组件实例的引用，我们可以像往常一样在setup()中声明一个ref并返回它
+
+1. 还是跟往常一样，在 html 中写入 ref 的名称
+2. 在steup 中定义一个 ref
+3. steup 中返回 ref的实例
+4. onMounted 中可以得到 ref的RefImpl的对象, 通过.value 获取真实dom
+
+```vue
+<template>
+  <!--第一步：还是跟往常一样，在 html 中写入 ref 的名称-->
+  <div class="mine" ref="elmRefs">
+    <span>1111</span>
+  </div>
+</template>
+
+<script lang="ts">
+import { set } from 'lodash';
+import { defineComponent, onMounted, ref } from 'vue';
+export default defineComponent({
+  setup(props, context) {
+    // 获取真实dom
+    const elmRefs = ref<null | HTMLElement>(null);
+    onMounted (() => {
+      console.log(elmRefs.value); // 得到一个 RefImpl 的对象, 通过 .value 访问到数据
+    })
+
+    return {
+      elmRefs
+    }
+  }
+});
+</script>
+```
 
 
-### 疑惑
+
+## 疑惑
 
 - reactive 与 ref 的区别
 
-### 参考资料
+## 参考资料
 
 - [Vue 3 的组合 API 如何请求数据？](https://juejin.im/post/6885364720056926221?utm_source=gold_browser_extension)
 - [构建简单的 Vue 3 响应式系统](https://juejin.im/post/6886429830535970829?utm_source=gold_browser_extension)
-- [让你30分钟快速掌握vue 3](https://juejin.im/post/6887359442354962445?utm_source=gold_browser_extension)
+- ✅ [让你30分钟快速掌握vue 3](https://juejin.im/post/6887359442354962445?utm_source=gold_browser_extension)
 - [Vue3、Vuex、TS 项目实践](https://juejin.im/post/6887867687897301006?utm_source=gold_browser_extension)
-- [Vue 3 高阶指南之 Set](https://mp.weixin.qq.com/s/OL8DNQwIR78ZnE_oc2bc6w)
+- [Vue 3 高阶指南之 Set](https://mp.weixin.qq.com/s/OL8DNQwIR78ZnE_oc2bc6w) 👉 ES系列教程
 - [初试vue3+vite+ant-design-vue2.0开发后台项目总结](https://juejin.im/post/6888924565183922184?utm_source=gold_browser_extension)
 - [使用Vue3封装一些有用的组合API](https://juejin.im/post/6888925879243079687?utm_source=gold_browser_extension)
-- [Vue 3 高阶指南之 WeakSet](https://mp.weixin.qq.com/s/fED2inUejcK6JsC9j7BCwA)
-- [Vue 3 高阶指南之 Reflect](https://mp.weixin.qq.com/s/teSd6hsRfboS8xaTe24NWg)
-- [🚩Vue源码——订阅者的响应](https://juejin.im/post/6889766555916828680?utm_source=gold_browser_extension)
+- [Vue 3 高阶指南之 WeakSet](https://mp.weixin.qq.com/s/fED2inUejcK6JsC9j7BCwA) 👉 ES系列教程
+- [Vue 3 高阶指南之 Reflect](https://mp.weixin.qq.com/s/teSd6hsRfboS8xaTe24NWg) 👉 ES系列教程
+- [🚩Vue源码——订阅者的响应](https://juejin.im/post/6889766555916828680?utm_source=gold_browser_extension) 👉 Vue2源码
 - [Vue3.0--Vue Composition API使用体验](https://mp.weixin.qq.com/s/LiMPkMvoDIlyfjhVu8vkHQ)
 - [做了一夜动画，就为让大家更好的理解Vue3的Composition Api](https://juejin.im/post/6890545920883032071?utm_source=gold_browser_extension)
 - [Vue 3 深入响应性原理](https://mp.weixin.qq.com/s/vOGdl9daJ61CgR4jtyVLsQ)
-- [那个的Vue3动画很好，就是太短了](https://mp.weixin.qq.com/s/GPjqgt9CdD-tBHY52_M33w)
+- ✅ [那个的Vue3动画很好，就是太短了](https://mp.weixin.qq.com/s/GPjqgt9CdD-tBHY52_M33w)
 - [96行乞丐版reactivity教你debug vue-next](https://juejin.im/post/6891657936515366920?utm_source=gold_browser_extension)
 - [Vue源码之minxin](https://juejin.im/post/6891637775763210253?utm_source=gold_browser_extension)
 - [Vue最全知识点（基础到进阶，覆盖vue3.0，文末送书）](https://mp.weixin.qq.com/s/y9olkntgR-9DFJVrmZsrsw)
