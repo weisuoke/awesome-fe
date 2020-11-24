@@ -49,7 +49,6 @@ order: 2
 
 ### 原理
 
-- TypeScript从零实现基于Proxy的响应式库，带你彻底搞懂Vue3的响应式原理！
 - Promise的实现原理以及相关用法
 - redux真的不复杂
 

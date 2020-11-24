@@ -14,9 +14,8 @@ order: 2
 ## ☆☆☆☆☆
 
 - **《简明教程：Vue3》**
-- **《简明教程：NestJS》**
-- 《简明教程：Eggjs》
-- 《简明教程：Docker》
+- **《简明教程：TypeScript》**
+- **《简明教程：算法4》**
 - 《简明教程：WebSocket》
   - [零距离接触 WebSocket](https://mp.weixin.qq.com/s/6pwYnUkl5BNo9CgEvA1Jlg)
   - [5000字！带你零距离接触websocket！](https://mp.weixin.qq.com/s/ui29QjnulMhnaFB0x4sCVw)
@@ -27,13 +26,24 @@ order: 2
 ## ☆☆☆☆
 
 - **《简明教程：Flutter》**
+- **《简明教程：NestJS》**
+- 《简明教程：Eggjs》
+- 《简明教程：Docker》
 
 ## ☆☆☆
+
+- 《源码：element-resize-detector》
+  - [wnr/element-resize-detector](https://github.com/wnr/element-resize-detector)
 
 ## ☆☆
 
 - 《实验：Halo3d》
   - [hiloteam/Hilo3d](https://github.com/hiloteam/Hilo3d)
+
+## ☆
+
+- 《有趣：文字动画特效》
+  - [十大惊人的文字动画特效](https://juejin.im/post/5efab10ff265da22e610d2d0?utm_source=gold_browser_extension)
 
 ## 未定级项目
 

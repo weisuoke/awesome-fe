@@ -9,7 +9,7 @@ title: 《简明教程：Vue3》
 order: 6
 ---
 
-# 简明教程：Vue3 (v0.0.1)
+# 简明教程：Vue3 (v0.0.2)
 
 ## API
 
@@ -426,21 +426,35 @@ export default defineComponent({
 ## 疑惑
 
 - reactive 与 ref 的区别
+- setup()调用nextTick方法有什么用？
+
+## 实战
+
+### 组件库
+
+- 《源码： Vant》
+  - [youzan/vant](https://github.com/youzan/vant)
+
+### 案例
+
+- 《案例：有赞商城》
+  - [🎉🎉一个基于 Vue 3 + Vant 3 的开源商城项目🎉🎉](https://juejin.im/post/6892783570016796679?utm_source=gold_browser_extension)
+
+
 
 ## 参考资料
 
-- [Vue 3 的组合 API 如何请求数据？](https://juejin.im/post/6885364720056926221?utm_source=gold_browser_extension)
-- [构建简单的 Vue 3 响应式系统](https://juejin.im/post/6886429830535970829?utm_source=gold_browser_extension)
+- ✅ [Vue 3 的组合 API 如何请求数据？](https://juejin.im/post/6885364720056926221?utm_source=gold_browser_extension)
+- ✅ [构建简单的 Vue 3 响应式系统](https://juejin.im/post/6886429830535970829?utm_source=gold_browser_extension)
 - ✅ [让你30分钟快速掌握vue 3](https://juejin.im/post/6887359442354962445?utm_source=gold_browser_extension)
 - [Vue3、Vuex、TS 项目实践](https://juejin.im/post/6887867687897301006?utm_source=gold_browser_extension)
 - [Vue 3 高阶指南之 Set](https://mp.weixin.qq.com/s/OL8DNQwIR78ZnE_oc2bc6w) 👉 ES系列教程
 - [初试vue3+vite+ant-design-vue2.0开发后台项目总结](https://juejin.im/post/6888924565183922184?utm_source=gold_browser_extension)
-- [使用Vue3封装一些有用的组合API](https://juejin.im/post/6888925879243079687?utm_source=gold_browser_extension)
+- ✅ [使用Vue3封装一些有用的组合API](https://juejin.im/post/6888925879243079687?utm_source=gold_browser_extension)
 - [Vue 3 高阶指南之 WeakSet](https://mp.weixin.qq.com/s/fED2inUejcK6JsC9j7BCwA) 👉 ES系列教程
 - [Vue 3 高阶指南之 Reflect](https://mp.weixin.qq.com/s/teSd6hsRfboS8xaTe24NWg) 👉 ES系列教程
-- [🚩Vue源码——订阅者的响应](https://juejin.im/post/6889766555916828680?utm_source=gold_browser_extension) 👉 Vue2源码
+- [Vue源码——订阅者的响应](https://juejin.im/post/6889766555916828680?utm_source=gold_browser_extension) 👉 Vue2源码
 - [Vue3.0--Vue Composition API使用体验](https://mp.weixin.qq.com/s/LiMPkMvoDIlyfjhVu8vkHQ)
-- [做了一夜动画，就为让大家更好的理解Vue3的Composition Api](https://juejin.im/post/6890545920883032071?utm_source=gold_browser_extension)
 - [Vue 3 深入响应性原理](https://mp.weixin.qq.com/s/vOGdl9daJ61CgR4jtyVLsQ)
 - ✅ [那个的Vue3动画很好，就是太短了](https://mp.weixin.qq.com/s/GPjqgt9CdD-tBHY52_M33w)
 - [96行乞丐版reactivity教你debug vue-next](https://juejin.im/post/6891657936515366920?utm_source=gold_browser_extension)
@@ -449,11 +463,21 @@ export default defineComponent({
 - [深度解读 Vue3 源码｜reactive API 定义和源码实现](https://mp.weixin.qq.com/s/8-4lLyq9E-Zl6_MlMiM9lQ)
 - [【前端进阶】使用 Vue3 的 complier-core 玩转模版编译](https://mp.weixin.qq.com/s/h51cy1YQwMjn6GKf0xnKLw)
 - [Vue3 Composition-API](https://mp.weixin.qq.com/s/mCZK_KYZFmhZtlscHyMLiw)
-- [🎉🎉一个基于 Vue 3 + Vant 3 的开源商城项目🎉🎉](https://juejin.im/post/6892783570016796679?utm_source=gold_browser_extension)
 - [使用 Vue3 和 TypeScript 重构740+ Star WebSocket 插件](https://mp.weixin.qq.com/s/w_RPZ05XPlZsmG_I6SOhoA)
 - [解锁 Vue3 超好玩的新特性：在CSS中使用JS变量](https://mp.weixin.qq.com/s/wSj6PLGZDOxtUwqm7fPMzQ)
 - [【第2116期】Vue 3.0 Ref-sugar 提案真的是自寻死路吗？](https://mp.weixin.qq.com/s/JoZRvjvyH1s-CyZU3olYww)
 - [从零手写简易Vue3（二）—— setup()](https://juejin.im/post/6894182826913202189?utm_source=gold_browser_extension)
-- [Vue3+TS，写一个逼格满满的项目](https://mp.weixin.qq.com/s/4UtktwXNXkYo7LH5F0oJAg)
 - [深入 TypeScript 中的子类型、逆变、协变，进阶 Vue3 源码前必须搞懂的。](https://mp.weixin.qq.com/s/wmk7toYQt40ZC8IGVA5k7g)
+- [Vue 中 MathJax 的使用与渲染的监听 (上)](https://juejin.im/post/6888980313281265677?utm_source=gold_browser_extension)
 - [Vue 中 MathJax 的使用与渲染的监听 (下)](https://juejin.im/post/6889356770012528648?utm_source=gold_browser_extension)
+- ✅ [快速使用Vue3最新的15个常用API](https://juejin.cn/post/6897030228867022856)
+- [Vue3实战系列：Vue3.0 + Vant3.0 搭建种子项目](https://juejin.im/post/6887590229692121096?utm_source=gold_browser_extension)
+- [「不容错过」2.7万字手摸手解读Vue3.0源码响应式系统](https://mp.weixin.qq.com/s/MlC2lW-MESH8ZouV4Gwezg)
+- [【第2112期】 import { reactive } from 'vue'](https://mp.weixin.qq.com/s/hy-YS2JTXOcYCynScYhetw)
+- [Vue3源码 nextTick解析](https://mp.weixin.qq.com/s/g4Mvt8P4xFOOSfciBtHOkA)
+- [【万字警告】了不起的 Vue3-上](https://mp.weixin.qq.com/s/AcEIkXoKSgtJsH_arkMjBQ)
+
+- [【万字警告】了不起的 Vue3-下](https://mp.weixin.qq.com/s/L4mSyLOCsFUu2gfrxW7WvA)
+
+- TypeScript从零实现基于Proxy的响应式库，带你彻底搞懂Vue3的响应式原理！
+

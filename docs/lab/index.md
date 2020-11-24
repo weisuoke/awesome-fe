@@ -246,22 +246,6 @@ order: 1
 - [基于业务场景下的图片/文件上传方案总结](https://mp.weixin.qq.com/s/xRaHM0EhpOhUkSbjS6yRWw)
 - [当前端基建任务落到你身上，该如何推动协作？](https://mp.weixin.qq.com/s/H7_twpnFA9Tug7ege94Ygw)
 
-## TypeScript
-
-- [TypeScript在Model中的高级应用](https://mp.weixin.qq.com/s/xV8VoSXfUCjlR1DCvrsWlQ)
-- [1.2W字 | 了不起的 TypeScript 入门教程](https://juejin.im/post/5edd8ad8f265da76fc45362c?utm_source=gold_browser_extension)
-- [typescript实战总结之实现一个互联网黑白墙](https://juejin.im/post/6859292592195158030)
-- ["无 Typescript" 编程](https://juejin.im/post/6862981984801521672?utm_source=gold_browser_extension)
-- [**分享一个电商系统-可对接无人零售：Eggjs+Tarojs+AntDesign+React+Graphql+Typescript**](https://cnodejs.org/topic/5ef8528213f8b244e57cbcc3)
-- [typescript高级用法之infer的理解与使用](https://mp.weixin.qq.com/s/bUZKtHgmKbspS3v25Z8GvQ)
-- [TypeScript：一个好泛型的价值](https://mp.weixin.qq.com/s/Do2xI7JrUWghs9Ck1-0L3g)
-- [你不知道的 TypeScript 泛型（万字长文，建议收藏）](https://mp.weixin.qq.com/s/bNn3D-O2ZJbYZCCfqHGKxw)
-- [技术胖的 TypeScript免费视频图文教程（2W字）](https://juejin.im/post/6876240277208563720)
-- [TypeScript中的六个重新让你认知的知识点](https://mp.weixin.qq.com/s/mK9-uweUowhJFmof-UdOjw)
-- [Next.js + TypeScript 搭建一个简易的博客系统](https://mp.weixin.qq.com/s/QM6MSsYK4cCv0i46TJExUw)
-- [TypeScript： 请停止使用 any](https://mp.weixin.qq.com/s/2_p7o2PKZwx8LEgW0w8Wsg)
-- [Vue3+TypeScript完整项目上手教程](https://mp.weixin.qq.com/s/04Ai2gspbAcPNpE6RYRGHA)
-
 ## 后端
 
 ### API
