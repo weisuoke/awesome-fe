@@ -33,7 +33,6 @@ order: 2
 
 ### 好玩
 
-- Single-Spa微前端实践
 - 基于 HTML5 WebGL + WebVR 的 3D 虚实现实可视化培训系统
 - 基于 Angular 的小程序可视化编辑器 —— Panel-Magic
 - 手把手教你实现TypeScript下的IoC容器

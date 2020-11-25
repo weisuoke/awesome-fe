@@ -6,7 +6,7 @@ group:
   title: 基础知识
   order: 1
 title: 《简明教程：TypeScript》
-order: 6
+order: 8
 ---
 
 # 《简明教程：TypeScript》(v0.0.0)

@@ -6,7 +6,7 @@ group:
   title: 基础知识
   order: 1
 title: 《简明教程：Vue3》
-order: 6
+order: 7
 ---
 
 # 简明教程：Vue3 (v0.0.2)
@@ -440,6 +440,10 @@ export default defineComponent({
 - 《案例：有赞商城》
   - [🎉🎉一个基于 Vue 3 + Vant 3 的开源商城项目🎉🎉](https://juejin.im/post/6892783570016796679?utm_source=gold_browser_extension)
 
+### 视频
+
+- 《实战：珠峰Vue3》
+
 
 
 ## 参考资料
@@ -458,7 +462,7 @@ export default defineComponent({
 - [Vue 3 深入响应性原理](https://mp.weixin.qq.com/s/vOGdl9daJ61CgR4jtyVLsQ)
 - ✅ [那个的Vue3动画很好，就是太短了](https://mp.weixin.qq.com/s/GPjqgt9CdD-tBHY52_M33w)
 - [96行乞丐版reactivity教你debug vue-next](https://juejin.im/post/6891657936515366920?utm_source=gold_browser_extension)
-- [Vue源码之minxin](https://juejin.im/post/6891637775763210253?utm_source=gold_browser_extension)
+- [Vue源码之mixin](https://juejin.im/post/6891637775763210253?utm_source=gold_browser_extension) 👉 Vue2源码
 - [Vue最全知识点（基础到进阶，覆盖vue3.0，文末送书）](https://mp.weixin.qq.com/s/y9olkntgR-9DFJVrmZsrsw)
 - [深度解读 Vue3 源码｜reactive API 定义和源码实现](https://mp.weixin.qq.com/s/8-4lLyq9E-Zl6_MlMiM9lQ)
 - [【前端进阶】使用 Vue3 的 complier-core 玩转模版编译](https://mp.weixin.qq.com/s/h51cy1YQwMjn6GKf0xnKLw)

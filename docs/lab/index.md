@@ -180,17 +180,6 @@ order: 1
     - [聊聊 electron 中实现多窗口之间的通信方式](https://juejin.im/post/6887908223395823630?utm_source=gold_browser_extension)
     - [Electron 架构揭秘](https://mp.weixin.qq.com/s/f-fR8Nmc1yda4_9WT0NVpw)
 
-## 算法
-
-- [这个前端竟然用动态规划写瀑布流布局？给我打死他！](https://juejin.im/post/5ed5b9a26fb9a047a07f2c30)
-- [别再说你不懂Top K问题了](https://mp.weixin.qq.com/s/tYUcigO8b4y59Pg7v6imzw)
-- [学习一下LRU（最近最少使用）缓存机制](https://juejin.im/post/6856673818530807821?utm_source=gold_browser_extension)
-- [TypeScript实现图的遍历](https://juejin.im/post/5f2036f6f265da22da54e0e7?utm_source=gold_browser_extension)
-- [浅析 Tree Shaking](https://zhuanlan.zhihu.com/p/127804516)
-- [「算法与数据结构」带你看分治算法之美](https://mp.weixin.qq.com/s/iRHnvDN-hH4iEubIVxFxYA)
-- [你可能不知道的快速排序：三路快排](https://mp.weixin.qq.com/s/J5FEmsRB20Iw9HlcTNGVGA)
-- [快速排序的JavaScript实现详解](https://mp.weixin.qq.com/s/FKRJe3mJVw2H3C7eGsjmjA)
-
 ## CSS
 
 - [CSS变量对JS交互组件开发带来的提升与变革](https://www.zhangxinxu.com/wordpress/2020/07/css-var-improve-components/)
