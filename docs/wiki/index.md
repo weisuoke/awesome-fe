@@ -156,7 +156,6 @@ order: 1
 - [简单实用又不花里胡哨的鼠标滑过样式](https://mp.weixin.qq.com/s/C0PWN3L1gCX0rqWxn6S6GA)
 - [听说99%的程序员都不会使用git reset 和 git revert](https://mp.weixin.qq.com/s/NfB_acFjZBssASrOfnpuGg)
 - [前端路上的开源总结(持续更新中...)](https://mp.weixin.qq.com/s/wa8t1XDdyw9M4IKuYVdPcQ)
-- [为什么程序员都不喜欢使用switch，而是大量的 if……else if ？](https://mp.weixin.qq.com/s/p_4PNhA6GRqr0wTlKMGJOQ)
 - [浏览器是如何调度进程和线程的？](https://mp.weixin.qq.com/s/bkSmKYGHk0V5eZIfuSTNyQ)
 - [排查守候在零点两分的 bug](https://mp.weixin.qq.com/s/cBTrJpcFFoHYMz4QjWshuQ)
 - [你可以使用这些工具来图形化管理Docker](https://mp.weixin.qq.com/s/Lz0yemd8mQmJK0eFVP5moA)
@@ -962,7 +961,6 @@ order: 1
 - [10 个 GitHub 上超火的 CSS 奇技淫巧项目，找到写 CSS 的灵感！](https://juejin.cn/post/6898482129592647693?utm_source=gold_browser_extension)
 - [用于现代JavaScript的Observer API](https://juejin.cn/post/6898340223563300878?utm_source=gold_browser_extension)
 - [手写实现el-form系列组件的核心逻辑 -- 练习组件通信](https://juejin.cn/post/6898260687521644557?utm_source=gold_browser_extension)
-
 - [Webpack的异步加载原理及分包策略(深度好文，建议收藏)](https://mp.weixin.qq.com/s/n6od0BvJ6F9znWSOi8ty1Q)
 - [【硬核算法】用动画和实例的方式打开双指针问题](https://mp.weixin.qq.com/s/Ws0dcANUCHMEK4YBb1fwRA)
 - [简单分析下 Node.js 关于集群的那些事](https://mp.weixin.qq.com/s/ZJCizniY3jEnMC1k0r4DYA)
@@ -975,8 +973,30 @@ order: 1
 - [前端如何做出好产品](https://juejin.cn/post/6898591411495501838?utm_source=gold_browser_extension)
 - [“铝盆友彩虹屁 bot”遇上 Deno | 🏆 技术专题第七期征文](https://juejin.cn/post/6898592999479967757?utm_source=gold_browser_extension)
 - [10 个 GitHub 上超火的 CSS 奇技淫巧项目，找到写 CSS 的灵感！](https://juejin.cn/post/6898482129592647693?utm_source=gold_browser_extension)
+- [力扣和树相关的题目居然包含了这些东西](https://mp.weixin.qq.com/s/3sJoCexLT1AzszBz2ObJkA)
+- [leetcode的回溯算法题目用这个模板解题，一网打尽，so easy！！！](https://mp.weixin.qq.com/s/ZrNRr3Kb0fl8ziZFataXUw)
+- [【万字实战】动手写一个 JavaScript 解释器](https://mp.weixin.qq.com/s/-62WEoFxdHPpNbpI8nDSAA)
+- [React Dev Inspector, 提升开发效率的神器！](https://mp.weixin.qq.com/s/w77XeOurRL2AwBZGognDwg)
+- [一文带你快速上手Rollup](https://mp.weixin.qq.com/s/rlpDRrW_b4lKk0IQarmOjw)
+- [若川知乎高赞：有哪些必看的 JS 库？](https://mp.weixin.qq.com/s/OVH6gP0R29oRSzNhoob4SQ)
+- [关键词高亮：HTML字符串中匹配跨标签关键词](https://mp.weixin.qq.com/s/hozd98XDNcRz0au8fP7nWQ)
+- [面试利器，近3万字，一步步教你手写React核心原理](https://mp.weixin.qq.com/s/AWa9cY5EWTSo5ZPPuH1bMw)
 
-
+- [【适配】789- 异形屏兼容框架](https://mp.weixin.qq.com/s/sRJp6S8m57rxxO16ihwNfw)
+- [如何基于 TypeScript 实现控制反转](https://mp.weixin.qq.com/s/C4OQ9VK6Hu3KqpBVz8YrHg)
+- [Webpack的异步加载原理及分包策略(深度好文，建议收藏)](https://mp.weixin.qq.com/s/OddtZCl7YqBVS6-01rYlYA)
+- [2020 年你必须知道的 React 库](https://mp.weixin.qq.com/s/xtyus5XiWNtGWp5YU2CNpQ)
+- [前端高效开发必备的 js 库梳理](https://mp.weixin.qq.com/s/EspmRQfrROnyGslp3YTK9Q)
+- [练习：手写封装 DOM 库之新增节点](https://juejin.cn/post/6899287553132724237?utm_source=gold_browser_extension)
+- [浏览器下Xpath实用技巧](https://juejin.cn/post/6899287254997401608?utm_source=gold_browser_extension)
+- [科普一个监听DOM的对象-MutationObserver](https://juejin.cn/post/6899287068350873608?utm_source=gold_browser_extension)
+- [Vue写一个SPA登录页面的过程](https://juejin.cn/post/6899286066864324616?utm_source=gold_browser_extension)
+- [vue全家桶简析——写一个直播类应用web端个人中心](https://juejin.cn/post/6899285932533530631?utm_source=gold_browser_extension)
+- [mobx常用方法梳理](https://juejin.cn/post/6899283421567303694?utm_source=gold_browser_extension)
+- [在Vue中使用CSS3实现内容无缝滚动](https://juejin.cn/post/6899280789851914253?utm_source=gold_browser_extension)
+- [React 为何要使用链表遍历 Fiber 树](https://juejin.cn/post/6899266513665163278?utm_source=gold_browser_extension)
+- [畅销书《深入浅出Vue.js》作者，在阿里淘系6个月的收获成长](https://juejin.cn/post/6899245555566772231?utm_source=gold_browser_extension)
+- 
 
 ### Github
 

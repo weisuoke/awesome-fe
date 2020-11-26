@@ -45,6 +45,9 @@ order: 2
 
 - 《有趣：文字动画特效》
   - [十大惊人的文字动画特效](https://juejin.im/post/5efab10ff265da22e610d2d0?utm_source=gold_browser_extension)
+- 《有趣：MathJax》
+  - [Vue 中 MathJax 的使用与渲染的监听 (上)](https://juejin.im/post/6888980313281265677?utm_source=gold_browser_extension)
+  - [Vue 中 MathJax 的使用与渲染的监听 (下)](https://juejin.im/post/6889356770012528648?utm_source=gold_browser_extension)
 
 ## 未定级项目
 
@@ -81,4 +84,5 @@ order: 2
   - [10分钟快速过一遍PM2核心知识点](https://mp.weixin.qq.com/s/dR2CuRuzs_RbOrPuD10Y1w)
 - 《试用：Single-spa》
   - Single-Spa微前端实践
+- 《实验：单点登录》
 

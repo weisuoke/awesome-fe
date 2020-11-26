@@ -423,12 +423,21 @@ export default defineComponent({
 
 
 
+## 概念
+
+- Monorepo
+
 ## 疑惑
 
 - reactive 与 ref 的区别
 - setup()调用nextTick方法有什么用？
 
 ## 实战
+
+### 文档
+
+- 《简明教程：Vuex》
+- 《简明教程：Vite》
 
 ### 组件库
 
@@ -470,10 +479,7 @@ export default defineComponent({
 - [使用 Vue3 和 TypeScript 重构740+ Star WebSocket 插件](https://mp.weixin.qq.com/s/w_RPZ05XPlZsmG_I6SOhoA)
 - [解锁 Vue3 超好玩的新特性：在CSS中使用JS变量](https://mp.weixin.qq.com/s/wSj6PLGZDOxtUwqm7fPMzQ)
 - [【第2116期】Vue 3.0 Ref-sugar 提案真的是自寻死路吗？](https://mp.weixin.qq.com/s/JoZRvjvyH1s-CyZU3olYww)
-- [从零手写简易Vue3（二）—— setup()](https://juejin.im/post/6894182826913202189?utm_source=gold_browser_extension)
 - [深入 TypeScript 中的子类型、逆变、协变，进阶 Vue3 源码前必须搞懂的。](https://mp.weixin.qq.com/s/wmk7toYQt40ZC8IGVA5k7g)
-- [Vue 中 MathJax 的使用与渲染的监听 (上)](https://juejin.im/post/6888980313281265677?utm_source=gold_browser_extension)
-- [Vue 中 MathJax 的使用与渲染的监听 (下)](https://juejin.im/post/6889356770012528648?utm_source=gold_browser_extension)
 - ✅ [快速使用Vue3最新的15个常用API](https://juejin.cn/post/6897030228867022856)
 - [Vue3实战系列：Vue3.0 + Vant3.0 搭建种子项目](https://juejin.im/post/6887590229692121096?utm_source=gold_browser_extension)
 - [「不容错过」2.7万字手摸手解读Vue3.0源码响应式系统](https://mp.weixin.qq.com/s/MlC2lW-MESH8ZouV4Gwezg)
