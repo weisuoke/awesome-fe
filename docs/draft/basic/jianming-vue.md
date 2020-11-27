@@ -443,6 +443,8 @@ export default defineComponent({
 
 - 《源码： Vant》
   - [youzan/vant](https://github.com/youzan/vant)
+- 《源码：Element3》
+  - [hug-sun/element3](https://github.com/hug-sun/element3)
 
 ### 案例
 
@@ -452,6 +454,11 @@ export default defineComponent({
 ### 视频
 
 - 《实战：珠峰Vue3》
+- 《实战：珠峰Vue3源码》
+
+## Awesome
+
+- [awesome-vue-3](https://github.com/blacksonic/awesome-vue-3)
 
 
 
