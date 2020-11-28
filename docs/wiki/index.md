@@ -981,7 +981,6 @@ order: 1
 - [若川知乎高赞：有哪些必看的 JS 库？](https://mp.weixin.qq.com/s/OVH6gP0R29oRSzNhoob4SQ)
 - [关键词高亮：HTML字符串中匹配跨标签关键词](https://mp.weixin.qq.com/s/hozd98XDNcRz0au8fP7nWQ)
 - [面试利器，近3万字，一步步教你手写React核心原理](https://mp.weixin.qq.com/s/AWa9cY5EWTSo5ZPPuH1bMw)
-
 - [【适配】789- 异形屏兼容框架](https://mp.weixin.qq.com/s/sRJp6S8m57rxxO16ihwNfw)
 - [如何基于 TypeScript 实现控制反转](https://mp.weixin.qq.com/s/C4OQ9VK6Hu3KqpBVz8YrHg)
 - [Webpack的异步加载原理及分包策略(深度好文，建议收藏)](https://mp.weixin.qq.com/s/OddtZCl7YqBVS6-01rYlYA)
@@ -996,7 +995,25 @@ order: 1
 - [在Vue中使用CSS3实现内容无缝滚动](https://juejin.cn/post/6899280789851914253?utm_source=gold_browser_extension)
 - [React 为何要使用链表遍历 Fiber 树](https://juejin.cn/post/6899266513665163278?utm_source=gold_browser_extension)
 - [畅销书《深入浅出Vue.js》作者，在阿里淘系6个月的收获成长](https://juejin.cn/post/6899245555566772231?utm_source=gold_browser_extension)
-- 
+- [前端高效开发必备的 js 库梳理](https://mp.weixin.qq.com/s/EspmRQfrROnyGslp3YTK9Q)
+- [消息摘要算法入门教程](https://mp.weixin.qq.com/s/6aPEl3hnXgjdxvqS9rXNPA)
+- [前端工程师必备的css3动画技巧(附源码)](https://mp.weixin.qq.com/s/8_SlOG7NBWnfLVXD49zgPA)
+- [前端监控实践——FMP的智能获取算法](https://mp.weixin.qq.com/s/Nc9bUYeqQG-TDJCE0sy88w)
+- [如何基于 TypeScript 实现控制反转](https://zhuanlan.zhihu.com/p/311184005)
+- [React的7种代码异味[译]](https://mp.weixin.qq.com/s/6NhDm40pa9Np6bUSUoXDIAhttps://mp.weixin.qq.com/s/6NhDm40pa9Np6bUSUoXDIA)
+- [深入了解前端监控原理](https://mp.weixin.qq.com/s/tcwtG-4nagure4rbgfrtXg)
+- [iframe 接班人-微前端框架 qiankun 在中后台系统实践](https://mp.weixin.qq.com/s/je6GdMSYUux-cO99Af-y1g)
+- [一文彻底吃透 JavaScript 的执行机制](https://mp.weixin.qq.com/s/YkBbuJ_TmU6IXU9wnx4gaw)
+- [10 个 GitHub 上超火的 CSS 技巧项目，找到写 CSS 的灵感！](https://mp.weixin.qq.com/s/9B3PfWB4lsq5juBySmnfTQ)
+- [聊一聊 15.5K 的 FileSaver，是如何工作的？](https://mp.weixin.qq.com/s/oW0izYKgMC2eZdM459gmgQ)
+- [Node系列：揭秘 Node.js 底层架构](https://mp.weixin.qq.com/s/il5Lq9C7eBleXRMXexQEXg)
+- [实战：150行Go实现高性能socks5代理](https://mp.weixin.qq.com/s/WjRRCU3xKvDRKgru9dZ7hg)
+- [用Particles.js实现粒子效果](https://mp.weixin.qq.com/s/f3qC-DmLk6K0sC8zD5lZnQ)
+- [快速实现一个简单可复用可扩展的Vue树组件](https://mp.weixin.qq.com/s/ZKKFA-4gP1o-2GU74OHjtA)
+- [【第2130期】前端元编程——使用注解加速你的前端开发](https://mp.weixin.qq.com/s/QR77t4ka9xw3lTxSfQpOWQ)
+- [少年啊,使用Less来打造你前端样式的武器库吧!](https://juejin.cn/post/6899719687764967432?utm_source=gold_browser_extension)
+- [Element3开发内幕 - Vue CLI插件开发](https://juejin.cn/post/6899334776860180494#heading-0)
+- [面向 Model 编程的前端架构设计](https://juejin.cn/post/6899647897508577294?utm_source=gold_browser_extension)
 
 ### Github
 
