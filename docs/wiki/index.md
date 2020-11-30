@@ -1024,7 +1024,15 @@ order: 1
 - [Vue3+TypeScript完整项目上手教程](https://mp.weixin.qq.com/s/fNTxS14_LxvbjJS9a1bEiw)
 - [【第2132期】揭密可视化专家配色秘笈，你在乎的颜色远远不够](https://mp.weixin.qq.com/s/8TJqhR63ZGzk9F9twweivA)
 - [厌倦了写活动页？快来撸一个页面生成器吧（文末送新书）！](https://mp.weixin.qq.com/s/ioQFXYVR3fInHjW_RWXmKg)
-- 
+- [面试被问尾递归优化知道怎么做吗？](https://juejin.cn/post/6844904078145748999?utm_source=gold_browser_extension%3Futm_source%3Dgold_browser_extension)
+- [【建议👍】再来40道this面试题酸爽继续(1.2w字用手整理)](https://juejin.cn/post/6844904083707396109)
+- [【建议星星】要就来45道Promise面试题一次爽到底(1.1w字用心整理)](https://juejin.cn/post/6844904077537574919?utm_source=gold_browser_extension%3Futm_source%3Dgold_browser_extension)
+- [11 个 CSS 知识搭配 11 个 JS 特性 （实用合集）](https://cloud.tencent.com/developer/article/1522096)
+- [【前端词典】5 种滚动吸顶实现方式的比较[性能升级版]](https://juejin.cn/post/6844903815041269774)
+- [EaseJs 中 regX / regY 的用法](https://mp.weixin.qq.com/s/aXSYcBIuZPHx6S-WNWCTYw)
+- [create-react-app 4.0.0的新功能](https://juejin.cn/post/6900533792101662734?utm_source=gold_browser_extension)
+- [认识reduce的强大，实现一个简单reduce](https://juejin.cn/post/6900447811330899981?utm_source=gold_browser_extension)
+- [分享《构建自动接收派发机器人》](https://juejin.cn/post/6900431244652183565?utm_source=gold_browser_extension)
 
 ### Github
 
