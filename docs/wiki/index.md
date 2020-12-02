@@ -1070,6 +1070,15 @@ order: 1
 - [keep-alive如何保持组件状态](https://juejin.cn/post/6901224360783446030?utm_source=gold_browser_extension)
 - [前端监控平台系列：服务端功能设计与实现](https://juejin.cn/post/6901179615188877325?utm_source=gold_browser_extension)
 - [项目实战-UmiJS开发（附带qiankun）](https://juejin.cn/post/6901103416651546637?utm_source=gold_browser_extension)
+- [开源推荐：使用Vime.js添加视频](https://mp.weixin.qq.com/s/ZJcvCruZq5MTIieQo9sUAw)
+- [自动增长`<textareas>`的最干净技巧](https://mp.weixin.qq.com/s/OSp52IdkvCzfrka4rFPpAA)
+- [手把手教你实现一个Vue无限级联树形表格（增删改）](https://mp.weixin.qq.com/s/uUmzBeCq3PL1PZyYQDlFBw)
+- [NPM 7：这才算是真正的更新](https://mp.weixin.qq.com/s/b60GxkCWA_adjUuO-kT13Q)
+- [玩转 React 高阶组件这一篇就够](https://mp.weixin.qq.com/s/2W5nJsu0lZm10HSbuW-JDw)
+- [搭建自己的 typescript 项目 + 开发自己的脚手架工具 ts-cli](https://juejin.cn/post/6901552013717438472?utm_source=gold_browser_extension)
+- [使用rollup和typescript搭建自己的函数库](https://juejin.cn/post/6901565843348881416?utm_source=gold_browser_extension)
+- [H5基于canvas实现电子签名并生成PDF文档](https://juejin.cn/post/6901273585428463624?utm_source=gold_browser_extension)
+- [肝了几个月nuxt项目，想把这些实用知识点分享给你（干货）](https://juejin.cn/post/6901467138599763975?utm_source=gold_browser_extension)
 
 
 
