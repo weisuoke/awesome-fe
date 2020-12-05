@@ -21,8 +21,6 @@ order: 1
 - [2020值得收藏与学习280多款H5小游戏，从入门到彻底了解它（附源码）](https://juejin.im/post/5ef8a8ed6fb9a07e944ed6d6#heading-12)
 - [前端截图方案终极杀招（上）](https://mp.weixin.qq.com/s/ywT3RKJXOwH-Dd9EOVDgvg)
 - [频道业务黑科技--行业魔方 | 618 淘系前端技术分享](https://mp.weixin.qq.com/s/P6S02xjK_tTvYO94WwHPWQ)
-- [AI ❤️ JavaScript, Pipcook 1.0](https://juejin.im/post/5f06c3c85188252e96312fcc?utm_source=gold_browser_extension)
-- [七个你没用过的炫酷开发工具推荐](https://juejin.im/post/5f06cb23f265da22c96705a0?utm_source=gold_browser_extension)
 - [深度广度解析 call 和 apply 原理、使用场景及实现](https://www.colabug.com/2020/0713/7523362/)
 - [深入源码剖析componentWillXXX为什么UNSAFE](https://mp.weixin.qq.com/s/EyPyX8Noab1q32W_lVrM-g)
 - [100行代码实现一个无法删除的水印](https://juejin.im/post/5f12a19e5188252e974f0531?utm_source=gold_browser_extension)
@@ -37,7 +35,6 @@ order: 1
 - [前端音视频的那些名词](https://juejin.im/post/6861941219938418702?utm_source=gold_browser_extension)
 - [十分钟的时间，武装你的代码库](https://juejin.im/post/6861769180736126983?utm_source=gold_browser_extension)
 - [前端进阶必经之路（一）：1.2w字深入理解JavaScript26个核心概念](https://juejin.im/post/6865184344990810126?utm_source=gold_browser_extension)
-- [22+ 高频实用的 JavaScript 片段 （2020年）](https://juejin.im/post/6867299629436764167?utm_source=gold_browser_extension)
 - [如何设计一个JavaScript插件系统，编程思维比死磕API更重要](https://juejin.im/post/6867335238905921543?utm_source=gold_browser_extension)
 - [「一劳永逸」48张小图带你领略flex布局之美](https://juejin.im/post/6866914148387651592?utm_source=gold_browser_extension)
 - [手把手教你如何实现大量图片的自适应图片页面的排列](https://mp.weixin.qq.com/s/bgJEQPaG8ufUC-6QhHEfXw)
@@ -1101,6 +1098,11 @@ order: 1
 - [75 道 JavaScript 面试题， 2.5 万字刷个够](https://mp.weixin.qq.com/s/9HiaAAWuikXllCOcAPOn-w)
 - [JavaScript 引擎 V8 执行流程概述](https://mp.weixin.qq.com/s/qFVxdN2J3qYbBo8_q93SAA)
 - [box-shadow和text-shadow](https://juejin.cn/post/6902063717236604936?utm_source=gold_browser_extension#heading-9)
+- [电商产品后台逻辑读书笔记](https://mp.weixin.qq.com/s/s-qARVznneilSSAZQP4DCg)
+- [腾讯牛逼！终于开源了自家的 Tencent JDK——Kona！！](https://mp.weixin.qq.com/s/2MzGc-MCkZMignjC2VpRAQ)
+- [面向未来的前端构建工具-vite](https://mp.weixin.qq.com/s/hON11WjFVHV-tRt9s_GFNg)
+- [Antmove：小程序转换器，快速实现小程序跨平台](https://mp.weixin.qq.com/s/iFRu6OO2vhorbvXjZ2qtFw)
+- [JS版极简编译器](https://mp.weixin.qq.com/s/XnkT2-QTBD1aR0dcjFClMQ)
 - 
 
 

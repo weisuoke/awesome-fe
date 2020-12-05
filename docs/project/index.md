@@ -24,6 +24,10 @@ order: 1
 9. [MarvinJ](https://github.com/gabrielarchanjo/marvinj)
 10. [Grade](https://github.com/benhowdle89/grade)
 
+## 机器学习
+
+1. [pipcook](https://github.com/alibaba/pipcook)
+
 <hr />
 
 [周末学习发现了 10 个好用JavaScript图像处理库](https://juejin.im/post/5ee95c29518825431a66bea9?utm_source=gold_browser_extension)

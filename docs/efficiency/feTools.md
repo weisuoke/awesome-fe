@@ -50,6 +50,16 @@ order: 1
 
 3.3 `caniuse-cmd` - 兼容性测试工具
 
+## 4. 有趣
+
+- BundlePhobia - 用于分析npm package的依赖、bundle后的大小、下载速度预估等等
+- CloudCraft
+- Figma
+- Fontflipper
+- VisBug
+- Insomnia - Insomnia是一款调试API工具，支持调试Rest Api和GraphQL Api。在写graphQL query的时候有很好的智能提示。
+- Flare
+
 ## 参考
 
 - [我的前端开发工具箱](https://juejin.im/post/6844904183460528142)

@@ -85,4 +85,7 @@ order: 2
 - 《试用：Single-spa》
   - Single-Spa微前端实践
 - 《实验：单点登录》
+- 《简明教程：Pipcook》
+- 《简明教程：MutationObserver》
+  - [m-observer](https://www.npmjs.com/package/m-observer): `m-observer` 是对 `MutationObserver` API 的二次封装，简化配置，上手容易 
 
