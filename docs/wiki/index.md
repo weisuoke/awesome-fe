@@ -1103,7 +1103,11 @@ order: 1
 - [面向未来的前端构建工具-vite](https://mp.weixin.qq.com/s/hON11WjFVHV-tRt9s_GFNg)
 - [Antmove：小程序转换器，快速实现小程序跨平台](https://mp.weixin.qq.com/s/iFRu6OO2vhorbvXjZ2qtFw)
 - [JS版极简编译器](https://mp.weixin.qq.com/s/XnkT2-QTBD1aR0dcjFClMQ)
-- 
+- [CodeReview 下一代：基于 KAITIAN 的纯前端 CR IDE](https://mp.weixin.qq.com/s/B6cot5phZ1CM_pwUkE156A)
+- [基于 qiankun 的微前端最佳实践（图文并茂） - 应用间通信篇](https://mp.weixin.qq.com/s/w8YJJmLFsK-fQujgLWhOgA)
+- [egg+vue+mongodb实践开发在线文档管理平台——水墨文档](https://mp.weixin.qq.com/s/59rVsz7Cl4k8X5x1AHvXqA)
+- [HTML字符串中匹配关键词高亮](https://mp.weixin.qq.com/s/Rivikp4aY7xUpsSDA5LMUA)
+- [【第2139期】Web应用程序如何工作：客户端开发和部署](https://mp.weixin.qq.com/s/ZogBhCFFYSZP1orsjiRvbA)
 
 
 
