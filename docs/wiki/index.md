@@ -1109,6 +1109,14 @@ order: 1
 - [HTML字符串中匹配关键词高亮](https://mp.weixin.qq.com/s/Rivikp4aY7xUpsSDA5LMUA)
 - [【第2139期】Web应用程序如何工作：客户端开发和部署](https://mp.weixin.qq.com/s/ZogBhCFFYSZP1orsjiRvbA)
 
+- [面试必备的 13 道举一反三的 Vue 面试题](https://mp.weixin.qq.com/s/NyghCAFHkm3zgoOAA-58XA)
+- [一份精心总结的3万字ES6实用指南（上）](https://mp.weixin.qq.com/s/T3FQgMRnS7XO2jchrJlv6Q)
+- [一份精心总结的3万字ES6实用指南（下）](https://mp.weixin.qq.com/s/ISRHZ8j1H--S_MkBSRXTNQ)
+- [你不知道的前端 MVVM 模式中的数据层（万字长文，教你造轮子）](https://mp.weixin.qq.com/s/vSgPic1Hpsvj154I5gOcqA)
+- [Vue3+TypeScript完整项目上手教程](https://mp.weixin.qq.com/s/TWFyH1-iLVhRMzRWXG4xqA)
+- [(万字长文)从 B 站的秋季主题中学习 “图层组合动画”](https://mp.weixin.qq.com/s/vAsCGV8UichVUp6atxv1Zg)
+- [Vue3教程：Vue 3.x 快在哪里？](https://juejin.cn/post/6903171037211557895?utm_source=gold_browser_extension)
+
 
 
 ### Github
