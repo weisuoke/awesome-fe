@@ -1116,6 +1116,23 @@ order: 1
 - [Vue3+TypeScript完整项目上手教程](https://mp.weixin.qq.com/s/TWFyH1-iLVhRMzRWXG4xqA)
 - [(万字长文)从 B 站的秋季主题中学习 “图层组合动画”](https://mp.weixin.qq.com/s/vAsCGV8UichVUp6atxv1Zg)
 - [Vue3教程：Vue 3.x 快在哪里？](https://juejin.cn/post/6903171037211557895?utm_source=gold_browser_extension)
+- [使用 MonoRepo 管理前端项目](https://mp.weixin.qq.com/s/pOBP_Hgxk7ZeHHeZIr4_sQ)
+- [2W+字长文带你入门Docker~!](https://mp.weixin.qq.com/s/vcqr0QjCY_QCm6GwjISv-Q)
+- [前端的自动化重构](https://mp.weixin.qq.com/s/UkjCc1NzZvJecvJh9OY3UQ)
+- [原生JS+Canvas实现五子棋游戏](https://mp.weixin.qq.com/s/HYwyTsjWjk6e2rD5-hPF5A)
+- [为什么创造 Charj 语言？从十年以后的编程说起](https://mp.weixin.qq.com/s/7XDmSvP2WR1dVT0D3O7u5Q)
+- [手写koa-static源码，深入理解静态服务器原理](https://mp.weixin.qq.com/s/rJj1xX_Fe60MEnsFPRHiDA)
+- [从V8源码分析一个JS 数组的内存占用问题](https://mp.weixin.qq.com/s/BPddzgys7NgbaS4G45alCA)
+- [Midway 11 月月报 - EggJS 上层框架有福啦](https://mp.weixin.qq.com/s/-KVUDc0rnF5a-wcqm7JZSA)
+- [React Status 中文周刊 #19 - React Hook发布两周年回顾](https://mp.weixin.qq.com/s/CsChz1GF_TRSEiQLsOlB3A)
+- [同时支持Intact/Vue/React框架的开源高质量前端组件库——KPC](https://mp.weixin.qq.com/s/FkTIPwCWYXSstYr0acIA9A)
+- [CSS 实现一个抽奖转盘(附详细代码+思路)](https://mp.weixin.qq.com/s/nTNt5CeD4k5siYpI-0ZiNA)
+- [万字长文+图文并茂+全面解析微前端框架 qiankun 源码](https://mp.weixin.qq.com/s/6hCUykrQg4Ba4Kp3YwGYdg)
+- [基于Vite搭建Electron+Vue3的开发环境](https://mp.weixin.qq.com/s/jXoU2XvtDQ-t9YChBijuCQ)
+- [【Shopee IconBot】Figma + Gitlab CI 一键交付 SVG 多色图标库](https://mp.weixin.qq.com/s/PoTn2ZerkRySJ77Xn2dW1w)
+- [前端进阶: 总结几个常用的js搜索算法和性能对比](https://mp.weixin.qq.com/s/Ax8VB0UHMHFP77wnHeHSqw)
+- [深入源码解析 React 中的调度算法](https://mp.weixin.qq.com/s/xxgEIn9KXAL0pEhTby4PnA)
+- [NPM 私库从搭建到数据迁移最后容灾备份的一些解决方案](https://mp.weixin.qq.com/s/NUYooqqTklsSs77VDRLwKA)
 
 
 
@@ -1127,6 +1144,8 @@ order: 1
 - [webp2jpg](https://github.com/renzhezhilu/webp2jpg-online)
 - [tauri](https://github.com/tauri-apps/tauri)
 - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+
+
 
 
 
