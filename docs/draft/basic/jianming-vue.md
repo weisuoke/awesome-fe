@@ -438,6 +438,7 @@ export default defineComponent({
 
 - 《简明教程：Vuex》
 - 《简明教程：Vite》
+- 《源码：珠峰 Vue3 教程》
 
 ### 组件库
 
@@ -450,6 +451,10 @@ export default defineComponent({
 
 - 《案例：有赞商城》
   - [🎉🎉一个基于 Vue 3 + Vant 3 的开源商城项目🎉🎉](https://juejin.im/post/6892783570016796679?utm_source=gold_browser_extension)
+- 管理后台
+  - [vue-vben-admin](https://github.com/anncwb/vue-vben-admin) - ✨ ✨ ✨ A vue3 style Admin based on Vite vue3.0, vite, ant-design-vue 2.x, typescript，Efforts to update in progress...
+- 《案例：vue3实现递归菜单》
+  - https://www.jianshu.com/p/2ee1ae40cc1b?content_source_url=https://github.com/vue3/vue3-News
 
 ### 视频
 
@@ -459,6 +464,7 @@ export default defineComponent({
 ## Awesome
 
 - [awesome-vue-3](https://github.com/blacksonic/awesome-vue-3)
+- [vue3-News](https://github.com/vue3/vue3-News/)
 
 
 
@@ -477,7 +483,6 @@ export default defineComponent({
 - [Vue3.0--Vue Composition API使用体验](https://mp.weixin.qq.com/s/LiMPkMvoDIlyfjhVu8vkHQ)
 - [Vue 3 深入响应性原理](https://mp.weixin.qq.com/s/vOGdl9daJ61CgR4jtyVLsQ)
 - ✅ [那个的Vue3动画很好，就是太短了](https://mp.weixin.qq.com/s/GPjqgt9CdD-tBHY52_M33w)
-- [96行乞丐版reactivity教你debug vue-next](https://juejin.im/post/6891657936515366920?utm_source=gold_browser_extension)
 - [Vue源码之mixin](https://juejin.im/post/6891637775763210253?utm_source=gold_browser_extension) 👉 Vue2源码
 - [Vue最全知识点（基础到进阶，覆盖vue3.0，文末送书）](https://mp.weixin.qq.com/s/y9olkntgR-9DFJVrmZsrsw)
 - [深度解读 Vue3 源码｜reactive API 定义和源码实现](https://mp.weixin.qq.com/s/8-4lLyq9E-Zl6_MlMiM9lQ)
