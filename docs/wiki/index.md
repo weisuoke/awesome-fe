@@ -1108,7 +1108,6 @@ order: 1
 - [egg+vue+mongodb实践开发在线文档管理平台——水墨文档](https://mp.weixin.qq.com/s/59rVsz7Cl4k8X5x1AHvXqA)
 - [HTML字符串中匹配关键词高亮](https://mp.weixin.qq.com/s/Rivikp4aY7xUpsSDA5LMUA)
 - [【第2139期】Web应用程序如何工作：客户端开发和部署](https://mp.weixin.qq.com/s/ZogBhCFFYSZP1orsjiRvbA)
-
 - [面试必备的 13 道举一反三的 Vue 面试题](https://mp.weixin.qq.com/s/NyghCAFHkm3zgoOAA-58XA)
 - [一份精心总结的3万字ES6实用指南（上）](https://mp.weixin.qq.com/s/T3FQgMRnS7XO2jchrJlv6Q)
 - [一份精心总结的3万字ES6实用指南（下）](https://mp.weixin.qq.com/s/ISRHZ8j1H--S_MkBSRXTNQ)
@@ -1133,11 +1132,14 @@ order: 1
 - [前端进阶: 总结几个常用的js搜索算法和性能对比](https://mp.weixin.qq.com/s/Ax8VB0UHMHFP77wnHeHSqw)
 - [深入源码解析 React 中的调度算法](https://mp.weixin.qq.com/s/xxgEIn9KXAL0pEhTby4PnA)
 - [NPM 私库从搭建到数据迁移最后容灾备份的一些解决方案](https://mp.weixin.qq.com/s/NUYooqqTklsSs77VDRLwKA)
-
 - [[译] 如何使用 useRef 修复 React 性能问题](https://mp.weixin.qq.com/s/6wo0xA7lNwThMv2LZfghpw)
 - [手撸一个在线css三角形生成器](https://mp.weixin.qq.com/s/SG764y3e6Uyph-E4_AAeSQ)
 - [基于 qiankun 的微前端最佳实践](https://mp.weixin.qq.com/s/5BhiyfP4JtXThz2rO0_P4g)
 - [图解跨域请求、反向代理原理，对前端更友好的反向代理服务器 - Caddy](https://mp.weixin.qq.com/s/Ro-HM-SQ-ky5SCIGQAjkcQ)
+- [工作中如何进行前端性能优化(21种优化+7种定位方式)](https://juejin.cn/post/6904517485349830670?utm_source=gold_browser_extension)
+- [addEventListener实现原理](https://juejin.cn/post/6904527168060325901?utm_source=gold_browser_extension)
+- [每一个前端er必须构建的技术栈](https://juejin.cn/post/6904278500850630670?utm_source=gold_browser_extension)
+- [性能优化：什么是CLS以及如何优化它](https://juejin.cn/post/6904518037563506701?utm_source=gold_browser_extension)
 
 
 
@@ -1149,8 +1151,4 @@ order: 1
 - [webp2jpg](https://github.com/renzhezhilu/webp2jpg-online)
 - [tauri](https://github.com/tauri-apps/tauri)
 - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-
-
-
-
 
