@@ -1167,8 +1167,14 @@ order: 1
 - [MongoDB + Mongoose与Node.js结合使用的后端开发的最佳实践](https://mp.weixin.qq.com/s/xWw7VKbaeEAIVactuuaImw)
 - [如何使用canvas绘制可移动网格？](https://juejin.cn/post/6905598201236357133?utm_source=gold_browser_extension)
 - [vue3.0是如何实现插件封装的？](https://juejin.cn/post/6905409280761921543?utm_source=gold_browser_extension)
+- [万字长文 | 从实践到原理，带你参透 gRPC](https://mp.weixin.qq.com/s/o-K7G9ywCdmW7et6Q4WMeA)
 
+- [这个 29.7 K 的剪贴板 JS 库有点东西！](https://mp.weixin.qq.com/s/Q8Aqz-eARuIpgf3LkpNjfQ)
 
+- [鱼和熊掌兼得：Next.js 混合渲染](https://mp.weixin.qq.com/s/98wxchUHZHcIvfK2pT1DFQ)
+
+- [React 编写私有 UI 组件库（上）之组件库发布完整流程](https://juejin.cn/post/6905661755150565384?utm_source=gold_browser_extension)
+- [Long.js源码解析](https://zhuanlan.zhihu.com/p/298103398)
 
 ### Github
 
