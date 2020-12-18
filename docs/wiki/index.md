@@ -16,7 +16,6 @@ order: 1
 
 ### 文章
 
-- [停止复用](https://mp.weixin.qq.com/s/OSC6yXoMPDY025foS9RySQ)
 - [奇舞周刊第 354 期：资损防控 —— 代码扫描技术揭秘](https://www.colabug.com/2020/0703/7493501/)
 - [2020值得收藏与学习280多款H5小游戏，从入门到彻底了解它（附源码）](https://juejin.im/post/5ef8a8ed6fb9a07e944ed6d6#heading-12)
 - [前端截图方案终极杀招（上）](https://mp.weixin.qq.com/s/ywT3RKJXOwH-Dd9EOVDgvg)
@@ -1206,6 +1205,11 @@ order: 1
 - [CI/CD 工具选型：Jenkins 还是 Bamboo？](https://mp.weixin.qq.com/s/GgnFq2XOnj-nxLpmOP4VIg)
 - [clipboard.js 的源码分析](https://mp.weixin.qq.com/s/nsEmDprpeICz_wC3Xu9cPQ)
 - [前端工程师: 我用gup4.0搭建一个前端脚手架](https://mp.weixin.qq.com/s/f4q5wZLc3u36g0YrqINTWg)
+- [送书：送 5 本进大厂必备的硬核算法教程](https://mp.weixin.qq.com/s/aPtBDmLUmcSloaW_vGW7NA)
+- [从Context源码实现谈React性能优化](https://mp.weixin.qq.com/s/h3sOamn6hkzFIIBsGBMAzA)
+- [前端: 如何利用Qrcode制作一个二维码生成器?](https://mp.weixin.qq.com/s/d1RBy06qlzirZLoJEdxyfg)
+- [Canvas入门实战之实现一个图形验证码](https://mp.weixin.qq.com/s/KRDmD5RhYtaaGxykCt6jbQ)
+- 
 
 
 
@@ -1217,5 +1221,10 @@ order: 1
 - [webp2jpg](https://github.com/renzhezhilu/webp2jpg-online)
 - [tauri](https://github.com/tauri-apps/tauri)
 - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+
+
+
+
+
 
 
