@@ -1209,7 +1209,11 @@ order: 1
 - [从Context源码实现谈React性能优化](https://mp.weixin.qq.com/s/h3sOamn6hkzFIIBsGBMAzA)
 - [前端: 如何利用Qrcode制作一个二维码生成器?](https://mp.weixin.qq.com/s/d1RBy06qlzirZLoJEdxyfg)
 - [Canvas入门实战之实现一个图形验证码](https://mp.weixin.qq.com/s/KRDmD5RhYtaaGxykCt6jbQ)
-- 
+- [用Java开发一个停车场系统](https://mp.weixin.qq.com/s/PKUz1tnWq-2Cr0q0f5_3Cg)
+- [如何在React应用中实现“使用GitHub登录”](https://mp.weixin.qq.com/s/PJm8_ncmzVnoSQ-h20kG6w)
+- [4个Github上的沙雕开源项目](https://mp.weixin.qq.com/s/fkPbTkYsH597C9iPYDoVhg)
+- [JavaScript 中的位运算和权限设计](https://mp.weixin.qq.com/s/nt_f38K03IA1jT4KH3XxXQ)
+- [腾讯IMWeb团队是如何使用 NodeJS 实现 JWT 原理](https://mp.weixin.qq.com/s/CY6vshBYUVp_hWY98b_bCQ)
 
 
 
