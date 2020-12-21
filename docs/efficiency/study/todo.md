@@ -16,6 +16,8 @@ order: 2
 - **《简明教程：Vue3》**
 - **《简明教程：TypeScript》**
 - **《简明教程：算法》**
+- **《实战：survivejs webpack5》**
+- [《实战：珠峰TypeScript+React项目》](https://github.com/weisuoke/zf-ts-react)
 - 《简明教程：WebSocket》
   - [零距离接触 WebSocket](https://mp.weixin.qq.com/s/6pwYnUkl5BNo9CgEvA1Jlg)
   - [5000字！带你零距离接触websocket！](https://mp.weixin.qq.com/s/ui29QjnulMhnaFB0x4sCVw)
