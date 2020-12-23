@@ -1214,11 +1214,13 @@ order: 1
 - [4个Github上的沙雕开源项目](https://mp.weixin.qq.com/s/fkPbTkYsH597C9iPYDoVhg)
 - [JavaScript 中的位运算和权限设计](https://mp.weixin.qq.com/s/nt_f38K03IA1jT4KH3XxXQ)
 - [腾讯IMWeb团队是如何使用 NodeJS 实现 JWT 原理](https://mp.weixin.qq.com/s/CY6vshBYUVp_hWY98b_bCQ)
-
 - [10 个 GitHub 上最火的程序员简历项目，2021 金三银四必备的加薪宝剑！](https://juejin.cn/post/6908685058844917774?utm_source=gold_browser_extension)
 - [nginx+ssh实现内网穿透](https://juejin.cn/post/6908636435771817991?utm_source=gold_browser_extension)
 - [前端篇论管理后端接口的最终方案](https://juejin.cn/post/6908547376365961223?utm_source=gold_browser_extension)
 - [content-visibility——只需一行CSS代码，让长列表网页的渲染性能提升几倍以上！](https://juejin.cn/post/6908521872577527822?utm_source=gold_browser_extension)
+- [1W+字的Vue3官方教程笔记 | 同步导学视频](https://juejin.cn/post/6909247394904702984?utm_source=gold_browser_extension)
+- [Vant 3.0 正式发布：全面拥抱 Vue 3](https://juejin.cn/post/6909370562003369997?utm_source=gold_browser_extension)
+- [快照功能实现](https://juejin.cn/post/6909362488597282829?utm_source=gold_browser_extension)
 
 
 
