@@ -1221,6 +1221,9 @@ order: 1
 - [1W+字的Vue3官方教程笔记 | 同步导学视频](https://juejin.cn/post/6909247394904702984?utm_source=gold_browser_extension)
 - [Vant 3.0 正式发布：全面拥抱 Vue 3](https://juejin.cn/post/6909370562003369997?utm_source=gold_browser_extension)
 - [快照功能实现](https://juejin.cn/post/6909362488597282829?utm_source=gold_browser_extension)
+- [三步实现模板引擎](https://juejin.cn/post/6909738349716897800?utm_source=gold_browser_extension)
+- [前端玩转阿里云对象存储 OSS](https://juejin.cn/post/6909725682784272398?utm_source=gold_browser_extension)
+- [Smart UI ：创造大于1的辅助系数](https://juejin.cn/post/6909289889955577863?utm_source=gold_browser_extension)
 
 
 
