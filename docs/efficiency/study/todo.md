@@ -24,6 +24,17 @@ order: 2
   - [如何在公司项目中使用 WebSocket— 入门实战指南](https://mp.weixin.qq.com/s/QY9mYVpqp25Ga-TSfJ6H_A)
 - 《源码：mitt》
   - [developit/mitt](https://github.com/developit/mitt)
+- 20201225
+  - 《方案：前端截图方案》
+    - [前端截图方案终极杀招（上）](https://mp.weixin.qq.com/s/ywT3RKJXOwH-Dd9EOVDgvg)
+  - 《实战：图片加水印》
+    - [100行代码实现一个无法删除的水印](https://juejin.im/post/5f12a19e5188252e974f0531?utm_source=gold_browser_extension)
+  - 《实战：JavaScript插件系统》
+    - [如何设计一个JavaScript插件系统，编程思维比死磕API更重要](https://juejin.im/post/6867335238905921543?utm_source=gold_browser_extension)
+  - 《简明教程：混沌前端组件》
+    - [让你的前端组件混沌一下？](https://juejin.im/post/6871114023849426952?utm_source=gold_browser_extension)
+  - 《实战：前端自动化部署》
+    - [Docker+Nginx+Jenkins实现前端自动化部署](https://juejin.im/post/6869736425953165319?utm_source=gold_browser_extension)
 
 ## ☆☆☆☆
 

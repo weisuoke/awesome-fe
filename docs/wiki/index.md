@@ -16,13 +16,10 @@ order: 1
 
 ### 文章
 
-- [奇舞周刊第 354 期：资损防控 —— 代码扫描技术揭秘](https://www.colabug.com/2020/0703/7493501/)
 - [2020值得收藏与学习280多款H5小游戏，从入门到彻底了解它（附源码）](https://juejin.im/post/5ef8a8ed6fb9a07e944ed6d6#heading-12)
-- [前端截图方案终极杀招（上）](https://mp.weixin.qq.com/s/ywT3RKJXOwH-Dd9EOVDgvg)
 - [频道业务黑科技--行业魔方 | 618 淘系前端技术分享](https://mp.weixin.qq.com/s/P6S02xjK_tTvYO94WwHPWQ)
 - [深度广度解析 call 和 apply 原理、使用场景及实现](https://www.colabug.com/2020/0713/7523362/)
 - [深入源码剖析componentWillXXX为什么UNSAFE](https://mp.weixin.qq.com/s/EyPyX8Noab1q32W_lVrM-g)
-- [100行代码实现一个无法删除的水印](https://juejin.im/post/5f12a19e5188252e974f0531?utm_source=gold_browser_extension)
 - [那些前端开发必不可少的生产力工具](https://juejin.im/post/6854573221417582600)
 - [玩转经典十大Top10之手撕实现](https://juejin.im/post/6854573220033953806)
 - [个人珍藏的80道多线程并发面试题（1-10答案解析）](https://juejin.im/post/6854573221258199048)
@@ -34,7 +31,6 @@ order: 1
 - [前端音视频的那些名词](https://juejin.im/post/6861941219938418702?utm_source=gold_browser_extension)
 - [十分钟的时间，武装你的代码库](https://juejin.im/post/6861769180736126983?utm_source=gold_browser_extension)
 - [前端进阶必经之路（一）：1.2w字深入理解JavaScript26个核心概念](https://juejin.im/post/6865184344990810126?utm_source=gold_browser_extension)
-- [如何设计一个JavaScript插件系统，编程思维比死磕API更重要](https://juejin.im/post/6867335238905921543?utm_source=gold_browser_extension)
 - [「一劳永逸」48张小图带你领略flex布局之美](https://juejin.im/post/6866914148387651592?utm_source=gold_browser_extension)
 - [手把手教你如何实现大量图片的自适应图片页面的排列](https://mp.weixin.qq.com/s/bgJEQPaG8ufUC-6QhHEfXw)
 - [你还在为项目里的重复请求发愁吗?](https://juejin.im/post/6868530321776705544?utm_source=gold_browser_extension)
@@ -42,8 +38,6 @@ order: 1
 - [[Web翻译]使用Web组件构建您的下一个设计系统](https://juejin.im/post/6870035681398718477?utm_source=gold_browser_extension)
 - [【解决方案】智能UI自动化测试](https://juejin.im/post/6870066538221666311?utm_source=gold_browser_extension)
 - [一个“不需要”写代码 的 mock & 代理 工具](https://juejin.im/post/6871592049485807630?utm_source=gold_browser_extension)
-- [让你的前端组件混沌一下？](https://juejin.im/post/6871114023849426952?utm_source=gold_browser_extension)
-- [Docker+Nginx+Jenkins实现前端自动化部署](https://juejin.im/post/6869736425953165319?utm_source=gold_browser_extension)
 - [微信小程序仿网易云音乐有关实时搜索功能（细节+优化）](https://juejin.im/post/6871866332770467854?utm_source=gold_browser_extension)
 - [关于 JavaScript 错误处理的最完整指南](https://juejin.im/post/6872867757407338509?utm_source=gold_browser_extension)
 - [项目实战-埋点系统初探](https://juejin.im/post/6872398266642726926?utm_source=gold_browser_extension)
@@ -84,11 +78,9 @@ order: 1
 - [起个简单枯燥的标题：找出连续差相同的数字](https://mp.weixin.qq.com/s/LRR62XL6y15G8rmUzp0ziQ)
 - [如何实现H5可视化编辑器的实时预览和真机扫码预览功能](https://mp.weixin.qq.com/s/SDegBMDBrfR3kWNgZTMQEQ)
 - [【第2077期】过去的未来：成为用户体验设计师](https://mp.weixin.qq.com/s/MtCuXoeYocOyrvfl5TNTyQ)
-- [写好 JS 条件语句的 5 条守则](https://mp.weixin.qq.com/s/q6R2UCnRrdep_JEcU4bq8g)
 - [简单又好用的前端深色模式和主题化开发方案](https://mp.weixin.qq.com/s/yMov0wBCzNfKyOjeJKsD8Q)
 - [不用try catch，如何机智的捕获错误](https://mp.weixin.qq.com/s/ne7Ts5fagf6xFq7mNhr2ng)
 - [「译」更快的 async 函数和 promises](https://mp.weixin.qq.com/s/MoaqqcOwR5PYDWWEOO1X6A)
-- [写好JavaScript条件语句的5条守则](https://mp.weixin.qq.com/s/3dBg86oVpt1_bFTqUhP1YQ)
 - [漫画：如何在数组中找到和为 “特定值” 的两个数？](https://mp.weixin.qq.com/s/wYTPPFr0Hi7BerKTfDuwfg)
 - [如何使用 ThinkJS 优雅的编写 RESTful API](https://mp.weixin.qq.com/s/Qg_sWEi7bXPa3bdYWH7Eag)
 - [【图表开发小案例】快来码一个性感妖娆的高逼格 “圆环”](https://mp.weixin.qq.com/s/dfnUWjs53_Euf-aA4O9r8g)
@@ -103,7 +95,6 @@ order: 1
 - [如何不择手段提升scroll事件的性能](https://zhuanlan.zhihu.com/p/30078937)
 - [如何在百万级的数据里找到别人正在赚钱的项目](https://zhuanlan.zhihu.com/p/157846204)
 - [你的Tree-Shaking真的起作用了吗](https://mp.weixin.qq.com/s/WncaUekzCWEVspuaNbv8Sw)
-- [成为最差前端开发的10个建议](https://mp.weixin.qq.com/s/O6L3e84iV2P9up2viyIwwg)
 - [知乎高赞：怎么学操作系统和计算机网络？（建议收藏）](https://mp.weixin.qq.com/s/E1PqGPJ_G9GDxASTWdJY-Q)
 - [用10张动图：形象理解「递归」等概念](https://mp.weixin.qq.com/s/uuNaZfzhG3KaoEtez8Migw)
 - [Node.js 异步延续模型](https://mp.weixin.qq.com/s/-6emNQ-FjkWAjGQRCDssNA)
@@ -1224,6 +1215,15 @@ order: 1
 - [三步实现模板引擎](https://juejin.cn/post/6909738349716897800?utm_source=gold_browser_extension)
 - [前端玩转阿里云对象存储 OSS](https://juejin.cn/post/6909725682784272398?utm_source=gold_browser_extension)
 - [Smart UI ：创造大于1的辅助系数](https://juejin.cn/post/6909289889955577863?utm_source=gold_browser_extension)
+- [如何设计微前端中的主子路由调度](https://mp.weixin.qq.com/s?__biz=Mzg4MjE5OTI4Mw==&amp;mid=2247484940&amp;idx=1&amp;sn=178bd6502a3fad861fd4541fa33c242d&amp;scene=21#wechat_redirect)
+- [Plop —— 小而美的脚手架工具](https://juejin.cn/post/6910547554564325383?utm_source=gold_browser_extension)
+- [备战2021：vite工程化实践，建议收藏](https://juejin.cn/post/6910014283707318279?utm_source=gold_browser_extension)
+- [搭建 Next.js + TS + Antd + Redux + Storybook 企业级项目脚手架](https://juejin.cn/post/6909986037871673358?utm_source=gold_browser_extension)
+- [Serverless 实战：打造个人阅读追踪系统 | 🏆 技术专题第七期征文](https://juejin.cn/post/6910439952526344205?utm_source=gold_browser_extension)
+- [Node项目模板管理脚手架ptm-cli开发](https://juejin.cn/post/6910481004583092238?utm_source=gold_browser_extension)
+- [vue3.0新特性teleport是啥，用起来真香](https://juejin.cn/post/6910100912367206414?utm_source=gold_browser_extension)
+- [我用JS开发了一款桌面应用](https://juejin.cn/post/6909829331352125453?utm_source=gold_browser_extension)
+- [React 优化技巧在 Web 版光线追踪里的应用(上)](https://juejin.cn/post/6909716626736676878?utm_source=gold_browser_extension)
 
 
 
@@ -1235,9 +1235,6 @@ order: 1
 - [webp2jpg](https://github.com/renzhezhilu/webp2jpg-online)
 - [tauri](https://github.com/tauri-apps/tauri)
 - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-
-
-
 
 
 
