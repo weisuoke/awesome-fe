@@ -1235,6 +1235,8 @@ order: 1
 - [fre2 发布，更好的 Concurrent 前端框架](https://juejin.cn/post/6911554396513894414?utm_source=gold_browser_extension)
 - [从零开始手把手教你使用javascript+canvas开发一个塔防游戏02敌人自动寻路](https://juejin.cn/post/6911558107818622989?utm_source=gold_browser_extension)
 - [前端UI组件库搭建和设计](https://juejin.cn/post/6911327118483947528?utm_source=gold_browser_extension)
+- [我与hooks的这一年, 万字长文总结](https://juejin.cn/post/6912309761066729485?utm_source=gold_browser_extension)
+- [推荐 12 个学习前端必备的神仙级工具类项目与网站](https://juejin.cn/post/6911710329185501191?utm_source=gold_browser_extension)
 
 
 
@@ -1246,7 +1248,3 @@ order: 1
 - [webp2jpg](https://github.com/renzhezhilu/webp2jpg-online)
 - [tauri](https://github.com/tauri-apps/tauri)
 - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-
-
-
-
