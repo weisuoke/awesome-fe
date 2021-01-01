@@ -1237,6 +1237,9 @@ order: 1
 - [前端UI组件库搭建和设计](https://juejin.cn/post/6911327118483947528?utm_source=gold_browser_extension)
 - [我与hooks的这一年, 万字长文总结](https://juejin.cn/post/6912309761066729485?utm_source=gold_browser_extension)
 - [推荐 12 个学习前端必备的神仙级工具类项目与网站](https://juejin.cn/post/6911710329185501191?utm_source=gold_browser_extension)
+- [「新年快乐」用单元测试的方式写一个promise垫片](https://juejin.cn/post/6912608997090525191?utm_source=gold_browser_extension)
+- [LeetCode题解：347. 前 K 个高频元素，二叉堆，JavaScript，详细注释](https://juejin.cn/post/6912606054975504398?utm_source=gold_browser_extension)
+- [前端就该用JS写算法1](https://juejin.cn/post/6912589164584108045?utm_source=gold_browser_extension)
 
 
 
