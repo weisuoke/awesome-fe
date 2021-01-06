@@ -98,7 +98,6 @@ order: 1
 - [知乎高赞：怎么学操作系统和计算机网络？（建议收藏）](https://mp.weixin.qq.com/s/E1PqGPJ_G9GDxASTWdJY-Q)
 - [用10张动图：形象理解「递归」等概念](https://mp.weixin.qq.com/s/uuNaZfzhG3KaoEtez8Migw)
 - [Node.js 异步延续模型](https://mp.weixin.qq.com/s/-6emNQ-FjkWAjGQRCDssNA)
-- [编写高质量可维护的代码：一目了然的注释](https://mp.weixin.qq.com/s/bj1uLl3Rc8LOSdtbnaBJfA)
 - [H5 移动端调试全攻略](https://mp.weixin.qq.com/s/-T3h-YuU8WfDhM3pXSI4QQ)
 - [Spring5新增的两大功能，吹一波这个框架](https://mp.weixin.qq.com/s/t9IR4kbMrrSETAONNJTtSQ)
 - [十一疯狂偷学之：卡夫卡快速入门指南~](https://mp.weixin.qq.com/s/bUNAD2fkGTD73jVLw8rDHg)
@@ -1284,4 +1283,5 @@ order: 1
 
 
 
-互砍 nFkEl12B2nAxGvau
+
+
