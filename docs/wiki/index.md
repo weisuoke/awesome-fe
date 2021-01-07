@@ -1283,6 +1283,11 @@ order: 1
 - [网易智慧企业 Node.js 实践一 : Node 应用架构设计和 React 同构](https://mp.weixin.qq.com/s/MyiR0NakRPT_16zXymj36g)
 - [网易智慧企业 Node.js 实践二: 平滑发布和前端代码](https://mp.weixin.qq.com/s/j3rA3GnBgk3O--2RAkryRQ)
 - [网易智慧企业 Node.js实践三：灰度发布和应用监控](https://mp.weixin.qq.com/s/T8D32XR13dMvcFq6TvjEWg)
+- [基础面试题+答案、分类学习整理（良心制作）持续更新](https://juejin.cn/post/6914831351271292936?utm_source=gold_browser_extension)
+- [剖析 lottie-web 动画实现原理](https://juejin.cn/post/6914835547588395022?utm_source=gold_browser_extension)
+- [Node.js + Express + MySQL 搭建项目框架](https://juejin.cn/post/6914891222884564999?utm_source=gold_browser_extension)
+- [Web 帧动画解决方案 - APNG原理与实现](https://juejin.cn/post/6914846392808636429?utm_source=gold_browser_extension)
+- [【译】让我们来构建一个浏览器引擎吧（建议收藏）](https://juejin.cn/post/6914663889426726920?utm_source=gold_browser_extension)
 
 
 
