@@ -6,7 +6,7 @@ title: 工具
 order: 1
 ---
 
-# 前端效率工具
+# 前端工具
 
 ## 1. 写作
 
@@ -60,7 +60,40 @@ order: 1
 - Insomnia - Insomnia是一款调试API工具，支持调试Rest Api和GraphQL Api。在写graphQL query的时候有很好的智能提示。
 - Flare
 
+## 5. 灵感
+
+- [Collect UI](https://collectui.com/designs) 画廊是一个免费的在线资源，用于每日`UI`设计灵感
+
+## 6. Icon
+
+- Iconfont 
+- [**`The Noun Project`**](https://thenounproject.com/) 网站专门提供高品质、可辨识性强的`icon`，这些`icon`没有很炫酷的设计，通常只用单色来呈现，使用者却能很容易地辨别出它要传达的意思。
+- [**`unDraw`**](https://undraw.co/illustrations) 是由希腊设计师 `Katerina Limpitsouni` 开发的一套开源矢量插图库，在这个网站上有超过 1000 个扁平矢量插画供你下载使用。
+
+## 7. 字体
+
+- [**`FontSpark`**](https://fontspark.app/) 是一个帮助有字体选择困难症的用户打造的选择字体的网站，用户只需要输入所需要展示的文字即可获得网站推荐的字体，包括字体类型和大小。
+
+## 8. CSS
+
+### 动画
+
+- [**`csseffects`**](https://emilkowalski.github.io/css-effects-snippets/)
+
+## 9. 单元测试
+
+- [**`Majestic`**](https://github.com/Raathigesh/majestic): ⚡ Zero config GUI for Jest
+
+## 10. 网站优化
+
+- [**`Wappalyzer`**](https://www.wappalyzer.com/)
+- [**`Lighthouse`**](https://developers.google.com/web/tools/lighthouse)
+
+
+
 ## 参考
 
 - [我的前端开发工具箱](https://juejin.im/post/6844904183460528142)
 - [聊聊前端开发日常的协作工具（全）](https://juejin.im/post/5ed37b57518825434c3d9677)
+
+- [那些前端开发必不可少的生产力工具](https://juejin.im/post/6854573221417582600)

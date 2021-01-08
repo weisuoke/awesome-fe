@@ -102,4 +102,12 @@ order: 2
 - 《简明教程：Pipcook》
 - 《简明教程：MutationObserver》
   - [m-observer](https://www.npmjs.com/package/m-observer): `m-observer` 是对 `MutationObserver` API 的二次封装，简化配置，上手容易 
+- [频道业务黑科技--行业魔方 | 618 淘系前端技术分享](https://mp.weixin.qq.com/s/P6S02xjK_tTvYO94WwHPWQ)
+  - 《实验：天马搭建体系》
+    - [淘宝前端在搭建服务上的探索](https://zhuanlan.zhihu.com/p/137470317)
+    - [如何开发和部署前端代码？淘宝8年案例解读](https://www.infoq.cn/article/vflqy1gjaejb4mzs63ze)
+  - 《试用：imgcook》
+  - 《试用：Rax》
+- 《实验：低代码平台》
+  - [前端页面可视化搭建工具业界的轮子](https://juejin.im/post/6858881797490098190?utm_source=gold_browser_extension)
 
