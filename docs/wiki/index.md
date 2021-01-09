@@ -1279,6 +1279,10 @@ order: 1
 - [Node.js + Express + MySQL 搭建项目框架](https://juejin.cn/post/6914891222884564999?utm_source=gold_browser_extension)
 - [Web 帧动画解决方案 - APNG原理与实现](https://juejin.cn/post/6914846392808636429?utm_source=gold_browser_extension)
 - [【译】让我们来构建一个浏览器引擎吧（建议收藏）](https://juejin.cn/post/6914663889426726920?utm_source=gold_browser_extension)
+- [2021 JavaScript 框架及其它技术趋势【附彩蛋🥚】](https://juejin.cn/post/6915678021991006215?utm_source=gold_browser_extension)
+- [震惊！前端300基础面试题+答案、分类学习整理（良心制作）持续更新](https://juejin.cn/post/6914831351271292936?utm_source=gold_browser_extension)
+- [JSX+Vue3+Vant 实现 网易云播放器(一)](https://juejin.cn/post/6914997086295916551?utm_source=gold_browser_extension)
+- [盘点从vue源码看到的冷门api](https://juejin.cn/post/6915352530251677709?utm_source=gold_browser_extension)
 
 
 
