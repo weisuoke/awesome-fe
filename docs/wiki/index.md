@@ -1283,6 +1283,27 @@ order: 1
 - [震惊！前端300基础面试题+答案、分类学习整理（良心制作）持续更新](https://juejin.cn/post/6914831351271292936?utm_source=gold_browser_extension)
 - [JSX+Vue3+Vant 实现 网易云播放器(一)](https://juejin.cn/post/6914997086295916551?utm_source=gold_browser_extension)
 - [盘点从vue源码看到的冷门api](https://juejin.cn/post/6915352530251677709?utm_source=gold_browser_extension)
+- [剖析 lottie-web 动画实现原理](https://mp.weixin.qq.com/s/yUrrXpZRs-fnlTLohPMLEQ)
+- [你不知道的 DOM 变动观察器：Mutation observer](https://mp.weixin.qq.com/s/aO_-f1D_8dlTIYH1IQ9bBQ)
+- [你一定没见过的高扩展性 React/Vue 修饰器](https://mp.weixin.qq.com/s/SMTLSw9sTZ_DUrQYbzUHjw)
+- [从0到1封装表单组件（TypeScript + Vue3.0 版）](https://mp.weixin.qq.com/s/OEYCWm8clsN3sbz0kjIbBw)
+- [如何使用 docker 高效部署 Node 应用](https://mp.weixin.qq.com/s/xNzE_8qkIQ6b0Sh525YReg)
+- [[超实用] 纯前端实现一键生成二维码](https://mp.weixin.qq.com/s/8vysvN4VZSIiCV1rCUeXtQ)
+- [从一个优质开源项目来看前端架构](https://mp.weixin.qq.com/s/f7tzRE0cgQxCP6MNQW5SxQ)
+- [如何充分利用Composition API对Vue3项目进行代码抽离](https://mp.weixin.qq.com/s/r5e6aJnu1ZrYQWUlByEDHw)
+- [混子前端24个解决工作问题的ES6代码片段](https://mp.weixin.qq.com/s/i8vrdxfCtRS04lLaZ9NIIg)
+- [44道JS难题帮你巩固从未掌握的小知识](https://mp.weixin.qq.com/s/phcBszu7kXPYso74czWG0g)
+- [Vue项目如何提升？从3个层面来总结技巧](https://mp.weixin.qq.com/s/DhsixgulALcAPkuHc69YbA)
+- [实战 | 使用 Webpack5 搭建多页面应用](https://mp.weixin.qq.com/s/Vg2eZQUUU3RIv72rO6Dwxw)
+- [一次关于 Vue 的自我模拟面试](https://mp.weixin.qq.com/s/_MFOv_uCVwHrEtU_InU06w)
+- [Vue项目如何提升？从3个层面来总结技巧](https://mp.weixin.qq.com/s/BIDKxDoN8KA3VcJQaEd3Uw)
+- [2020字节跳动抖音架构组前端实习生面经(已到offer)](https://mp.weixin.qq.com/s/BkJcJBcLWQFltO-CjcthIQ)
+- [10个不那么知名但很强大的Web API](https://mp.weixin.qq.com/s/TD8kYET3opwZ5_lVqnMBnw)
+- [Web 协议跟抓包都不会也敢说自己是程序员？](https://mp.weixin.qq.com/s/gQIKLGUEFSxqFJBfoN2Ulg)
+- [Vue.js最佳静态站点生成器对比](https://mp.weixin.qq.com/s/S2d77EhrNjJkz4wUQoawKg)
+- [React RFC Server Components是什么，有啥用](https://mp.weixin.qq.com/s/FYpmHTdo7Xw2StMkQyc-Rg)
+- [2021 年前端新变化，使用 vite 替代 webpack 构建 React !](https://juejin.cn/post/6915352530251677709?utm_source=gold_browser_extension)
+- 
 
 
 
