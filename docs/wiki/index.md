@@ -1303,7 +1303,9 @@ order: 1
 - [Vue.js最佳静态站点生成器对比](https://mp.weixin.qq.com/s/S2d77EhrNjJkz4wUQoawKg)
 - [React RFC Server Components是什么，有啥用](https://mp.weixin.qq.com/s/FYpmHTdo7Xw2StMkQyc-Rg)
 - [2021 年前端新变化，使用 vite 替代 webpack 构建 React !](https://juejin.cn/post/6915352530251677709?utm_source=gold_browser_extension)
-- 
+- [浅谈nodejs中间层](https://juejin.cn/post/6918260779472912392?utm_source=gold_browser_extension)
+- [玩转前端监控，全面解析Sentry源码(一)｜ 搞懂Sentry初始化](https://juejin.cn/post/6918290580619902989?utm_source=gold_browser_extension)
+- [前端工程化-自动生成页面](https://juejin.cn/post/6918314093498040333?utm_source=gold_browser_extension)
 
 
 
