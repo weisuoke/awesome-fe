@@ -1306,6 +1306,10 @@ order: 1
 - [浅谈nodejs中间层](https://juejin.cn/post/6918260779472912392?utm_source=gold_browser_extension)
 - [玩转前端监控，全面解析Sentry源码(一)｜ 搞懂Sentry初始化](https://juejin.cn/post/6918290580619902989?utm_source=gold_browser_extension)
 - [前端工程化-自动生成页面](https://juejin.cn/post/6918314093498040333?utm_source=gold_browser_extension)
+- [2021 再看 Deno（CDN for JavaScript modules的思考）](https://juejin.cn/post/6919389446068502535?utm_source=gold_browser_extension)
+- [今天聊：前端工程师需要突破的 10 个困局](https://juejin.cn/post/6919723547078328333?utm_source=gold_browser_extension)
+- [前端搞工程化：从零打造性能检测库「源码 + 视频」](https://juejin.cn/post/6919295789630455815?utm_source=gold_browser_extension)
+- 
 
 
 
