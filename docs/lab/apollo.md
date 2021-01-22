@@ -17,3 +17,13 @@
 
 - [SDL](https://www.apollographql.com/docs/apollo-server/schema/schema/#schema-definition-language) - schema definition language
 
+## 文章
+
+- [How to structure GraphQL server code](https://www.apollographql.com/blog/how-to-build-graphql-servers-87587591ded5/)
+- [GraphQL Resolvers: Best Practices](https://medium.com/paypal-engineering/graphql-resolvers-best-practices-cd36fdbcef55)
+
+## Github
+
+### apollo server
+
+- [hasura/graphql-engine](https://github.com/hasura/graphql-engine)
