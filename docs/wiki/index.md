@@ -1339,7 +1339,11 @@ order: 1
 - [基于自然流布局的可视化拖拽搭建平台设计方案](https://mp.weixin.qq.com/s/zCLV1QamOc4ovzR0WFnjWA)
 - [前端:使用CSS3实现酷炫的3D旋转透视](https://mp.weixin.qq.com/s/mkUDRpJbW7O0exUeNE3-MA)
 - [可插拔的跨域聊天机器人实现方案复盘(postMessage版)](https://mp.weixin.qq.com/s/6doi_KWJIxY2Urfg5EGEfA)
-- 
+- [Vue 3 和 Webpack 5 来了，手动搭建的知识该更新了](https://juejin.cn/post/6921161482663100423?utm_source=gold_browser_extension)
+- [潮流前端周刊（第20期）- 草海](https://juejin.cn/post/6921320651122802701?utm_source=gold_browser_extension)
+- [webpack打包公共类库怎么做（超详细）](https://juejin.cn/post/6920543483908325383?utm_source=gold_browser_extension)
+- [天天造轮子 - 手写Vue3.0 (建议收藏)](https://juejin.cn/post/6921126536313569287?utm_source=gold_browser_extension)
+- [使用FrameController.js优雅的处理单页多框架窗口（<iframe>）管理同步问题](https://juejin.cn/post/6921223943219544078?utm_source=gold_browser_extension)
 
 
 
