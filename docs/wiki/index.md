@@ -1344,8 +1344,14 @@ order: 1
 - [webpack打包公共类库怎么做（超详细）](https://juejin.cn/post/6920543483908325383?utm_source=gold_browser_extension)
 - [天天造轮子 - 手写Vue3.0 (建议收藏)](https://juejin.cn/post/6921126536313569287?utm_source=gold_browser_extension)
 - [使用FrameController.js优雅的处理单页多框架窗口（<iframe>）管理同步问题](https://juejin.cn/post/6921223943219544078?utm_source=gold_browser_extension)
+- [使用Web Crypto API的端到端加密聊天](https://juejin.cn/post/6923197023340462087?utm_source=gold_browser_extension)
+- [浅谈React Fiber--比Thread更精密的并发处理机制](https://juejin.cn/post/6923151396501979143?utm_source=gold_browser_extension)
+- [Electron + React 开发视频壁纸-从构建到打包](https://juejin.cn/post/6923231439227977736?utm_source=gold_browser_extension)
+- [vue3 实战总结](https://juejin.cn/post/6923528456303017998?utm_source=gold_browser_extension)
+- [Concurrent模式下React的更新行为 - 优先级模型](https://juejin.cn/post/6923486209155497991?utm_source=gold_browser_extension0)
+- [一个草根前端人的焦虑](https://juejin.cn/post/6922456847765110798?utm_source=gold_browser_extension)
 
-
+ 
 
 ### Github
 
