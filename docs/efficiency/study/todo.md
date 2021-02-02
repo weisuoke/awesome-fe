@@ -25,6 +25,8 @@ order: 2
   - [如何在公司项目中使用 WebSocket— 入门实战指南](https://mp.weixin.qq.com/s/QY9mYVpqp25Ga-TSfJ6H_A)
 - 《源码：mitt》
   - [developit/mitt](https://github.com/developit/mitt)
+- **《源码：jquery-mousewheel》**
+  - [jquery/jquery-mousewheel](https://github.com/jquery/jquery-mousewheel)
 - 20201225
   - 《方案：前端截图方案》
     - [前端截图方案终极杀招（上）](https://mp.weixin.qq.com/s/ywT3RKJXOwH-Dd9EOVDgvg)
