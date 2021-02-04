@@ -1372,6 +1372,9 @@ order: 1
 - [尤雨溪是个恶魔，Vite 三天 10 更](https://juejin.cn/post/6924849310118969352?utm_source=gold_browser_extension)
 - [基于原生js构建超级玛丽游戏](https://juejin.cn/post/6924669859859005447?utm_source=gold_browser_extension)
 - [【🎨万物皆可动】详解Canvas路径动画](https://juejin.cn/post/6924866572972457992?utm_source=gold_browser_extension)
+- [今天聊：为什么你简历上写不出亮点](https://juejin.cn/post/6925328952068145165?utm_source=gold_browser_extension)
+- [深入浅出前端本地储存](https://juejin.cn/post/6925311938419408904?utm_source=gold_browser_extension)
+- [一个合格的初级前端工程师需要掌握的模块笔记](https://juejin.cn/post/6925197705832562696?utm_source=gold_browser_extension)
 
 
 
