@@ -1362,6 +1362,7 @@ order: 1
 - [今天聊：为什么你简历上写不出亮点](https://juejin.cn/post/6925328952068145165?utm_source=gold_browser_extension)
 - [深入浅出前端本地储存](https://juejin.cn/post/6925311938419408904?utm_source=gold_browser_extension)
 - [一个合格的初级前端工程师需要掌握的模块笔记](https://juejin.cn/post/6925197705832562696?utm_source=gold_browser_extension)
+- [【阮一峰推荐】学习 vue3 源码的利器](https://juejin.cn/post/6925668019884523534?utm_source=gold_browser_extension)
 
 
 
