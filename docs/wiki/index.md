@@ -1363,6 +1363,9 @@ order: 1
 - [深入浅出前端本地储存](https://juejin.cn/post/6925311938419408904?utm_source=gold_browser_extension)
 - [一个合格的初级前端工程师需要掌握的模块笔记](https://juejin.cn/post/6925197705832562696?utm_source=gold_browser_extension)
 - [【阮一峰推荐】学习 vue3 源码的利器](https://juejin.cn/post/6925668019884523534?utm_source=gold_browser_extension)
+- [vue3源码分析--真的有必要掌握框架的细枝末节吗？](https://juejin.cn/post/6926336016152428551?utm_source=gold_browser_extension)
+- [我是如何在 72 小时内复刻 ClubHouse 的](https://juejin.cn/post/6925998925077970951?utm_source=gold_browser_extension)
+- [跨年都在更新的 vite 到底有多香?](https://juejin.cn/post/6926362650943668232?utm_source=gold_browser_extension)
 
 
 
