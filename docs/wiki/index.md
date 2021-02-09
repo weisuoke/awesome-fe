@@ -1371,6 +1371,9 @@ order: 1
 - [叮，一份 Deno GitHub Action 源码解析请查收](https://juejin.cn/post/6926899307735957511?utm_source=gold_browser_extension)
 - [完全理解并实现Promise其实可以让你进步很多 （记录手写Promise过程）](https://juejin.cn/post/6926696239224324103?utm_source=gold_browser_extension)
 - [浅谈对 React Fiber 的理解](https://juejin.cn/post/6926432527980691470?utm_source=gold_browser_extension)
+- [『前端BUG』—— toFixed四舍五入的不准确性｜牛气冲天新年征文](https://juejin.cn/post/6927215610552123406?utm_source=gold_browser_extension)
+- [『面试的底气』—— 0.1+0.2等于0.3吗｜牛气冲天新年征文](https://juejin.cn/post/6927217000112455687?utm_source=gold_browser_extension)
+- [叮，一份 Deno GitHub Action 源码解析请查收](https://juejin.cn/post/6926899307735957511?utm_source=gold_browser_extension)
 
 
 
