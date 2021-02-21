@@ -1416,6 +1416,9 @@ order: 1
 - [使用 mask 实现视频弹幕人物遮罩过滤](https://juejin.cn/post/6931168723021758478?utm_source=gold_browser_extension)
 - [花五分钟重新认知 Vue 项目 src 目录](https://juejin.cn/post/6931234988281036807?utm_source=gold_browser_extension)
 
+- [从0到1开发可视化数据大屏（上）](https://juejin.cn/post/6931708519976534029?utm_source=gold_browser_extension)
+- [three.js 实现3D动态文字](https://juejin.cn/post/6931647184349691911?utm_source=gold_browser_extension)
+
 
 
 ### Github
