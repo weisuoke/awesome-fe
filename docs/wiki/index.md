@@ -1415,9 +1415,11 @@ order: 1
 - [今天聊：前端工程师的晋升逻辑到底是什么](https://juejin.cn/post/6931204993395621895?utm_source=gold_browser_extension)
 - [使用 mask 实现视频弹幕人物遮罩过滤](https://juejin.cn/post/6931168723021758478?utm_source=gold_browser_extension)
 - [花五分钟重新认知 Vue 项目 src 目录](https://juejin.cn/post/6931234988281036807?utm_source=gold_browser_extension)
-
 - [从0到1开发可视化数据大屏（上）](https://juejin.cn/post/6931708519976534029?utm_source=gold_browser_extension)
 - [three.js 实现3D动态文字](https://juejin.cn/post/6931647184349691911?utm_source=gold_browser_extension)
+- [帮助你建立前端脚手架的系统化认识](https://juejin.cn/post/6932028714582540295?utm_source=gold_browser_extension)
+- [commander.js 原理解析](https://juejin.cn/post/6932029493666119687?utm_source=gold_browser_extension)
+- [前端算法面试必刷题系列[14]](https://juejin.cn/post/6932022097686298637?utm_source=gold_browser_extension)
 
 
 
