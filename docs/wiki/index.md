@@ -1435,6 +1435,8 @@ order: 1
 - [vue-cli 迁移 vite2 实践小结](https://juejin.cn/post/6934316962952544269?utm_source=gold_browser_extension)
 - [潮流前端周刊（第23期）- 小炒黄牛肉](https://juejin.cn/post/6934308324896669709?utm_source=gold_browser_extension)
 - [寻找二叉树的下一个节点](https://juejin.cn/post/6934308520690974728?utm_source=gold_browser_extension)
+- [华为抽奖效果的简单实现](https://juejin.cn/post/6934624269431209992?utm_source=gold_browser_extension)
+- [以尽可能通俗易懂的方式看懂webpack-dev-server的热更新](https://juejin.cn/post/6934621941232271368?utm_source=gold_browser_extension)
 
 
 
