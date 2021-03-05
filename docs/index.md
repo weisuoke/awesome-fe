@@ -2,7 +2,7 @@
 title: Awesome frontend
 order: 10
 hero:
-  title: Awesome Front-end develop
+  title: Awesome front-end develop
   desc: 📚 有趣的前端 架构 | 思路 | 效率
   actions:
     - text: 开始阅读

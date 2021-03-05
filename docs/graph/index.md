@@ -10,9 +10,9 @@ order: 1
 
 - 基础
   - css
-  - JS
-    - ES6
-    - TypeScript
+  - JS（ES6、TypeScript）
+    - 基础
+    - 高阶
   - 设计模式
   - 算法
 - 框架
