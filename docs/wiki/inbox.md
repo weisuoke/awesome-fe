@@ -21,7 +21,6 @@ order: 2
 
 - 腾讯视频 Node.js 服务是如何支撑国庆阅兵直播高并发的？
 - Node.js--cluster原理分析 - Novak12 - 博客园
-- 前端页面被取消的重复请求
 - 记录一次有难度的后台重构&性能优化
 - 深入浅出gitlab CI
 - 得到 Hybrid 架构的演进之路
@@ -34,8 +33,6 @@ order: 2
 
 ### 好玩
 
-- 基于 HTML5 WebGL + WebVR 的 3D 虚实现实可视化培训系统
-- 基于 Angular 的小程序可视化编辑器 —— Panel-Magic
 - 手把手教你实现TypeScript下的IoC容器
 - 让你优雅的填满Github的绿色格子-AutoCommit
 - 使用Pixi撸一款“劳力士绿水鬼”！
