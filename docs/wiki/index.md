@@ -16,7 +16,6 @@ order: 1
 
 ### 文章
 
-- [2020值得收藏与学习280多款H5小游戏，从入门到彻底了解它（附源码）](https://juejin.im/post/5ef8a8ed6fb9a07e944ed6d6#heading-12)
 - [深度广度解析 call 和 apply 原理、使用场景及实现](https://www.colabug.com/2020/0713/7523362/)
 - [玩转经典十大Top10之手撕实现](https://juejin.im/post/6854573220033953806)
 - [六张图从HTTP/0.9进化到HTTP3.0](https://juejin.im/post/6856036933723521032?utm_source=gold_browser_extension)
@@ -1144,7 +1143,6 @@ order: 1
 - [vue3 实战总结](https://juejin.cn/post/6923528456303017998?utm_source=gold_browser_extension)
 - [Concurrent模式下React的更新行为 - 优先级模型](https://juejin.cn/post/6923486209155497991?utm_source=gold_browser_extension0)
 - [一个草根前端人的焦虑](https://juejin.cn/post/6922456847765110798?utm_source=gold_browser_extension)
-- [让你选一句话裱起来，你会选什么？](https://juejin.cn/post/6923922117268340750?utm_source=gold_browser_extension)
 - [像玩 jQuery 一样玩 AST](https://juejin.cn/post/6923936548027105293?utm_source=gold_browser_extension)
 - [自己写一个 Redux](https://juejin.cn/post/6923922875191656462?utm_source=gold_browser_extension)
 - [从0开始实现一个合成大西瓜](https://juejin.cn/post/6923803717808422925?utm_source=gold_browser_extension)
