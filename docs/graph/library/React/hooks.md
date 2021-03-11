@@ -385,3 +385,137 @@ function App() {
 ReactDOM.render(<App />, document.getElementById('root'));
 ```
 
+## UseReducer
+
+- useState的替代方案。它接收一个形如`(state, action) => newState`的reducer，并返回当前的 state 以及与其配套的 dispatch 方法
+- 在某些场景下，useReducer 会比 useState更加适用，例如 state 逻辑较复杂且包含多个子值，或者下一个 state 依赖之前的 state 等
+
+### 基本用法
+
+```js
+const [state, dispatch] = useReducer(reducer, initialArg, init);
+```
+
+```js
+import React from 'react'
+import ReactDOM from 'react-dom'
+function reducer(state, action) {
+  switch(action.type) {
+    case 'add':
+      return {number: state.number + 1};
+    case 'minus':
+      return {number: state.number - 1};
+    default:
+      return state
+  }
+}
+
+function init(initialState) {
+  return {number: initialState}
+}
+
+function Counter1(){
+  const [state, setState] = React.useState({number:0});
+  return (
+      <>
+        Count: {state.number}
+        <button onClick={() => setState({number:state.number+1})}>+</button>
+        <button onClick={() => setState({number:state.number-1})}>-</button>
+      </>
+  )
+}
+
+function Counter2(){
+    const [state, dispatch] = React.useReducer(reducer, 0, init);
+    return (
+        <>
+          Count: {state.number}
+          <button onClick={() => dispatch({type: 'add'})}>+</button>
+          <button onClick={() => dispatch({type: 'minus'})}>-</button>
+        </>
+    )
+}
+
+function render(){
+  ReactDOM.render(
+    <>
+     <Counter1 />
+     <Counter2 />
+    </>,
+    document.getElementById('root')
+  );
+}
+render();
+```
+
+### 实现useReducer
+
+```js
+import React from 'react';
+import ReactDOM from 'react-dom';
+
+function useReducer(reducer, initialState, init) {
+  hookStates[hookIndex] = hookStates[hookIndex] || (init ? init(initialState) : initialState);
+  let currentIndex = hookIndex
+  function dispatch(action) {
+    hookStates[currentIndex] = reducer ? reducer(hookState[currentIndex], action) : action;
+    render();
+  }
+  return [hookStates[hookIndex++], dispatch]
+}
+
+function useState(initialState){
+  return useReducer(null,initialState);
+}
+
+function reducer(state, action) {
+  switch (action.type) {
+    case 'add':
+      return {number: state.number + 1};
+    case 'minus':
+      return {number: state.number - 1};
+    default:
+      return state;
+  }
+}
+
+function init(initialState){
+	return {number:initialState};
+}
+
+function Counter1(){
+  const [state, setState] = useState({number:0});
+  return (
+      <>
+        Count: {state.number}
+        <button onClick={() => setState({number:state.number+1})}>+</button>
+        <button onClick={() => setState({number:state.number-1})}>-</button>
+      </>
+  )
+}
+
+function Counter2(){
+    const [state, dispatch] = useReducer(reducer, 0,init);
+    return (
+        <>
+          Count: {state.number}
+          <button onClick={() => dispatch({type: 'add'})}>+</button>
+          <button onClick={() => dispatch({type: 'minus'})}>-</button>
+        </>
+    )
+}
+
+function render(){
+  hookIndex=0;
+  ReactDOM.render(
+    <>
+       <Counter1 />
+       <Counter2 />
+    </>,
+    document.getElementById('root')
+  );
+}
+
+render();
+```
+

@@ -19,8 +19,6 @@ order: 2
 
 ### 思路
 
-- 腾讯视频 Node.js 服务是如何支撑国庆阅兵直播高并发的？
-- Node.js--cluster原理分析 - Novak12 - 博客园
 - 记录一次有难度的后台重构&性能优化
 - 深入浅出gitlab CI
 - 得到 Hybrid 架构的演进之路
@@ -56,7 +54,6 @@ order: 2
 - 前端轻量化部署脚手架实践
 - 边写边学系列（四）—— Gatsby 搭建炫酷屌炸天的个人博客
 - Gatsby 入门指南
-- 撸一个前端监控系统（React + Node + Mysql + Webpack plugin + Docker）
 - 硬核开源，使用 react-hooks 手写 ant-design-pro，搭配 node 完整api
 - 13道http面试题，你能否接住
 
