@@ -288,5 +288,15 @@ order: 1
 
 - [如何将宇宙最强vscode打造为刷题神器](https://zhuanlan.zhihu.com/p/354386295)
 
+- [备战2021：Vite2插件开发指南](https://mp.weixin.qq.com/s/awhxb6joBYV6W6Pb_U0fFw)
+
+- [看懂此文，手写十种Promise！](https://mp.weixin.qq.com/s/yXOstYUDXldXJ4M-38q1xg)
+
+- [Vite 2.0 正式发布！依赖预构建，CSS 分割等众多新特性到来](https://mp.weixin.qq.com/s/wBtZWyp3DMVbE840ndvSjQ)
+
+- [从未看过源码，到底该如何入手？分享一次完整的源码阅读过程](https://mp.weixin.qq.com/s/OyRm6sku7dOCMD9AAGiXdA)
+
+- 
+
   
 
