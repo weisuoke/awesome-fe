@@ -326,7 +326,35 @@ order: 1
 
 - [【第2206期】奇怪的知识——位掩码](https://mp.weixin.qq.com/s/zT4dZPYN3vYMRABWkH5SFQ)
 
-- 
+- [Vue3.0 新特性以及使用变更总结(实际工作用到的)](https://mp.weixin.qq.com/s/OKCxvrUPoPM0hR-z9reESA)
+
+- [前端 Code Review 的最佳实践方案](https://mp.weixin.qq.com/s/xd5pNdigbjsSEgPVqiCRGQ)
+
+- [如何打造一款标准的 JS SDK ？](https://mp.weixin.qq.com/s/vTDnkbsQ5KYOJfcbe6Jy0A)
+
+- [Ant Design 开源项目经验分享，你想知道的都在这儿了](https://mp.weixin.qq.com/s/MADf4QAGyWXCzj9VvoVuDA)
+
+- [2020 Javascript明星项目](https://mp.weixin.qq.com/s/A127_4CLiSa7CO3M0FEcxA)
+
+- [这可能是大型复杂项目下数据流的最佳实践](https://mp.weixin.qq.com/s/Y_jXUcQzcJXgPQvhDPAfNA)
+
+- [三大前端构建工具横评，谁是性能之王！](https://mp.weixin.qq.com/s/47egSex0okCqySlwudAMrA)
+
+- [如何理性看待Tailwind和styled-components争宠React](https://mp.weixin.qq.com/s/-_hUeWQEPTnTrXgIrCDQqQ)
+
+- [前端工程化实战指南（技术点：Vite Eslint Prettier Rollup Npm TravisCI）](https://mp.weixin.qq.com/s/5h_jx34nvSdPbwSpTHlXOQ)
+
+- [详解重定向（HTTP状态码301/302/303/307/308）附案例](https://mp.weixin.qq.com/s/mVgy8Je2f_2Mjf65VT9pYQ)
+
+- [useCallback 的问题和隐患的解决方案 - 胡耀(字节跳动)](https://mp.weixin.qq.com/s/vAeqveGywVlpkdOGp3Ublg)
+
+- [细节满满的四轮字节跳动面经](https://mp.weixin.qq.com/s/J-fGtL9AIaW0SiOYqWuRqg)
+
+- [2021年Node.js开发人员学习路线图](https://mp.weixin.qq.com/s/Mg4gS4NZxsxq6kLJhiBQ9Q)
+
+- [vue3构建工具vite原理之 手写vite](https://mp.weixin.qq.com/s/ucSooLKXvTJYsMpbfOhurA)
+
+  
 
   
 
