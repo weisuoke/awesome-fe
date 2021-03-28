@@ -374,6 +374,50 @@ order: 1
 
 - [“D3.js” 手绘分段折线图](https://juejin.cn/post/6944234260840579086?utm_source=gold_browser_extension)
 
+- [vscode 源码解析 - 进程间调用](https://zhuanlan.zhihu.com/p/360106947)
+
+- [Understanding the Ant Design System — a UI Design for Enterprises](https://betterprogramming.pub/understanding-the-ant-design-system-a-ui-design-for-enterprises-39afdb188b06)
+
+- [Double Your React Coding Speed With This Simple Trick](https://javascript.plainenglish.io/double-your-react-coding-speed-with-this-simple-trick-ca2e47d1bf97)
+
+- [When to Write End-to-End Tests](https://betterprogramming.pub/when-to-write-end-to-end-tests-246d43b166d0)
+
+- [Two Ways to Run Tests on Different Versions of The Same Library F.E. React 17 + React 16](https://medium.com/welldone-software/two-ways-to-run-tests-on-different-versions-of-the-same-library-f-e-react-17-react-16-afb7f861d1e9)
+
+- [Unit Testing Styled Components](https://medium.com/welldone-software/unit-testing-styled-components-92dac6249f14)
+
+- [React- useCallback Invalidates Too Often in Practice](https://medium.com/welldone-software/react-usecallback-invalidates-too-often-in-practice-f398ee61f429)
+
+- [Tic Tac Toe: React, TypeScript, XState, fp-ts & CSS Grid](https://javascript.plainenglish.io/tic-tac-toe-react-typescript-xstate-fp-ts-css-grid-cbbb6455cbf7)
+
+- [**Fun JavaScript: Safely dealing with undefined/null values using functional programming.**](https://blog.bitsrc.io/why-frontend-developers-need-to-be-webpack-experts-32e734b6f04a)
+
+- [Use Enzyme & Jest Snapshots to Test data-testid Attributes in React Components](https://medium.com/trabe/use-enzyme-jest-snapshots-to-test-data-testid-attributes-in-react-components-769ab37442a9)
+
+- [Testing a Redux Hooked App](https://blog.bitsrc.io/testing-a-redux-hooked-app-a8e9d1609061)
+
+- [How to Setup React Testing Library for Material UI Styled component with TypeScript](https://javascript.plainenglish.io/how-to-setup-react-testing-library-for-material-ui-styled-component-with-typescript-556decbcbb55)
+
+- [The BFF Pattern (Backend for Frontend): An Introduction](https://blog.bitsrc.io/bff-pattern-backend-for-frontend-an-introduction-e4fa965128bf)
+
+- [Frontend Pattern — Atomic Business Components (ABC)](https://nsisodiya.medium.com/frontend-pattern-atomic-business-components-abc-17466f72dc37)
+
+- [Micro-FE Architecture: Webpack 5, Module Federation, and custom startup code.](https://medium.com/@ScriptedAlchemy/micro-fe-architecture-webpack-5-module-federation-and-custom-startup-code-9cb3fcd066c)
+
+- [Five React hooks useful in any project.](https://itnext.io/five-react-hooks-useful-in-any-project-44c150f283f8)
+
+- [Simplifying Redux with Redux Toolkit](https://blog.bitsrc.io/simplifying-redux-with-redux-toolkit-6236c28cdfcb)
+
+- [Observer pattern in React using Redux](https://medium.com/@jackwong_60367/observer-pattern-in-react-using-redux-ca9998e885b0)
+
+- [Working with Dynamic Element Ids, Classes and Attributes— Cypress](https://ahmed-alsaab.medium.com/working-with-dynamic-element-ids-classes-and-attributes-cypress-fe7dc7c99161)
+
+- [Oh Hello Apollo Client 💛, Goodbye Redux! 👋](https://kulkarniankita9.medium.com/oh-hello-apollo-client-goodbye-redux-49dfdeda16d1)
+
+- [Reducing testing and building time in Monorepos](https://sibelius.medium.com/reduce-testing-and-building-time-in-monorepos-5843b63972b)
+
+- 
+
   
 
   
