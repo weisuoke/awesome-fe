@@ -416,7 +416,19 @@ order: 1
 
 - [Reducing testing and building time in Monorepos](https://sibelius.medium.com/reduce-testing-and-building-time-in-monorepos-5843b63972b)
 
-- 
+- [什么是费曼技巧？](https://www.zhihu.com/question/20585936/answer/867737068)
+
+- [现代前端工程为什么越来越离不开 Monorepo?](https://juejin.cn/post/6944877410827370504?utm_source=gold_browser_extension)
+
+- [🎉🎉Vue 3 + Element Plus + Vite 2 的后台管理系统开源啦🎉🎉](https://juejin.cn/post/6945072070132760590?utm_source=gold_browser_extension)
+
+- [前后端联调解决cookie回写](https://juejin.cn/post/6944628968154726413?utm_source=gold_browser_extension)
+
+- [分享15个Webpack实用的插件！！！](https://juejin.cn/post/6944940506862485511?utm_source=gold_browser_extension)
+
+- [猛增 110K Star！年增长数最多的 10 大顶级前端学习资源项目！](https://juejin.cn/post/6944632786724585502?utm_source=gold_browser_extension)
+
+- [“D3.js” 手绘分段折线图](https://juejin.cn/post/6944234260840579086?utm_source=gold_browser_extension)
 
   
 
