@@ -430,6 +430,12 @@ order: 1
 
 - [“D3.js” 手绘分段折线图](https://juejin.cn/post/6944234260840579086?utm_source=gold_browser_extension)
 
+- [从一道让我失眠的 Promise 面试题开始，深入分析 Promise 实现细节](https://juejin.cn/post/6945319439772434469?utm_source=gold_browser_extension)
+
+- [加入WangEditor团队的一个月](https://juejin.cn/post/6945302633389228040?utm_source=gold_browser_extension)
+
+- [最受欢迎的5个React动画库](https://juejin.cn/post/6945015156933918734?utm_source=gold_browser_extension)
+
   
 
   
