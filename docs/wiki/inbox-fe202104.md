@@ -12,3 +12,6 @@ order: 1
 - [[译] 如何用 React Hooks 打造一个不到 100 行代码的异步表单校验库](https://juejin.cn/post/6844903859052085255)
 - [死磕 36 个 JS 手写题（搞懂后，提升真的大）](https://juejin.cn/post/6946022649768181774?utm_source=gold_browser_extension)
 - [闲鱼宗心大佬聊跨端职业发展](https://juejin.cn/post/6946764691725254669?utm_source=gold_browser_extension)
+- [【vue】什么是vnode hook？](https://juejin.cn/post/6947646934211379231?utm_source=gold_browser_extension)
+
+- [提升写代码效率：快速通过DOM元素打开对应的Vue文件](https://juejin.cn/post/6947326788917952520?utm_source=gold_browser_extension)
