@@ -18,3 +18,6 @@ order: 1
 - [字节跳动最爱考的 64 道算法题（JS版）](https://juejin.cn/post/6947842412102287373?utm_source=gold_browser_extension)
 - [17K star 仓库，解决 90% 的大厂基础面试题](https://juejin.cn/post/6947860760840110088?utm_source=gold_browser_extension)
 - [ESM vs Webpack 面向高性能构建的探索](https://juejin.cn/post/6947890290896142350?utm_source=gold_browser_extension)
+- [React Hooks 万字总结](https://juejin.cn/post/6948748617817522206?utm_source=gold_browser_extension)
+- [0成本上手AST，用GoGoCode解决Vue2迁移Vue3难题](https://juejin.cn/post/6948635226453049374?utm_source=gold_browser_extension)
+- [[万字总结] 一文吃透 Webpack 核心原理](https://juejin.cn/post/6949040393165996040?utm_source=gold_browser_extension)
