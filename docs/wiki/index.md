@@ -19,7 +19,6 @@ order: 1
 - [用户密码到底要怎么加密存储？](https://mp.weixin.qq.com/s/Fd3cUDrqr0CsCl7FvZgd7Q)
 - [如何实现H5可视化编辑器的实时预览和真机扫码预览功能](https://mp.weixin.qq.com/s/SDegBMDBrfR3kWNgZTMQEQ)
 - [简单又好用的前端深色模式和主题化开发方案](https://mp.weixin.qq.com/s/yMov0wBCzNfKyOjeJKsD8Q)
-- [不用try catch，如何机智的捕获错误](https://mp.weixin.qq.com/s/ne7Ts5fagf6xFq7mNhr2ng)
 - [如何使用 ThinkJS 优雅的编写 RESTful API](https://mp.weixin.qq.com/s/Qg_sWEi7bXPa3bdYWH7Eag)
 - [【图表开发小案例】快来码一个性感妖娆的高逼格 “圆环”](https://mp.weixin.qq.com/s/dfnUWjs53_Euf-aA4O9r8g)
 - [NPM 组件你应该知道的事](https://mp.weixin.qq.com/s/Sx171hDbQS1yKQemJXxKbQ)
