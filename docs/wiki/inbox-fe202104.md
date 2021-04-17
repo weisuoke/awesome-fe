@@ -23,3 +23,5 @@ order: 1
 - [[万字总结] 一文吃透 Webpack 核心原理](https://juejin.cn/post/6949040393165996040?utm_source=gold_browser_extension)
 
 - [「React进阶」 React全部api解读+基础实践大全(夯实基础2万字总结)](https://juejin.cn/post/6950063294270930980?utm_source=gold_browser_extension)
+
+- [以前端架构师身份，从零开始搞事搞事搞事（1）](https://juejin.cn/post/6952066955868110879?utm_source=gold_browser_extension)

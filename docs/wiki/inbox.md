@@ -4,7 +4,6 @@ nav:
   order: 99
 title: Inbox
 order: 2
-
 ---
 
 # Inbox
@@ -19,9 +18,7 @@ order: 2
 
 ### 思路
 
-- 深入浅出gitlab CI
 - 前端微服务在字节跳动的打磨与应用
-- 前端代码是怎样智能生成的-图像分离篇
 - 如何解决 Render Props 的回调地狱
 - Antd Form 实现机制解析
 - 阿里p6面经
