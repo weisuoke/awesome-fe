@@ -25,3 +25,6 @@ order: 1
 - [「React进阶」 React全部api解读+基础实践大全(夯实基础2万字总结)](https://juejin.cn/post/6950063294270930980?utm_source=gold_browser_extension)
 
 - [以前端架构师身份，从零开始搞事搞事搞事（1）](https://juejin.cn/post/6952066955868110879?utm_source=gold_browser_extension)
+- [从 0 开始手把手带你搭建一套规范的 Vue3.x 项目工程环境](https://juejin.cn/post/6951649464637636622?utm_source=gold_browser_extension)
+- [前端开发者应该知道的 Centos/Dokcer/Nginx/Node/Jenkins 操作(🍡 长文)](https://juejin.cn/post/6951684431597797389?utm_source=gold_browser_extension)
+- 
