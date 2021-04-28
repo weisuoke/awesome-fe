@@ -30,3 +30,5 @@ order: 1
 - [如何设计一个数据采集器？](https://juejin.cn/post/6954670412605161509?utm_source=gold_browser_extension)
 - [技术周刊：Node.js 16发布；中国首个 JavaScript 语言提案在 ECMA 进入 Stage 3](https://juejin.cn/post/6954595557876695076?utm_source=gold_browser_extension)
 - [微前端落地系列-复盘](https://juejin.cn/post/6955823017624600583?utm_source=gold_browser_extension)
+- [【Parcel 2 + Vue 3】从0到1搭建一款极快，零配置的Vue3项目构建工具](https://mp.weixin.qq.com/s/HJF3im23yqzQSNSAh5il-Q)
+- [CSS入门后，我从前端到全栈 | JTalk大前端](https://juejin.cn/post/6955776857316786183?utm_source=gold_browser_extension)
