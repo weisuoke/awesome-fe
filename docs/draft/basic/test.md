@@ -98,13 +98,12 @@ BDD的思想是，先编写好代码，在编写测试用例。BDD不关注单�
 
 - Jasmine
 
-  | 框架    | 断言                     | 仿真                 | 快照                 | 异步测试             |
-  | ------- | ------------------------ | -------------------- | -------------------- | -------------------- |
-  | Mocha   | 默认不支持，可配置(chai) | 默认不支持，可配置   | 默认不支持，可配置   | 友好                 |
-  | Ava     | 默认支持                 | 不支持，需第三方配置 | 默认支持             | 友好                 |
-  | Jasmine | 默认支持                 | 默认支持             | 默认支持             | 不友好               |
-  | Jest    | 默认支持                 | 默认支持             | 默认支持             | 友好                 |
-  | Karma   | 不支持，需第三方配置     | 不支持，需第三方配置 | 不支持，需第三方配置 | 不支持，需第三方配置 |
+  | 框架    | 断言                     | 仿真                 | 快照               | 异步测试 |
+  | ------- | ------------------------ | -------------------- | ------------------ | -------- |
+  | Mocha   | 默认不支持，可配置(chai) | 默认不支持，可配置   | 默认不支持，可配置 | 友好     |
+  | Ava     | 默认支持                 | 不支持，需第三方配置 | 默认支持           | 友好     |
+  | Jasmine | 默认支持                 | 默认支持             | 默认支持           | 不友好   |
+  | Jest    | 默认支持                 | 默认支持             | 默认支持           | 友好     |
 
 ### 为什么选择Jest?
 
@@ -328,3 +327,15 @@ React Testing Library – 一个非常通用的名字，它作为一个测试库
 - ...
 
 
+
+
+
+I used Storybook6 and Storybook5. Found that the grammar inside has changed a lot
+
+React-styleguidist (https://react-styleguidist.js.org/) is used in other projects of the Chinese front-end team,
+
+Our leader Li Jiang hopes that the technology stacks on both sides will be consistent, so that development efficiency will be improved.
+
+In terms of component documentation, I think these two libraries can meet the needs. Storybook is a bit more powerful, and react-styleguidist is a bit more concise.
+
+Regarding the discussion of this technology selection, if necessary, I think the front-ends of both parties can make an appointment to discuss it.
