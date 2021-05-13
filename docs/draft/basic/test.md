@@ -1,4 +1,4 @@
-# 前端测试(v0.1.0)
+# 前端测试(v0.1.1)
 
 在规定的条件下对程序进行测试，以发现程序错误，衡量软件质量。
 
@@ -200,6 +200,30 @@ BDD的思想是，先编写好代码，在编写测试用例。BDD不关注单�
 - `beforeEach()`：在每个测试用例执行之前需要执行的方法
 - `afterEach()`：在每个测试用例执行完后执行的方法
 
+#### 异步代码的测试
+
+##### callback
+
+当我们的`test`函数中出现了异步回调函数时，可以给`test`函数传入一个`done`参数，它是一个函数类型的参数。如果`test`函数传入了`done`，`jest`就会等到`done`被调用才会结束当前的`test case`，如果`done`没有被调用，则该`test`自动不通过测试。
+
+```js
+import { fetchData } from './fetchData'
+
+// 如果没有done()，这个test将会永远测试通过
+test('fetchData 返回结果为 { success: true }', done => {
+  
+  // 这里后面的expect语句至少要执行一次，否则这里会报错。
+  expect.assertions(1)
+  
+  fetchData(data => {
+    expect(data).toEqual({
+      success: true
+    })
+    done()
+  })
+})
+```
+
 ### Enzyme vs React Testing Library
 
 #### Enzyme
@@ -325,17 +349,3 @@ React Testing Library – 一个非常通用的名字，它作为一个测试库
 - nightWatch
 - Rize
 - ...
-
-
-
-
-
-I used Storybook6 and Storybook5. Found that the grammar inside has changed a lot
-
-React-styleguidist (https://react-styleguidist.js.org/) is used in other projects of the Chinese front-end team,
-
-Our leader Li Jiang hopes that the technology stacks on both sides will be consistent, so that development efficiency will be improved.
-
-In terms of component documentation, I think these two libraries can meet the needs. Storybook is a bit more powerful, and react-styleguidist is a bit more concise.
-
-Regarding the discussion of this technology selection, if necessary, I think the front-ends of both parties can make an appointment to discuss it.
