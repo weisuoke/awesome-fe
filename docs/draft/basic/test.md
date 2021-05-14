@@ -1,4 +1,4 @@
-# 前端测试(v0.1.1)
+# 前端测试(v0.1.2)
 
 在规定的条件下对程序进行测试，以发现程序错误，衡量软件质量。
 
@@ -223,6 +223,75 @@ test('fetchData 返回结果为 { success: true }', done => {
   })
 })
 ```
+
+##### Promise
+
+> ⚠️ 当对`Promise`进行测试时，一定要在断言之前加一个`return`，不然没有等到`Promise`的返回，测试函数就会结束。可以使用`.promises/.rejects`对返回的值进行获取，或者使用`then/catch`方法进行判断。
+
+如果代码中使用了`Promise`，则可以通过返回`Promise`来处理异步代码，`jest`会等该`promise`的状态转为`resolve`时才会结束，如果`promise`被`reject`了，则该测试用例不通过。
+
+```js
+// 假设 user.getUserById（参数id） 返回一个promise
+it('测试promise成功的情况', () => {
+  expect.assertions(1);
+  return user.getUserById(4).then((data) => {
+    expect(data).toEqual('Cosen');
+  });
+});
+
+it('测试promise错误的情况', () => {
+  expect.assertions(1);
+  return user.getUserById(2).catch((e) => {
+    expect(e).toEqual({
+      error: 'id为2的用户不存在',
+    });
+  });
+});
+```
+
+注意，上面的第二个测试用例可用于测试`promise`返回`reject`的情况。这里用`.catch`来捕获`promise`返回的`reject`，当`promise`返回`reject`时，才会执行`expect`语句。而这里的`expect.assertions(1)`用于确保该测试用例中有一个`expect`被执行了。
+
+对于`Promise`的情况，`jest`还提供了一对匹配符`resolves/rejects`，其实只是上面写法的语法糖。上面的代码用匹配符可以改写为：
+
+```js
+// 使用'.resolves'来测试promise成功时返回的值
+it('使用'.resolves'来测试promise成功的情况', () => {
+  return expect(user.getUserById(4)).resolves.toEqual('Cosen');
+});
+// 使用'.rejects'来测试promise失败时返回的值
+it('使用'.rejects'来测试promise失败的情况', () => {
+  expect.assertions(1);
+  return expect(user.getUserById(2)).rejects.toEqual({
+    error: 'id为2的用户不存在',
+  });
+});
+```
+
+##### async/await
+
+`async/await`其实是`Promise`的语法糖，可以更优雅地写异步代码，`jest`中也支持这种语法。
+
+```js
+// 使用async/await来测试resolve
+it('async/await来测试resolve', async () => {
+  expect.assertions(1);
+  const data = await user.getUserById(4);
+  return expect(data).toEqual('Cosen');
+});
+// 使用async/await来测试reject
+it('async/await来测试reject', async () => {
+  expect.assertions(1);
+  try {
+    await user.getUserById(2);
+  } catch (e) {
+    expect(e).toEqual({
+      error: 'id为2的用户不存在',
+    });
+  }
+});
+```
+
+> ⚠️ 使用`async`不用进行`return`返回，并且要使用`try/catch`来对异常进行捕获。
 
 ### Enzyme vs React Testing Library
 
