@@ -375,9 +375,9 @@ export const getUserList = () => {
 ```js
 import { getUserList } from '@/services/user.js'
 import axios from 'axios'
-// 👇👇
+
 jest.mock('axios')
-// 👆👆
+
 test.only('测试 getUserList', async () => {
   axios.get.mockResolvedValue({ data: ['Cosen','森林','柯森'] })
   await getUserList().then(data => {
