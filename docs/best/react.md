@@ -1,7 +1,7 @@
 ---
 nav:
   title: 最佳实践
-  order: 5
+  order: 80
 title: 注释
 order: 1
 ---

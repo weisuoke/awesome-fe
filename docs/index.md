@@ -1,8 +1,8 @@
 ---
-title: Awesome frontend
+title: Awesome full-stack develop
 order: 10
 hero:
-  title: Awesome front-end develop
+  title: Awesome full-stack develop
   desc: 📚 有趣的前端 架构 | 思路 | 效率
   actions:
     - text: 开始阅读

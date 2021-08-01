@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/weisuoke/awesome-fe#readme",
   "dependencies": {
-    "dumi": "^1.0.31"
+    "dumi": "^1.1.23"
   }
 }
