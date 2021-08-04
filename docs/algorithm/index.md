@@ -35,6 +35,9 @@ order: 1
 
 ### JavaScript 实现
 
+- [loiane/javascript-datastructures-algorithms](https://github.com/loiane/javascript-datastructures-algorithms) - 《学习JavaScript数据结构与算法》配套源码
+- [amejiarosario/dsa.js-data-structures-algorithms-javascript](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript)
+
 - [azl397985856/leetcode](https://github.com/azl397985856/leetcode/)
 
 ### LeetCode 解题思路
