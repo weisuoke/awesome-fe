@@ -46,6 +46,7 @@ order: 20
     - [ ] xiao-v3-ui
   - [ ] 参考项目
     - [ ] [element-plus](https://github.com/element-plus/element-plus/)
+    - [ ] [anncwb/vue-vben-admin](https://github.com/anncwb/vue-vben-admin)
 
 ## DONE
 
