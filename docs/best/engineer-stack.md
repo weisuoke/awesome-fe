@@ -13,6 +13,7 @@ order: 2
 ### 前端框架
 
 - React@17
+  - [weisuoke/react-stack-practice](https://github.com/weisuoke/react-stack-practice)
   - 组件库
     - Antd
   - 状态管理库
