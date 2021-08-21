@@ -27,6 +27,25 @@ order: 20
 - [ ] RxJS实战
   - [ ] React + RxJS
   - [ ] Vue3 + RxJS
+- [ ] 珠峰实战营
+  - [ ] serverless-graphql-camp
+  - [ ] k8s训练营
+  - [ ] 可视化监控训练营
+  - [ ] 持续集成CICD训练营
+  - [ ] Vue3管理系统训练营
+  - [ ] Vue3+ts组件库训练营
+  - [ ] 可视化拖拽组件训练营
+  - [ ] Nest.js实战训练营
+  - [ ] uni-app实战训练营
+  - [ ] Egg.js实战源码训练营
+  - [ ] TypeScript + React组件库
+  - [ ] 算法训练营
+  - [ ] ReactHooks + Typescript实战训练营
+  - [ ] Electron实战训练营
+  - [ ] npm私服搭建和npm知识体系
+  - [ ] 可视化脑图训练营
+  - [ ] 前端全链路监控训练营
+  - [ ] vscode插件开发训练营
 
 ## WIP
 
