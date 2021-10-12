@@ -21,3 +21,11 @@ order: 20
   - 最长递增子序列
   - React
     - fiber
+- [wulkano/Kap](https://github.com/wulkano/Kap) - screen recorder built with web technology
+- [eslint/espree](https://github.com/eslint/espree) - An Esprima-compatible JavaScript parser
+- rtk query
+- mediastream-api
+  - https://www.sitepoint.com/mediastream-api-record-audio/
+- [Hypercontext/linkifyjs](https://github.com/Hypercontext/linkifyjs)
+- [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database(supports Node, Electron and the browser)
+- [jakubfiala/atrament.js](https://github.com/jakubfiala/atrament.js) - A small JS library for beautiful drawing and handwriting on the HTML Canvas.

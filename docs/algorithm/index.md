@@ -19,6 +19,12 @@ order: 1
 
 ## Github
 
+### LeetCode 解题思路
+
+- [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm)
+- [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master)
+  - 代码随想录官网
+
 ### Java实现
 
 - [LeetCode-Solutions-in-Good-Style](https://github.com/liweiwei1419/LeetCode-Solutions-in-Good-Style/)
@@ -40,11 +46,11 @@ order: 1
 
 - [azl397985856/leetcode](https://github.com/azl397985856/leetcode/)
 
-### LeetCode 解题思路
-
-- [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm)
-
 ## Book
+
+- 《labuladong的算法小册》
+- 《算法训练营 海量图解 + 刷题竞赛》(入门篇)
+- 《算法训练营 海量图解 + 刷题竞赛》(进阶篇)
 
 ## 视频教程
 
