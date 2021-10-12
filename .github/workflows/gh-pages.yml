@@ -31,6 +31,5 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         if: ${{ github.ref == 'refs/heads/main' }}
         with:
-          github_token: ${{ secret.GITHUB_TOKEN }}
           publish_dir: ./dist
           cname: awesome-fe.weisuoke.com
