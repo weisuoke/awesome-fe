@@ -1,6 +1,6 @@
 ---
 nav:
-  title: POC/Demo
+  title: POC
   order: 20
 title: Demo
 order: 30

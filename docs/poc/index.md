@@ -1,12 +1,12 @@
 ---
 nav:
-  title: POC/Demo
+  title: POC
   order: 20
 title: Overview
 order: 10
 ---
 
-# POC/Demo
+# POC
 
 ## TODO
 
