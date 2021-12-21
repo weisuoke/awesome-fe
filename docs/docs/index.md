@@ -20,8 +20,23 @@ order: 1
 
 ## 珠峰
 
+- [doc-zf](https://doc-zf.wuxiao.io)
+
 - [vue3](http://zf-vue3.wuxiao.io)
 - [react](http://zf-react.wuxiao.io)
+
+## 开课吧
+
+- Web全栈架构师
+- Web架构师实战特训营
+- 人工智能核心能力培养计划
+- Web实战特训远航班
+
+## 马哥
+
+- Go语言百万并发高薪班
+- Linux高端运维云计算就业班
+- 数据分析 + PY全栈 + 爬虫 + AI
 
 ## 手册
 
