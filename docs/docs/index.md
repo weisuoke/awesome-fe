@@ -21,9 +21,7 @@ order: 1
 ## 珠峰
 
 - [doc-zf](https://doc-zf.wuxiao.io)
-
 - [vue3](http://zf-vue3.wuxiao.io)
-- [react](http://zf-react.wuxiao.io)
 
 ## 开课吧
 
@@ -37,6 +35,10 @@ order: 1
 - Go语言百万并发高薪班
 - Linux高端运维云计算就业班
 - 数据分析 + PY全栈 + 爬虫 + AI
+
+## 程序员在囧途
+
+- [doc-jt](https://doc-jt.wuxiao.io/)
 
 ## 手册
 
