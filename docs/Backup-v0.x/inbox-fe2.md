@@ -12,10 +12,6 @@ order: 1
 
 - [JS 文件互转、10 个 HTML 文件上传技巧、Web 用户体验设计提升指南、奇怪的知识——位掩码 | 思否技术周刊](https://mp.weixin.qq.com/s/AjBCAfxean9F10EhBGWkFg)
 
-- [从零开始的 electron 开发-项目搭建](https://mp.weixin.qq.com/s/YgVvbdTP3HvBp960eqt3KQ)
-
-- [差点被 SystemJs 惊掉了下巴，解密模块加载黑魔法](https://mp.weixin.qq.com/s/E1xWtMKQIpZ3qrkVtASrlw)
-
 - [前后端接口鉴权全解 Cookie/Session/Token 的区别](https://mp.weixin.qq.com/s/fLN02-wrpS6csF84TgphwA)
 
 - [使用 Webpack5 从 0 搭建 React开发环境(详细篇)](https://mp.weixin.qq.com/s/n41o0puSPnoRpv56f6NwTA)
@@ -23,8 +19,6 @@ order: 1
 - [2021 写博客指南【万字长文】](https://mp.weixin.qq.com/s/P0t5njWoVEzeE_pNt2Nh9A)
 
 - [前端优秀实践不完全指南【追求极致用户体验】](https://mp.weixin.qq.com/s/DR_Ns2hGSD1S9Cq2dcZjKA)
-
-- [谈一下React 的Fiber架构和Hooks](https://mp.weixin.qq.com/s/J2UwCuQiHTuBVdCO9XfxvA)
 
 - [这是我面试42场拿下微软、蚂蚁、头条offer的方法论](https://mp.weixin.qq.com/s/DHiYIE6N_y60Ayhdj7ug3g)
 
@@ -43,10 +37,6 @@ order: 1
 - [使用 Performance 看看浏览器在做些什么](https://mp.weixin.qq.com/s/BoET_ffJcT_dtdQ9h2RiSw)
 
 - [通过【垃圾回收机制】的角度认识【Map与WeakMap】的区别](https://mp.weixin.qq.com/s/1qP6YjEI_7UlNOl53zgnPA)
-
-- [速度与激情之 Vite 初体验](https://mp.weixin.qq.com/s/pIqwphBwRiuGNbsZRd6PZg)
-
-- [10 个 GitHub 上最火的程序员简历项目，2021 金三银四必备！](https://mp.weixin.qq.com/s/vpEr1Ef5UK_ehLWc6yDc8A)
 
 - [前端mock完美解决方案实战](https://mp.weixin.qq.com/s/GiIIS-b00AZGHCxxMMTN5w)
 
@@ -126,8 +116,6 @@ order: 1
 
 - [从输入URL开始建立前端知识体系](https://juejin.cn/post/6935232082482298911?utm_source=gold_browser_extension)
 
-- [Midway Serverless 发布 2.0，一体化让前端研发再次提效](https://juejin.cn/post/6937559480531943460?utm_source=gold_browser_extension)
-
 - [新兴前端框架 Svelte 从入门到原理](https://mp.weixin.qq.com/s/XVOLsr1d1jDbRne751BuMA)
 
 - [使用 Webpack5 从 0 搭建 React开发环境(详细篇)](https://mp.weixin.qq.com/s/n41o0puSPnoRpv56f6NwTA)
@@ -152,13 +140,9 @@ order: 1
 
 - [全面分析toString与valueOf，并随手解决掉几道大厂必备面试题](https://mp.weixin.qq.com/s/Mg2aDU0FNY0a16leSjQX4Q)
 
-- [Next.js +Egg.js+React项目服务器部署超详解](https://mp.weixin.qq.com/s/PUTWJRfg50L2_1fsplpiMg)
-
 - [基于lerna和single-spa, sysyem.js搭建 vue 的微前端框架](https://mp.weixin.qq.com/s/78iom1dF1KCH1WIT2UH4-Q)
 
 - [Vue源码解析，keep-alive是如何实现缓存的？](https://mp.weixin.qq.com/s/m1hkczyqHz14ri_oC082fw)
-
-- [快速打造一个套壳APP](https://mp.weixin.qq.com/s/rqLEkMi0HXhs9BPmaimUmg)
 
 - [自动埋点核心原理揭秘](https://mp.weixin.qq.com/s/G8HUcrctip2vl7LpPHeO1w)
 
@@ -184,11 +168,7 @@ order: 1
 
 - [怎么写出优质的javascript代码?](https://www.zhihu.com/question/447505820/answer/1772653907)
 
-- [年薪五十万需要付出多少努力？](https://www.zhihu.com/question/385732321/answer/1712995663)
-
 - [有哪些必看的 JS 库？](https://www.zhihu.com/question/429436558/answer/1594467061)
-
-- [koa.js,egg.js,express.js三者有什么区别？](https://www.zhihu.com/question/391604647/answer/1772687875)
 
 - [如何建立自己的知识体系和观点？](https://www.zhihu.com/question/52782284/answer/1619017743)
 
@@ -196,11 +176,7 @@ order: 1
 
 - [AVL树，红黑树，B树，B+树，Trie树都分别应用在哪些现实场景中？](https://www.zhihu.com/question/30527705/answer/1663740519)
 
-- [都 2021 年了，也该抛弃 ExpressJS 了](https://zhuanlan.zhihu.com/p/354583473)
-
 - [2021年，原生永不为奴还是PWA绝地反击？](https://mp.weixin.qq.com/s/DclSpzsTz4b6TP5wP57N9Q)
-
-- [Flutter 将成为未来 Ubuntu 应用程序的默认选择](https://mp.weixin.qq.com/s/jNytcfWOYoVfmeHqhcKUCQ)
 
 - [15+人团队的前端体系架构应该如何管理？](https://mp.weixin.qq.com/s/BP00CNhf7qhVQh8r30tfaA)
 
@@ -237,8 +213,6 @@ order: 1
 - [useCallback 的问题和隐患的解决方案 - 胡耀(字节跳动)](https://mp.weixin.qq.com/s/uIwz4hPs_s7Qt1YxIByntQ)
 
 - [Vite和Webpack的核心差异](https://mp.weixin.qq.com/s/2jOl93Aqx0Rprxbf3BLV4w)
-
-- [使用华为云服务一键构建部署发布前端和Node.js服务](https://mp.weixin.qq.com/s/6mg_dS828-GE2aqdsxWY_g)
 
 - [JavaScript 工具函数大全（新）](https://mp.weixin.qq.com/s/D-BLth-Qk65FdUKiVduZZQ)
 
@@ -425,8 +399,6 @@ order: 1
 - [前后端联调解决cookie回写](https://juejin.cn/post/6944628968154726413?utm_source=gold_browser_extension)
 
 - [分享15个Webpack实用的插件！！！](https://juejin.cn/post/6944940506862485511?utm_source=gold_browser_extension)
-
-- [猛增 110K Star！年增长数最多的 10 大顶级前端学习资源项目！](https://juejin.cn/post/6944632786724585502?utm_source=gold_browser_extension)
 
 - [“D3.js” 手绘分段折线图](https://juejin.cn/post/6944234260840579086?utm_source=gold_browser_extension)
 
