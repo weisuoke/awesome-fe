@@ -22,7 +22,6 @@ order: 2
 - [【图表开发小案例】快来码一个性感妖娆的高逼格 “圆环”](https://mp.weixin.qq.com/s/dfnUWjs53_Euf-aA4O9r8g)
 - [NPM 组件你应该知道的事](https://mp.weixin.qq.com/s/Sx171hDbQS1yKQemJXxKbQ)
 - [「查缺补漏」一些 Javascript 的小技巧笔记](https://mp.weixin.qq.com/s/SBHKEBKdtEXaq-xTJ7bxQA)
-- [【第2080期】阿里 ChatUI 开源：让对话美而简单](https://mp.weixin.qq.com/s/KOI-2uFTY1VX6YFXkkc47A)
 - [扒一扒「收款码」背后的原理！](https://mp.weixin.qq.com/s/1b9jBfwM9_RLkMPquqAuMw)
 - [你的Tree-Shaking真的起作用了吗](https://mp.weixin.qq.com/s/WncaUekzCWEVspuaNbv8Sw)
 - [H5 移动端调试全攻略](https://mp.weixin.qq.com/s/-T3h-YuU8WfDhM3pXSI4QQ)
@@ -622,14 +621,4 @@ order: 2
 - [巧用 -webkit-box-reflect 倒影实现各类动效](https://juejin.cn/post/6935248489878126628?utm_source=gold_browser_extension)
 - [跟着Element源码学组件化](https://juejin.cn/post/6935312726897983524?utm_source=gold_browser_extension)
 - [打通任督二脉的前端环境变量 — env](https://juejin.cn/post/6943769360758472735?utm_source=gold_browser_extension)
-
-
-
-### Github
-
-- [state-of-the-art-shitcode](https://github.com/trekhleb/state-of-the-art-shitcode)
-- [formatJS](https://formatjs.io/)
-- [elevator.js](https://github.com/tholman/elevator.js)
-- [webp2jpg](https://github.com/renzhezhilu/webp2jpg-online)
-- [tauri](https://github.com/tauri-apps/tauri)
 
