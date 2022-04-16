@@ -3,7 +3,7 @@ nav:
   title: 效率
   order: 80
 title: 工具
-order: 1
+order: 3
 ---
 
 # 工具
