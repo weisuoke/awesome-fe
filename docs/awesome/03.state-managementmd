@@ -1,0 +1,29 @@
+---
+nav:
+  title: Awesome
+  order: 80
+title: state-management
+order: 4
+---
+
+# State Management
+
+## Github
+
+- xstate - State machines and statecharts for the modern web.
+- ngrx - Reactive libraries for Angular
+- react-final-form - 🏁 High performance subscription-based form state management for React
+
+- mobx-state-tree - Full-featured reactive state management without the boilerplate
+- easy-peasy - Vegetarian friendly state for React
+
+- unstand-next - 200 bytes to never think about React state management libraries ever again
+- Constate - React Context + State
+- akita - 🚀 State Management Tailored-Made for JS Applications
+
+- final-form - 🏁 Framework agnostic, high performance, subscription-based form state management
+
+- useStateMachine - The <1 kb state machine hook for React
+- cerebral - Declarative state and side effects management for popular JavaScript frameworks
+- reactn - React, but with built-in global state management.
+- hybrids - Extraordinary JavaScript framework with unique declarative and functional architecture

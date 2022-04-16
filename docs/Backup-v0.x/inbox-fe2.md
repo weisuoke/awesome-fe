@@ -76,11 +76,7 @@ order: 1
 
 - [H5 秒开方案大全](https://mp.weixin.qq.com/s/dn9UrjN4HSMJt1r4n2A3zg)
 
-- [44道比较难的 JS 面试题](https://mp.weixin.qq.com/s/-2lUy23Sr2kHyDnnLf_NwA)
-
 - [2021 年值得关注和学习的前端框架与工具库](https://mp.weixin.qq.com/s/S2bK7Im4EVV27hFOWUO3lg)
-
-- [字节扩招7000人，内部面试题已脱敏](https://mp.weixin.qq.com/s/cAucdZBCRSaZzrA_8IL5fw)
 
 - [解剖Babel —— 向前端架构师迈出一小步](https://mp.weixin.qq.com/s/UNaah5CzAYSTROmkwe9w4g)
 
@@ -88,13 +84,9 @@ order: 1
 
 - [babel原理&plugin实战](https://mp.weixin.qq.com/s/lE4Z90sW4n46QjLbH17N6w)
 
-- [66 条 JavaScript 面试知识点](https://mp.weixin.qq.com/s/4c67L9AnDKllklX4pxtu5g)
-
 - [大前端备战2021年，使用vite构建React !](https://mp.weixin.qq.com/s/RuSNg9bt1Ff-CEoHXhfK6w)
 
 - [「源码解析」一文吃透react-redux源码（useMemo经典源码级案例）](https://mp.weixin.qq.com/s/2hfwzFhmD75LzjNcE8gwqA)
-
-- [「开工大吉」新年送给大家30道高频JS手撕面试题](https://mp.weixin.qq.com/s/vqHPzQ0n7luue2b3mGWgJg)
 
 - [「react缓存页面」从需求到开源（我是怎么样让产品小姐姐刮目相看的）](https://mp.weixin.qq.com/s/_M9NH1w0wl-IHCEKtzkGsA)
 
@@ -103,8 +95,6 @@ order: 1
 - [玩转react-hooks,自定义hooks设计模式及其实战](https://mp.weixin.qq.com/s/nD0PMfqX1-lbzDgPDcqhrw)
 
 - [websocket长连接和公共状态管理方案（vuex + websocket or redux + websocket ）](https://mp.weixin.qq.com/s/VonkVYNPID1ivQei56aIbg)
-
-- [7.8 月份新出炉大厂面试题100道整理(原题 + 精讲 1.2万字)(一)](https://mp.weixin.qq.com/s/XAuJmDXToSTuoE6I5PrVfQ)
 
 - [如何快速为团队打造自己的组件库（下）—— 基于 element-ui 为团队打造自己的组件库](https://juejin.cn/post/6937449598143168549?utm_source=gold_browser_extension)
 
@@ -119,8 +109,6 @@ order: 1
 - [新兴前端框架 Svelte 从入门到原理](https://mp.weixin.qq.com/s/XVOLsr1d1jDbRne751BuMA)
 
 - [使用 Webpack5 从 0 搭建 React开发环境(详细篇)](https://mp.weixin.qq.com/s/n41o0puSPnoRpv56f6NwTA)
-
-- [2021 写博客指南【万字长文】](https://mp.weixin.qq.com/s/P0t5njWoVEzeE_pNt2Nh9A)
 
 - [这是我面试42场拿下微软、蚂蚁、头条offer的方法论](https://mp.weixin.qq.com/s/DHiYIE6N_y60Ayhdj7ug3g)
 
@@ -145,8 +133,6 @@ order: 1
 - [Vue源码解析，keep-alive是如何实现缓存的？](https://mp.weixin.qq.com/s/m1hkczyqHz14ri_oC082fw)
 
 - [自动埋点核心原理揭秘](https://mp.weixin.qq.com/s/G8HUcrctip2vl7LpPHeO1w)
-
-- [可视化搭建平台之跨iframe拖拽](https://mp.weixin.qq.com/s/VO90m2qH_SWeluE8J-Qlsw)
 
 - [用canvas编辑你的图片](https://mp.weixin.qq.com/s/cNr3l3FEbL_CNwRH849BKQ)
 
@@ -175,8 +161,6 @@ order: 1
 - [你还不知道吧？竟然可以这样阅读工业级开源项目源码](https://zhuanlan.zhihu.com/p/354880385)
 
 - [AVL树，红黑树，B树，B+树，Trie树都分别应用在哪些现实场景中？](https://www.zhihu.com/question/30527705/answer/1663740519)
-
-- [2021年，原生永不为奴还是PWA绝地反击？](https://mp.weixin.qq.com/s/DclSpzsTz4b6TP5wP57N9Q)
 
 - [15+人团队的前端体系架构应该如何管理？](https://mp.weixin.qq.com/s/BP00CNhf7qhVQh8r30tfaA)
 
@@ -222,8 +206,6 @@ order: 1
 
 - [从一个优质开源项目来看前端架构](https://mp.weixin.qq.com/s/f7tzRE0cgQxCP6MNQW5SxQ)
 
-- [12 道腾讯前端面试真题及答案整理](https://mp.weixin.qq.com/s/9FrLdaB8E3k61k0Z83jrvA)
-
 - [力扣 (LeetCode)-对称二叉树,树｜刷题打卡](https://juejin.cn/post/6938556015445016584?utm_source=gold_browser_extension)
 
 - [写给前端的手动内存管理基础入门（一）返璞归真：从引用类型到裸指针](https://juejin.cn/post/6938201650012094495?utm_source=gold_browser_extension)
@@ -235,8 +217,6 @@ order: 1
 - [基于 qiankun 的微前端应用实践](https://juejin.cn/post/6938207400457404430?utm_source=gold_browser_extension)
 
 - [JavaScript三种方法搞定数据类型检测](https://juejin.cn/post/6938305591609655309?utm_source=gold_browser_extension)
-
-- [超详细，Flutter2.0构建Web应用的实际体验｜技术点评](https://juejin.cn/post/6938229167569764359?utm_source=gold_browser_extension)
 
 - [🌲树+8道前端算法面试高频题解｜刷题打卡](https://juejin.cn/post/6938385018267893767?utm_source=gold_browser_extension)
 
@@ -308,13 +288,9 @@ order: 1
 
 - [Ant Design 开源项目经验分享，你想知道的都在这儿了](https://mp.weixin.qq.com/s/MADf4QAGyWXCzj9VvoVuDA)
 
-- [2020 Javascript明星项目](https://mp.weixin.qq.com/s/A127_4CLiSa7CO3M0FEcxA)
-
 - [这可能是大型复杂项目下数据流的最佳实践](https://mp.weixin.qq.com/s/Y_jXUcQzcJXgPQvhDPAfNA)
 
 - [三大前端构建工具横评，谁是性能之王！](https://mp.weixin.qq.com/s/47egSex0okCqySlwudAMrA)
-
-- [如何理性看待Tailwind和styled-components争宠React](https://mp.weixin.qq.com/s/-_hUeWQEPTnTrXgIrCDQqQ)
 
 - [前端工程化实战指南（技术点：Vite Eslint Prettier Rollup Npm TravisCI）](https://mp.weixin.qq.com/s/5h_jx34nvSdPbwSpTHlXOQ)
 
@@ -392,8 +368,6 @@ order: 1
 
 - [什么是费曼技巧？](https://www.zhihu.com/question/20585936/answer/867737068)
 
-- [现代前端工程为什么越来越离不开 Monorepo?](https://juejin.cn/post/6944877410827370504?utm_source=gold_browser_extension)
-
 - [🎉🎉Vue 3 + Element Plus + Vite 2 的后台管理系统开源啦🎉🎉](https://juejin.cn/post/6945072070132760590?utm_source=gold_browser_extension)
 
 - [前后端联调解决cookie回写](https://juejin.cn/post/6944628968154726413?utm_source=gold_browser_extension)
@@ -415,6 +389,48 @@ order: 1
 - [常见的8个前端防御性编程方案](https://juejin.cn/post/6945114066528501767?utm_source=gold_browser_extension)
 
 - [腾讯前端面经+鸡汤](https://juejin.cn/post/6945136994624208927?utm_source=gold_browser_extension)
+
+- [Libuv 之 - 只看这篇是不够的](https://juejin.cn/post/6945702722645524517?utm_source=gold_browser_extension)
+
+- [[译] 如何用 React Hooks 打造一个不到 100 行代码的异步表单校验库](https://juejin.cn/post/6844903859052085255)
+
+- [闲鱼宗心大佬聊跨端职业发展](https://juejin.cn/post/6946764691725254669?utm_source=gold_browser_extension)
+
+- [【vue】什么是vnode hook？](https://juejin.cn/post/6947646934211379231?utm_source=gold_browser_extension)
+
+- [提升写代码效率：快速通过DOM元素打开对应的Vue文件](https://juejin.cn/post/6947326788917952520?utm_source=gold_browser_extension)
+
+- [ESM vs Webpack 面向高性能构建的探索](https://juejin.cn/post/6947890290896142350?utm_source=gold_browser_extension)
+
+- [React Hooks 万字总结](https://juejin.cn/post/6948748617817522206?utm_source=gold_browser_extension)
+
+- [0成本上手AST，用GoGoCode解决Vue2迁移Vue3难题](https://juejin.cn/post/6948635226453049374?utm_source=gold_browser_extension)
+
+- [[万字总结] 一文吃透 Webpack 核心原理](https://juejin.cn/post/6949040393165996040?utm_source=gold_browser_extension)
+
+- [「React进阶」 React全部api解读+基础实践大全(夯实基础2万字总结)](https://juejin.cn/post/6950063294270930980?utm_source=gold_browser_extension)
+
+- [以前端架构师身份，从零开始搞事搞事搞事（1）](https://juejin.cn/post/6952066955868110879?utm_source=gold_browser_extension)
+
+- [从 0 开始手把手带你搭建一套规范的 Vue3.x 项目工程环境](https://juejin.cn/post/6951649464637636622?utm_source=gold_browser_extension)
+
+- [前端开发者应该知道的 Centos/Dokcer/Nginx/Node/Jenkins 操作(🍡 长文)](https://juejin.cn/post/6951684431597797389?utm_source=gold_browser_extension)
+
+- [React + TypeScript实践](https://juejin.cn/post/6952696734078369828?utm_source=gold_browser_extension)
+
+- [前端录制回放系统初体验](https://juejin.cn/post/6953533236337197070?utm_source=gold_browser_extension)
+
+- [如何处理浏览器的断网情况？](https://juejin.cn/post/6953868764362309639?utm_source=gold_browser_extension)
+
+- [如何设计一个数据采集器？](https://juejin.cn/post/6954670412605161509?utm_source=gold_browser_extension)
+
+- [技术周刊：Node.js 16发布；中国首个 JavaScript 语言提案在 ECMA 进入 Stage 3](https://juejin.cn/post/6954595557876695076?utm_source=gold_browser_extension)
+
+- [微前端落地系列-复盘](https://juejin.cn/post/6955823017624600583?utm_source=gold_browser_extension)
+
+- [【Parcel 2 + Vue 3】从0到1搭建一款极快，零配置的Vue3项目构建工具](https://mp.weixin.qq.com/s/HJF3im23yqzQSNSAh5il-Q)
+
+- [CSS入门后，我从前端到全栈 | JTalk大前端](https://juejin.cn/post/6955776857316786183?utm_source=gold_browser_extension)
 
   
 
