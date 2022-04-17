@@ -21,7 +21,6 @@ order: 1
 ## 珠峰
 
 - [doc-zf](https://doc-zf.wuxiao.io)
-- [vue3](http://zf-vue3.wuxiao.io)
 
 ## 开课吧
 

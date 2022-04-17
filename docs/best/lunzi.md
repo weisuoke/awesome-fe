@@ -20,6 +20,7 @@ order: 4
 - [ ] **在线文档系统**
 - [ ] **3D互动**
 - [ ] **后台管理系统**
+- [ ] **Web IDE**
 
 ### 基建
 
@@ -27,7 +28,12 @@ order: 4
   - [ ] 仿create-react-app
   - [ ] 仿vue-cli
 - [ ] **组件物料**
-  - [ ] monorepo搭建组件库
+  - [ ] monorepo 搭建组件库
+    - [ ] react 组件库
+    - [ ] vue 组件库
+    - [ ] angular 组件库
+    - [ ] svetle 组件库
+  - [ ] web-component 组件库
 - [ ] **组件库设计系统**
 
 ## 全栈
