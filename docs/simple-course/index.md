@@ -2,10 +2,10 @@
 nav:
   title: 简明教程
   order: 10
-title: Overview
+title: 简明教程
 order: 10
 ---
 
-# Overview
+# 简明教程
 
-- 快速入门笔记
+- 平常学习的知识点放在这里，等待后续消化。
