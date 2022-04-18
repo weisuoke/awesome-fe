@@ -1,9 +1,9 @@
 ---
 nav:
-  title: 文档
-  order: 70
+  title: Wiki
+  order: 99
 title: 文档
-order: 1
+order: 2
 ---
 
 # 文档

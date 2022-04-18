@@ -1,12 +1,12 @@
 ---
 nav:
-  title: Github
-  order: 20
-title: Overview
-order: 10
+  title: 最佳实践
+  order: 80
+title: Portfolio
+order: 5
 ---
 
-# Github
+# Portfolio
 
 ## 前端
 
@@ -15,8 +15,3 @@ order: 10
 - [template-react-webpack](https://github.com/weisuoke/template-react-webpack)
 - [template-react-vite](https://github.com/weisuoke/template-react-vite)
 - [template-vue3-vite](https://github.com/weisuoke/template-vue3-vite)
-
-### 脚手架
-
-- cli
-
