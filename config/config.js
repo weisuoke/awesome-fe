@@ -1,6 +1,6 @@
 const config = {
   mode: 'site',
-  title: 'Awesome Front-end develop',
+  title: 'Wuxiao.io\'s Blog',
   description: '架构|思路|效率',
   publicPath: '/',
   base: '/',

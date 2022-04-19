@@ -1,9 +1,10 @@
 ---
 nav:
   title: Solution
-  order: 99
+  order: 30
 title: Solution
 order: 1
 ---
 
 # Solution
+

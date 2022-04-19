@@ -1,8 +1,8 @@
 ---
-title: Awesome full-stack develop
+title: Wuxiao.io's Blog
 order: 10
 hero:
-  title: Awesome full-stack develop
+  title: Wuxiao.io's Blog
   desc: 📚 有趣的前端 架构 | 思路 | 效率
   actions:
     - text: 开始阅读
