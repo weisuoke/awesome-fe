@@ -8,6 +8,8 @@ order: 1
 
 # Awesome
 
+ [awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+
 ## 个人技术栈
 
 - react
