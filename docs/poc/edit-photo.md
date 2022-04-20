@@ -1,6 +1,6 @@
 ---
 nav:
-  title: POC
+  title: Poc
   order: 20
 title: 编辑在线图片，保存后重新上传
 order: 50

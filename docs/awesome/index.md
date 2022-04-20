@@ -13,6 +13,7 @@ order: 1
 ## 个人技术栈
 
 - react
+- js-utils
 - vue
 
 ## ”玩物丧志“

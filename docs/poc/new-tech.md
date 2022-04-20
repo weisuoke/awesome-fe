@@ -1,6 +1,6 @@
 ---
 nav:
-  title: POC
+  title: Poc
   order: 20
 title: New Tech for Me
 order: 20

@@ -1,17 +1,19 @@
 ---
 nav:
-  title: 效率
+  title: Wiki
   order: 80
 title: 常访问网站
-order: 2
+order: 3
 ---
 
 # 网站
 
-- [掘金](https://juejin.cn/)
-- [CNode](https://cnodejs.org/)
+## 技术社区
 
-## 面试
+- [CNode](https://cnodejs.org/)
+- [掘金](https://juejin.cn/)
+
+## 算法
 
 - [leetcode](https://leetcode-cn.com/)
 
@@ -19,3 +21,6 @@ order: 2
 
 - [伍佰丁](https://www.500d.me/)
 
+## 远程工作
+
+- [电鸭](https://eleduck.com/)

@@ -1,6 +1,6 @@
 ---
 nav:
-  title: 最佳实践
+  title: Practice
   order: 80
 title: 个人技术栈
 order: 2

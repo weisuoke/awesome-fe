@@ -1,6 +1,6 @@
 ---
 nav:
-  title: 效率
+  title: efficiency
   order: 80
 title: 工具
 order: 3

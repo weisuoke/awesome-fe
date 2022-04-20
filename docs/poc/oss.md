@@ -1,6 +1,6 @@
 ---
 nav:
-  title: POC
+  title: Poc
   order: 20
 title: 使用oss部署静态网站
 order: 40

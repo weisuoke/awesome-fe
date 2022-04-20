@@ -1,6 +1,6 @@
 ---
 nav:
-  title: POC
+  title: Poc
   order: 20
 title: Overview
 order: 10

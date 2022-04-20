@@ -1,6 +1,6 @@
 ---
 nav:
-  title: POC
+  title: Poc
   order: 20
 title: Demo
 order: 30
@@ -13,5 +13,4 @@ order: 30
 ### RxJS
 
 - [zf-rxjs-demo](https://github.com/weisuoke/zf-rxjs-demo) - RxJS Demo
-
 

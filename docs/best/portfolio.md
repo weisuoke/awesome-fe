@@ -1,6 +1,6 @@
 ---
 nav:
-  title: 最佳实践
+  title: Practice
   order: 80
 title: Portfolio
 order: 5
