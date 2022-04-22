@@ -14,7 +14,8 @@ order: 1
 
 - react
 - js-utils
-- vue
+- react-native
+- node
 
 ## ”玩物丧志“
 
@@ -23,3 +24,7 @@ order: 1
 3. monorepo
 4. micro-frontend
 4. web3
+4. rich editor
+4. design
+4. application
+4. test
