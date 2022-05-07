@@ -24,3 +24,15 @@ order: 1
 
 - [made with vue.js](https://madewithvuejs.com/)
 
+## Study
+
+- [Freecodecamp](https://www.freecodecamp.org/)
+
+## Youtube Channel
+
+### 英语学习
+
+- TED
+- BBC News
+- 英语兔
+
