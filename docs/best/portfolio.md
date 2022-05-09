@@ -15,6 +15,6 @@ order: 5
 - [template-react-webpack](https://github.com/weisuoke/template-react-webpack)
 - [template-react-vite](https://github.com/weisuoke/template-react-vite)
 - [template-vue3-vite](https://github.com/weisuoke/template-vue3-vite)
-
 - [tpl-react-webpack-ts](https://github.com/weisuoke/tpl-react-webpack-ts)
 - [tpl-react-vite-ts](https://github.com/weisuoke/tpl-react-vite-ts)
+- [tpl-react18-w5-swc](https://github.com/weisuoke/tpl-react18-w5-swc)

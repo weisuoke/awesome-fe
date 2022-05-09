@@ -23,6 +23,7 @@ order: 2
     - react-use
     - React Query
     - Zustand
+    - jotai
   - **Vue**
     - Vue Element Admin
   - **Angular**
