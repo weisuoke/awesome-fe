@@ -1,0 +1,88 @@
+---
+nav:
+  title: Backlog
+  order: 199
+title: Backlog - Rust
+order: 2
+---
+
+# Rust
+
+## Basic
+
+- [Rust Is Getting a Huge Update](https://medium.com/@preettheman/rust-is-getting-a-huge-update-c8f0f380a307?source=topics_v2---------1-89--------------------f361a807_d740_4ce9_8b8a_8be24d0a9770-------19)
+- [How to deploy a Rust Web Server to Heroku using Axum, Docker, and Github Actions](https://medium.com/@fbzga/how-to-deploy-a-rust-web-server-to-heroku-using-axum-docker-and-github-actions-6cddb442ea7e?source=topics_v2---------3-89--------------------f361a807_d740_4ce9_8b8a_8be24d0a9770-------19)
+- [Cubic Bézier Curve Implementation In Rust](https://medium.com/@amirhossein_azm/cubic-b%C3%A9zier-curve-implementation-in-rust-ecdc455d720c)
+- [A Step by Step Guide to access MySql database in Rust using Diesel ORM.](https://medium.com/@rameshovyas/a-step-by-step-guide-to-access-mysql-database-in-rust-using-diesel-orm-41836062bb6d?source=topics_v2---------9-89--------------------f361a807_d740_4ce9_8b8a_8be24d0a9770-------19)
+- [Rust: Singleton Application](https://medium.com/better-programming/rust-singleton-application-db2df027afa1?source=topics_v2---------16-89--------------------f361a807_d740_4ce9_8b8a_8be24d0a9770-------19)
+- [Compiler Adventures, part 1: No-op Instructions](https://medium.com/@predrag.gruevski/compiler-adventures-part-1-no-op-instructions-c084358c7864?source=user_profile---------0----------------------------)
+- [Compiler Adventures, part 2: Constant Propagation](https://medium.com/@predrag.gruevski/compiler-adventures-part-2-constant-propagation-c6f2e67d9881?source=user_profile---------3----------------------------)
+- [Compiler Adventures, part 3: Value Numbering](https://medium.com/@predrag.gruevski/compiler-adventures-part-3-value-numbering-12d087b891bd?source=user_profile---------1----------------------------)
+- [Adding an executable target to a Rust library](https://medium.com/@hbko/adding-an-executable-target-to-a-rust-library-cd6179eb85a8?source=topics_v2---------22-89--------------------f361a807_d740_4ce9_8b8a_8be24d0a9770-------19)
+- [Rusty Shorts — FnMut & FnOnce Closures](https://medium.com/@raviraj.dj/rusty-shorts-fnmut-fnonce-closures-7b0b8e4defd6?source=topics_v2---------24-89--------------------f361a807_d740_4ce9_8b8a_8be24d0a9770-------19)
+- [Rust with Yocto](https://medium.com/@michael2012zhao_67085/rust-with-yocto-eab41476cd7b?source=topics_v2---------25-89--------------------f361a807_d740_4ce9_8b8a_8be24d0a9770-------19)
+- [Practice Rust and TAURI: Make an Image Viewer #1](https://medium.com/@marm.nakamura/practice-rust-and-tauri-make-an-image-viewer-1-c8e08427340d?source=user_profile---------4----------------------------)
+- [Practice Rust and TAURI: Make an Image Viewer #2](https://medium.com/@marm.nakamura/practice-rust-and-tauri-make-an-image-viewer-2-9a7c0818afa4?source=user_profile---------3----------------------------)
+- [Practice Rust and TAURI: Make an Image Viewer #3](https://medium.com/@marm.nakamura/practice-rust-and-tauri-make-an-image-viewer-3-aaf09cf8c704?source=user_profile---------2----------------------------)
+- [Practice Rust and TAURI: Make an Image Viewer #4](https://medium.com/@marm.nakamura/practice-rust-and-tauri-make-an-image-viewer-4-39623547b06d?source=user_profile---------1----------------------------)
+- [Practice Rust and TAURI: Make an Image Viewer #5 Final](https://medium.com/@marm.nakamura/practice-rust-and-tauri-make-an-image-viewer-5-final-62da603d65d1?source=user_profile---------0----------------------------)
+- [Trying to the Tauri GUI on Rust : Meet WRY](https://medium.com/@marm.nakamura/trying-to-the-tauri-gui-on-rust-meet-wry-5f225f710f17?source=user_profile---------5----------------------------)
+- [Trying to Tauri on Rust : 1. min-min-project (^-^](https://medium.com/@marm.nakamura/trying-to-tauri-on-rust-1-min-min-project-d79d191ef5eb?source=user_profile---------10----------------------------)
+- [Trying to Tauri on Rust : 2. Hot Reload (^-^](https://medium.com/@marm.nakamura/trying-to-tauri-on-rust-2-hot-reload-38ec1c61341a?source=user_profile---------9----------------------------)
+- [Trying to the Tauri GUI on Rust : 3. Communicate with js (^-^](https://medium.com/@marm.nakamura/trying-to-tauri-on-rust-3-communicate-with-js-d56390116e1f?source=user_profile---------8----------------------------)
+- [Trying to the Tauri GUI on Rust : 4. State management on the Rust side](https://medium.com/@marm.nakamura/trying-to-the-tauri-gui-on-rust-4-state-management-on-the-rust-side-8899bda08936?source=user_profile---------7----------------------------)
+- [Trying to the Tauri GUI on Rust : 5. MessageBox and OpenFileDialog](https://medium.com/@marm.nakamura/trying-to-the-tauri-gui-on-rust-5-messagebox-and-openfiledialog-bff2c41cfae5?source=user_profile---------6----------------------------)
+- [Coding Practice for Rust](https://medium.com/@gftea/coding-practice-for-rust-b09267b88f32?source=topics_v2---------28-89--------------------f361a807_d740_4ce9_8b8a_8be24d0a9770-------19)
+- [The optimization of enum layout in Rust](https://medium.com/@zty0826/the-optimization-of-enum-layout-in-rust-cc0e0f34df55?source=topics_v2---------31-89--------------------f361a807_d740_4ce9_8b8a_8be24d0a9770-------19)
+- [Rust Day 1: Leetcode — Two Sum](https://medium.com/go-rust/lc-april-20-two-sum-5f0737105636?source=user_profile---------46----------------------------)
+- [Rust Day 2: Leetcode — Palindrome Number](https://medium.com/go-rust/lc-april-21-palindrome-number-249682aada1b?source=user_profile---------45----------------------------)
+- [Rust Day 2: Leetcode — Valid Parentheses](https://medium.com/go-rust/day-2-valid-parentheses-f6e8ae00d113?source=user_profile---------44----------------------------)
+- [Rust Day 3: Leetcode — Merge Two Sorted Lists](https://medium.com/go-rust/day-3-merge-two-sorted-lists-303fce07d9a1?source=user_profile---------43----------------------------)
+- [Rust Day 4: Leetcode — Remove Duplicates from Sorted Array](https://medium.com/go-rust/rust-day-4-remove-duplicates-from-sorted-array-33e99ccc1f66?source=user_profile---------36----------------------------)
+- [Rust Day 5: Leetcode — Search Insert Position](https://medium.com/go-rust/rust-day-5-search-insert-position-2569652b9c55?source=user_profile---------35----------------------------)
+- [Rust Day 5: Leetcode — Maximum Subarray](https://medium.com/go-rust/rust-day-5-maximum-subarray-d141c2d2f41d?source=user_profile---------34----------------------------)
+- [Rust Day 6: Tokio — Simple TCP Client](https://medium.com/go-rust/rust-day-6-tokio-simple-tcp-client-8dde6c6bd8ea?source=user_profile---------33----------------------------)
+- [Rust Day 6: Leetcode — Length of Last Word](https://medium.com/go-rust/rust-day-6-length-of-last-word-83c2a54a893d?source=user_profile---------32----------------------------)
+- [Rust Day 7: Tokio — Simple TCP Server](https://medium.com/go-rust/rust-day-7-tokio-simple-tcp-server-32c40f12e79b?source=user_profile---------31----------------------------)
+- [Rust Day 7: Leetcode — Climbing Stairs](https://medium.com/go-rust/rust-7-climbing-stairs-81951827519a?source=user_profile---------30----------------------------)
+- [Rust Day 9: Leetcode — Binary Tree Inorder Traversal](https://medium.com/go-rust/rust-day-9-binary-tree-inorder-traversal-f9ff741ff2aa?source=user_profile---------24----------------------------)
+- [Rust Day 9: Leetcode — Same Tree](https://medium.com/go-rust/rust-day-9-same-tree-16b21ed88a50?source=user_profile---------23----------------------------)
+- [Rust Day 10: Leetcode — Maximum Depth of Binary Tree](https://medium.com/go-rust/rust-day-10-lc-maximum-depth-of-binary-tree-872b39537716?source=user_profile---------22----------------------------)
+- [Rust Day 11: Leetcode — Convert Sorted Array to BST](https://medium.com/go-rust/rust-day-11-convert-sorted-array-to-bst-991e5cce3878?source=user_profile---------19----------------------------)
+- [Rust Day 12: Leetcode — Balanced Binary Tree](https://medium.com/go-rust/rust-day-12-balanced-binary-tree-c1f608803d94?source=user_profile---------18----------------------------)
+- [Rust Day 13: Leetcode — Minimum Depth of Binary Tree](https://medium.com/go-rust/rust-day-13-leetcode-minimum-depth-of-binary-tree-126698ec9153?source=user_profile---------16----------------------------)
+- [Rust Day 14: Leetcode — Path Sum](https://medium.com/go-rust/rust-day-14-path-sum-e1695c49c3ab?source=user_profile---------13----------------------------)
+- [Rust Day 15: Leetcode — Single Number](https://medium.com/go-rust/rust-day-15-single-number-179af8e2ab91?source=user_profile---------12----------------------------)
+- [Rust Day 16: Leetcode — Binary Tree Pre Order](https://medium.com/go-rust/rust-day-16-binary-tree-pre-order-a13ed42292b7?source=user_profile---------11----------------------------)
+- [Rust Day 17: Min Stack](https://medium.com/go-rust/rust-day-17-min-stack-bac2005310d4?source=user_profile---------9----------------------------)
+- [Rust Day 18: Number of 1 Bit](https://medium.com/go-rust/rust-day-18-number-of-1-bit-8f4df088c4ff?source=user_profile---------8----------------------------)
+- [Rust + WebAssembly calculate fibonacci](https://medium.com/@kriangkrai.ratt/rust-webassembly-calculate-fibonacci-608306628def?source=topics_v2---------37-89--------------------f361a807_d740_4ce9_8b8a_8be24d0a9770-------19)
+- [Implementing a Web App With Rocket](https://betterprogramming.pub/implementing-a-web-app-with-rocket-5e56c7e484a0)
+- [Graham’s scan Algorithm. An implementation in Rust.](https://medium.com/@applied-math-coding/grahams-scan-algorithm-an-implementation-in-rust-39c7536591b5?source=topics_v2---------56-89--------------------f361a807_d740_4ce9_8b8a_8be24d0a9770-------19)
+- [Implementing a Linked List in Rust.](https://medium.com/@applied-math-coding/implementing-a-linked-list-in-rust-b84b9fd252e8?source=topics_v2---------73-89--------------------f361a807_d740_4ce9_8b8a_8be24d0a9770-------19)
+- [28 Days of Rust — Part 1: Ownership and the Borrow Checker](https://medium.com/comsystoreply/28-days-of-rust-part-1-ownership-and-the-borrow-checker-977a17e5b733?source=user_profile---------1----------------------------)
+- [28 Days of Rust — Part 2: Composition over Inheritance](https://medium.com/comsystoreply/28-days-of-rust-part-2-composition-over-inheritance-cab1b106534a?source=user_profile---------0----------------------------)
+- [Build Your Text Editor With Rust!](https://medium.com/@otukof/build-your-text-editor-with-rust-678a463f968b?source=topics_v2---------14-87--------------------59955ae5_6bf4_4a44_9673_b35aa4af9d93-------19)
+- [Build Your Text Editor With Rust! Part 2](https://medium.com/@otukof/build-your-text-editor-with-rust-part-2-74e03daef237)
+- [Build Your Text Editor With Rust! Part 3](https://medium.com/@otukof/build-your-text-editor-with-rust-part-3-b030670fa815?source=user_profile---------5----------------------------)
+- [Build Your Text Editor With Rust! Part 4](https://medium.com/@otukof/build-your-text-editor-with-rust-part-4-fd4a8b8641f8?source=user_profile---------4----------------------------)
+- [Build Your Text Editor With Rust! Part 5](https://medium.com/@otukof/build-your-text-editor-with-rust-part-5-e363c16f542b?source=user_profile---------3----------------------------)
+- [Build Your Text Editor With Rust! Part 6](https://medium.com/@otukof/build-your-text-editor-with-rust-part-6-3cff61dc2de5?source=user_profile---------2----------------------------)
+- [Build Your Text Editor With Rust! Final Part](https://medium.com/@otukof/build-your-text-editor-with-rust-final-part-4c841a649900?source=user_profile---------1----------------------------)
+- [Chat System by Rust and gRPC-Web](https://medium.com/geekculture/chat-system-by-rust-and-grpc-web-2425104ec2a0?source=user_profile---------11----------------------------)
+- [Quick Start to gRPC using Rust](https://medium.com/geekculture/quick-start-to-grpc-using-rust-c655785fc6f4?source=topics_v2---------27-87--------------------59955ae5_6bf4_4a44_9673_b35aa4af9d93-------19)
+- [The best GUI libraries for Rust in 2022](https://medium.com/@preettheman/the-best-gui-libraries-for-rust-in-2022-405945ed7bfa?source=topics_v2---------39-87--------------------59955ae5_6bf4_4a44_9673_b35aa4af9d93-------19)
+- [Learn Rust by Developing Application: Apache Parquet Dataset Metadata Viewer](https://blog.devgenius.io/learn-rust-by-developing-application-apache-parquet-dataset-metadata-viewer-d96f12d06ff)
+
+## Advanced
+
+- [Rust Guide: Sum-Check protocol](https://medium.com/yearofzk/rust-guide-sum-check-protocol-18ceb8affdb2)
+- [Advanced Features in Rust](https://medium.com/@gftea/advanced-features-in-rust-bf4ac1de2557?source=topics_v2---------1-89--------------------db2fe9ff_83cc_4898_abad_21462371d598-------19)
+- [Building Proof of Stake in Rust — 01 -Blockchain](https://medium.com/@emcthye/building-proof-of-stake-in-rust-01-blockchain-e76c51f593e9?source=user_profile---------4----------------------------)
+- [Building Proof of Stake in Rust — 02 Proof of Stake](https://medium.com/@emcthye/building-proof-of-stake-in-rust-02-proof-of-stake-87f2c5e5eb08?source=user_profile---------3----------------------------)
+- [Building Proof of Stake in Rust — 03 Transactions](https://medium.com/@emcthye/building-proof-of-stake-in-rust-03-transactions-3a5bc5df590?source=user_profile---------2----------------------------)
+- [Building Proof of Stake in Rust — 04 Wallet](https://medium.com/@emcthye/building-proof-of-stake-in-rust-04-wallet-9502d11749db?source=user_profile---------1----------------------------)
+- [Building Proof of Stake in Rust — 05 Transaction Relaying](https://medium.com/@emcthye/building-proof-of-stake-in-rust-05-transaction-relaying-648f110103f7?source=user_profile---------0----------------------------)
+- [🧑‍💻 CosmWasm Coding Workshop — Rust Smart Contracts and Multichain Dapps on Cosmos](https://medium.com/@archwayHQ/cosmwasm-coding-workshop-may2022-288799df66e0?source=topics_v2---------17-89--------------------f361a807_d740_4ce9_8b8a_8be24d0a9770-------19)
+- [Debugging floating-point generation in Rust Wasm smart contract](https://medium.com/cosmwasm/debugging-floating-point-generation-in-rust-wasm-smart-contract-f47d833b5fba?source=topics_v2---------21-89--------------------f361a807_d740_4ce9_8b8a_8be24d0a9770-------19)
+- 
