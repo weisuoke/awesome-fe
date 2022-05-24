@@ -81,9 +81,6 @@ order: 3
 - [ ] [Playwright JS Automation Testing from Scratch with Framework](https://www.udemy.com/course/playwright-tutorials-automation-testing/)
 - [ ] [Web Scraping in Nodejs & JavaScript](https://www.udemy.com/course/web-scraping-in-nodejs/)
 - [ ] [AWS & Typescript Masterclass - CDK, Serverless, React](https://www.udemy.com/course/aws-typescript-cdk-serverless-react/)
-- [ ] [Backend Master Class [Golang + PostgreSQL + Kubernetes]](https://www.udemy.com/course/backend-master-class-golang-postgresql-kubernetes/)
-- [ ] [REST based microservices API development in Golang](https://www.udemy.com/course/rest-based-microservices-api-development-in-go-lang/)
-- [ ] [gRPC [Golang] Master Class: Build Modern API & Microservices](https://www.udemy.com/course/grpc-golang/)
 - [ ] [Java Programming Masterclass covering Java 11 & Java 17](https://www.udemy.com/course/java-the-complete-java-developer-course/)
 - [ ] [SQL and PostgreSQL: The Complete Developer's](https://www.udemy.com/course/sql-and-postgresql/)
 - [ ] [PostgreSQL Bootcamp : Go From Beginner to Advanced, 60+hours](https://www.udemy.com/course/postgresqlmasterclass/)
@@ -94,6 +91,19 @@ order: 3
 - [ ] [Master English Phrasal Verbs](https://www.udemy.com/course/master-english-phrasal-verbs/)
 - [ ] [English Idioms Launch: Upgrade your speaking and listening](https://www.udemy.com/course/english-idioms-launch-upgrade-your-speaking-and-listening/)
 - [ ] [Pass your job interview in English : Get your dream job!](https://www.udemy.com/course/job-interview-english/)
+- [ ] [NFT Marketplace in React, Typescript & Solidity - Full Guide](https://www.udemy.com/course/nft-marketplace-in-react-typescript-solidity-full-guide/)
+- [ ] [Building REST APIs with Serverless Framework on AWS](https://www.udemy.com/course/building-rest-apis-with-serverless/)
+- [ ] [Create a Metaverse using Three.js, Solidity and NFT Tokens](https://www.udemy.com/course/create-a-metaverse/)
+- [ ] [Flutter 3.0&Firebase Build a grocery app with Admin Panel](https://www.udemy.com/course/flutter-210firebase-build-a-grocery-app-with-admin-panel/)
+- [ ] [System Design - Creating a functional design](https://www.udemy.com/course/system-functional-design/)
+
+### Golang
+
+- [ ] [Building Modern Web Applications with Go (Golang)](https://www.udemy.com/course/building-modern-web-applications-with-go/)
+- [ ] [gRPC [Golang] Master Class: Build Modern API & Microservices](https://www.udemy.com/course/grpc-golang/)
+- [ ] [Backend Master Class [Golang + PostgreSQL + Kubernetes]](https://www.udemy.com/course/backend-master-class-golang-postgresql-kubernetes/)
+- [ ] [Working with Microservices in Go (Golang)](https://www.udemy.com/course/working-with-microservices-in-go/)
+- [ ] [REST based microservices API development in Golang](https://www.udemy.com/course/rest-based-microservices-api-development-in-go-lang/)
 
 ## 慕课网
 
