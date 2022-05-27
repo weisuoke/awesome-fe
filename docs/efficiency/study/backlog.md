@@ -15,6 +15,10 @@ order: 3
 
 ### freeCodeCamp.org
 
+- [ ] Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course
+
+- [ ] React Testing Course for Beginners – Code and Test 3 Apps
+
 - [ ] Self-Driving Car with JavaScript Course - Neural Networks and Machine Learning
 - [ ] Data Visualization with D3 - Full Course for Beginners [2022]
 
@@ -71,6 +75,10 @@ order: 3
 - [ ] Build and Deploy a Modern Full Stack ECommerce React Application with Strapi
 - [ ] Build and Deploy Your First Modern React Native App | NFT Market Course
 - [ ] Build and Deploy  a Modern Web 3.0 Blockchain App
+
+### Other
+
+- [ ] [WebAssembly Landscape 2022](https://www.youtube.com/watch?v=Ndu9qU_vY9c)
 
 ## Udemy
 
