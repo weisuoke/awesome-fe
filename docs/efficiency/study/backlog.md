@@ -113,6 +113,18 @@ order: 3
 - [ ] [Working with Microservices in Go (Golang)](https://www.udemy.com/course/working-with-microservices-in-go/)
 - [ ] [REST based microservices API development in Golang](https://www.udemy.com/course/rest-based-microservices-api-development-in-go-lang/)
 
+### English
+
+- [ ] [Master Native English | Speaking Skills, Grammar, and more](https://www.udemy.com/course/master-native-english/)
+- [ ] [Master English Phrasal Verbs](https://www.udemy.com/course/master-english-phrasal-verbs/)
+- [ ] [Building Your English Brain](https://www.udemy.com/course/building-your-english-brain/)
+- [ ] [Clear English Pronunciation](https://www.udemy.com/course/clear-english-pronunciation/)
+- [ ] [English for IT Professionals](https://www.udemy.com/course/english-for-it/)
+- [ ] [Idioms Gone Ballistic: Learn 480+ Idioms With Mini-Stories](https://www.udemy.com/course/idioms-gone-ballistic/)
+- [ ] [Learn How to Use 69 More Phrasal Verbs for Everyday English](https://www.udemy.com/course/learn-how-to-use-69-more-phrasal-verbs-for-everyday-english/)
+
+
+
 ## 慕课网
 
 - [ ] Vue3 打造前中台通用提效解决方案
