@@ -15,6 +15,9 @@ order: 3
 
 ### freeCodeCamp.org
 
+- [ ] Code Your Own Heroku Clone with Python
+- [ ] Build a Chrome Extension – Course for Beginners
+
 - [ ] Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course
 
 - [ ] React Testing Course for Beginners – Code and Test 3 Apps
