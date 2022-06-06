@@ -71,6 +71,42 @@ order: 2
 >
 > 无论是选择爱情，事业，婚姻，朋友，最优决策只可能在理论上存在。不要追求“最优决策”，而要追求“满意决策”。
 
+===================================
+
+看到一个讨论：I want to set up a new blog. What tech should I use?
+
+我的回答是：react+express+mongodb
+
+老外的回答是：
+
+1. Rust + GraphQL + React + Kafka + K8s (WTF)
+2. WordPress (Just get up and running and start writing ASAP)
+3. Notion
+4. nuxt3 on storyblok
+5. nextjs + graphCMS
+6. Jekyll
+7. nextjs + GraphQL
+8. reactjs + Strapi
+9. nuxt3 + supabase
+10. remix
+11. Webflow
+12. Hugo
+13. Ghost
+14. nextjs + tailwindcss + sanity + groq queries
+15. nextjs + ghost + contentful/strapi
+16. astro.build
+17. nextjs + DatoCMS
+18. nextjs + Contentlayer
+19. Medium
+20. gatsby + sanity
+21. Flowbite
+22. Focus on content and not the tech behind it.
+23. docusaurus
+24. rocket + svelte
+25. zola
+
+奇怪的知识有增加了
+
 
 
 
