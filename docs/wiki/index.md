@@ -24,6 +24,10 @@ order: 1
 
 - [made with vue.js](https://madewithvuejs.com/)
 
+### 周刊
+
+- [This Week In React](https://www.getrevue.co/profile/thisweekinreact)
+
 ## Tools
 
 [tooling.one](https://tooling.one/)
