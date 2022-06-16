@@ -27,6 +27,7 @@ order: 1
 ### 周刊
 
 - [This Week In React](https://www.getrevue.co/profile/thisweekinreact)
+- [Changelog](https://changelog.com/)
 
 ## Tools
 
