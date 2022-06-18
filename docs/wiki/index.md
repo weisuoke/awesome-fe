@@ -8,10 +8,6 @@ order: 1
 
 # Wiki
 
-## 微信公众号
-
-- 趣谈前端
-
 ## 信息获取
 
 - [DEV](https://dev.to/)
@@ -33,9 +29,17 @@ order: 1
 
 [tooling.one](https://tooling.one/)
 
+## 微信公众号
+
+- 趣谈前端
+
 ## Study
 
 - [Freecodecamp](https://www.freecodecamp.org/)
+
+## TV
+
+- [iptv-org](https://github.com/iptv-org?type=source)/**[iptv](https://github.com/iptv-org/iptv)** - Collection of publicly available IPTV channels from all over the world
 
 ## Youtube Channel
 
