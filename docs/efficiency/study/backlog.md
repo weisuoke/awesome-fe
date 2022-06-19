@@ -9,7 +9,7 @@ title: Backlog
 order: 3
 ---
 
-# Backlog
+# 视频学习Backlog
 
 ## Youtube
 
@@ -133,3 +133,23 @@ order: 3
 - [ ] Vue3 打造前中台通用提效解决方案
 - [ ] Go底层原理 + 实战重构Redis中间件
 - [ ] 前端必备的7种设计模式
+- [ ] [589 - 算法与数据结构高手养成 - 求职提升特训课](https://coding.imooc.com/class/589.html)
+- [ ] [586 - 职场人必修课：高效沟通与自信表达](https://coding.imooc.com/class/586.html)
+- [ ] [584 - Node.js工程师养成计划](https://coding.imooc.com/class/584.html)
+- [ ] [583 - 基于 Flutter 3.x 实战跨平台混合开发](https://coding.imooc.com/class/583.html)
+- [ ] [581 - 职业生涯第一课，重塑自我认知，做出理想职业规划](https://coding.imooc.com/class/chapter/581.html)
+- [ ] [579 - Go + ES8构建高性能搜索微服务](https://coding.imooc.com/class/579.html)
+
+
+
+## 珠峰架构
+
+### 主题课
+
+- [ ] React18完全新特性实战和升级指南
+- [ ] React18+Router6的流式SSR服务端渲染
+- [ ] 从零实现超强React虚拟列表组件
+- [ ] ReactQuery 实战篇
+- [ ] 实现蚂蚁标准请求Hook useRequest
+- [ ] 实现 React 官方动画库
+- [ ] 前端CSS-in-JS方案从实战到原理

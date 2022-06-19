@@ -45,6 +45,27 @@ order: 1
 
 ### 英语学习
 
+#### Beginner
+
+- [English Addict with Mr Duncan](https://www.youtube.com/channel/UC8pPDhxSn1nee70LRKJ0p3g)
+- [Easy English](https://www.youtube.com/easyenglishvideos)
+- [BBC Learning English](https://www.youtube.com/user/bbclearningenglish/videos)
+- [JenniferESL](https://www.youtube.com/user/JenniferESL)
+
+#### **Intermediate**
+
+- [Learn English with EnglishClass101.com](https://www.youtube.com/c/EnglishClass101)
+- [EF游学留学](https://www.youtube.com/c/ef)
+- [**VOA Learning English**](https://www.youtube.com/user/VOALearningEnglish)
+
+#### Advanced
+
+- [Rachel's English](https://www.youtube.com/user/rachelsenglish)
+
+- [Business English - Learn with Business English Pod](https://www.youtube.com/user/bizpod)
+
+#### Other
+
 - TED
 - BBC News
 - 英语兔
