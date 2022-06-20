@@ -85,28 +85,38 @@ order: 3
 
 ## Udemy
 
+- [ ] [Java Programming Masterclass covering Java 11 & Java 17](https://www.udemy.com/course/java-the-complete-java-developer-course/)
+- [ ] [Building REST APIs with Serverless Framework on AWS](https://www.udemy.com/course/building-rest-apis-with-serverless/)
+- [ ] [Flutter 3.0&Firebase Build a grocery app with Admin Panel](https://www.udemy.com/course/flutter-210firebase-build-a-grocery-app-with-admin-panel/)
+
+### Frontend
+
 - [ ] [Angular - The Complete Guide](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
 - [ ] [MEAN Stack E-Commerce App: Angular 13, NX, PrimeNg [2022]](https://www.udemy.com/course/mean-stack-ecommerce-app-angular-nx-primeng/)
 - [ ] [RxJS 7 and Observables: Introduction](https://www.udemy.com/course/rxjs-and-observables/)
+- [ ] [AWS & Typescript Masterclass - CDK, Serverless, React](https://www.udemy.com/course/aws-typescript-cdk-serverless-react/)
 - [ ] [Automated Software Testing with Puppeteer](https://www.udemy.com/course/automated-headless-browser-testing-with-puppeteer/)
 - [ ] [Playwright JS Automation Testing from Scratch with Framework](https://www.udemy.com/course/playwright-tutorials-automation-testing/)
 - [ ] [Web Scraping in Nodejs & JavaScript](https://www.udemy.com/course/web-scraping-in-nodejs/)
-- [ ] [AWS & Typescript Masterclass - CDK, Serverless, React](https://www.udemy.com/course/aws-typescript-cdk-serverless-react/)
-- [ ] [Java Programming Masterclass covering Java 11 & Java 17](https://www.udemy.com/course/java-the-complete-java-developer-course/)
+
+### DB
+
+- [ ] [MongoDB - The Complete Developer's Guide 2022](https://www.udemy.com/course/mongodb-the-complete-developers-guide/)
 - [ ] [SQL and PostgreSQL: The Complete Developer's](https://www.udemy.com/course/sql-and-postgresql/)
 - [ ] [PostgreSQL Bootcamp : Go From Beginner to Advanced, 60+hours](https://www.udemy.com/course/postgresqlmasterclass/)
-- [ ] [MongoDB - The Complete Developer's Guide 2022](https://www.udemy.com/course/mongodb-the-complete-developers-guide/)
 - [ ] [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/)
 - [ ] [Redis Bootcamp for Beginners: Get Hands On with Redis.](https://www.udemy.com/course/redis-bootcamp-for-beginners/)
-- [ ] [System Design Bootcamp : Crack Interviews and Build Systems](https://www.udemy.com/course/system-design-bootcamp/)
-- [ ] [Master English Phrasal Verbs](https://www.udemy.com/course/master-english-phrasal-verbs/)
-- [ ] [English Idioms Launch: Upgrade your speaking and listening](https://www.udemy.com/course/english-idioms-launch-upgrade-your-speaking-and-listening/)
-- [ ] [Pass your job interview in English : Get your dream job!](https://www.udemy.com/course/job-interview-english/)
+
+### Web3
+
 - [ ] [NFT Marketplace in React, Typescript & Solidity - Full Guide](https://www.udemy.com/course/nft-marketplace-in-react-typescript-solidity-full-guide/)
-- [ ] [Building REST APIs with Serverless Framework on AWS](https://www.udemy.com/course/building-rest-apis-with-serverless/)
 - [ ] [Create a Metaverse using Three.js, Solidity and NFT Tokens](https://www.udemy.com/course/create-a-metaverse/)
-- [ ] [Flutter 3.0&Firebase Build a grocery app with Admin Panel](https://www.udemy.com/course/flutter-210firebase-build-a-grocery-app-with-admin-panel/)
-- [ ] [System Design - Creating a functional design](https://www.udemy.com/course/system-functional-design/)
+- [ ] [Solana Blockchain Developer Bootcamp with Rust + JavaScript](https://www.udemy.com/course/solana-developer/)
+- [ ] [Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/)
+- [ ] [Ethereum Blockchain Developer Bootcamp With Solidity (2022)](https://www.udemy.com/course/blockchain-developer/)
+- [ ] [Solidity & Ethereum in React (Next JS): The Complete Guide](https://www.udemy.com/course/solidity-ethereum-in-react-next-js-the-complete-guide/)
+- [ ] [Advanced Solidity: Understanding and Optimizing Gas Costs](https://www.udemy.com/course/advanced-solidity-understanding-and-optimizing-gas-costs/)
+- [ ] [NFT Marketplace in React, Typescript & Solidity - Full Guide](https://www.udemy.com/course/nft-marketplace-in-react-typescript-solidity-full-guide/)
 
 ### Golang
 
@@ -115,6 +125,11 @@ order: 3
 - [ ] [Backend Master Class [Golang + PostgreSQL + Kubernetes]](https://www.udemy.com/course/backend-master-class-golang-postgresql-kubernetes/)
 - [ ] [Working with Microservices in Go (Golang)](https://www.udemy.com/course/working-with-microservices-in-go/)
 - [ ] [REST based microservices API development in Golang](https://www.udemy.com/course/rest-based-microservices-api-development-in-go-lang/)
+
+### Interview
+
+- [ ] [System Design Bootcamp : Crack Interviews and Build Systems](https://www.udemy.com/course/system-design-bootcamp/)
+- [ ] [System Design - Creating a functional design](https://www.udemy.com/course/system-functional-design/)
 
 ### English
 
@@ -125,6 +140,8 @@ order: 3
 - [ ] [English for IT Professionals](https://www.udemy.com/course/english-for-it/)
 - [ ] [Idioms Gone Ballistic: Learn 480+ Idioms With Mini-Stories](https://www.udemy.com/course/idioms-gone-ballistic/)
 - [ ] [Learn How to Use 69 More Phrasal Verbs for Everyday English](https://www.udemy.com/course/learn-how-to-use-69-more-phrasal-verbs-for-everyday-english/)
+- [ ] [English Idioms Launch: Upgrade your speaking and listening](https://www.udemy.com/course/english-idioms-launch-upgrade-your-speaking-and-listening/)
+- [ ] [Pass your job interview in English : Get your dream job!](https://www.udemy.com/course/job-interview-english/)
 
 
 
