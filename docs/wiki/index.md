@@ -19,6 +19,7 @@ order: 1
 ### Collection
 
 - [made with vue.js](https://madewithvuejs.com/)
+- [openbase](https://openbase.com/)
 
 ### 周刊
 
@@ -27,7 +28,10 @@ order: 1
 
 ## Tools
 
-[tooling.one](https://tooling.one/)
+- [tooling.one](https://tooling.one/)
+
+- [在线JS/CSS/HTML压缩](https://tool.oschina.net/jscompress?type=2)
+- [**前端开发工具箱**](https://www.html.cn/)
 
 ## 微信公众号
 
