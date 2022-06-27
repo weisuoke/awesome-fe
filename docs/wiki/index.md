@@ -33,6 +33,15 @@ order: 1
 - [在线JS/CSS/HTML压缩](https://tool.oschina.net/jscompress?type=2)
 - [**前端开发工具箱**](https://www.html.cn/)
 
+### Visualization Tools
+
+- [JSON Visio](https://github.com/AykutSarac/jsonvisio.com)
+- [Regex101](https://regex101.com/)
+- [**Regex-Vis**](https://regex-vis.com/)
+- [Jailer](https://wisser.github.io/Jailer/data-browsing.html)
+- https://editor.cilium.io/
+- [Lens](https://github.com/lensapp/lens) 
+
 ## 微信公众号
 
 - 趣谈前端
