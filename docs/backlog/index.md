@@ -14,8 +14,9 @@ order: 1
   - Nextjs
 - React Native
 - Node
+- JavaScript
 - TypeScript
-- 小程序
+- CSS
 
 ## Interest
 
@@ -24,6 +25,11 @@ order: 1
 - AWS
 - Web3
 - GraphQL
+- Practise
+
+### Series
+
+- [Day x of Game Dev](https://medium.com/@ethanmartin377)
 
 ## Interview
 

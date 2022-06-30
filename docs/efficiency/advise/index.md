@@ -31,3 +31,5 @@ order: 1
 - [《一年顶十年》干货读书笔记](https://mp.weixin.qq.com/s/9cDxdnyAa4WBJBjqdnfZsg)
 
 - [**只有平庸的人，才总是处于最佳状态**](https://mp.weixin.qq.com/s/3ae1Sa4E_vO1XQZs8B6Zkg)
+
+- [Being Productive As a Computer Science Student And Entrepreneur](https://javascript.plainenglish.io/being-productive-as-a-computer-science-student-and-entrepreneur-3fb9eff21d5c)
