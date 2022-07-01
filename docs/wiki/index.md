@@ -31,7 +31,7 @@ order: 1
 - [tooling.one](https://tooling.one/)
 
 - [在线JS/CSS/HTML压缩](https://tool.oschina.net/jscompress?type=2)
-- [**前端开发工具箱**](https://www.html.cn/)
+- [**前端开发工具箱**](https://www.html.cn/tool/html2string/)
 
 ### Visualization Tools
 
@@ -82,4 +82,8 @@ order: 1
 - TED
 - BBC News
 - 英语兔
+
+
+
+http://local.longxins.com:9000/teachers?accessToken=1659170137gAAAAABivWBZVlTBMX6_zb6dAWdTXMeC7hOuR3d-8Wi3qkqPaxbKagmWDsw4OIhC9aDGkpFki1mYrGMiJ7SNvMM2P6HZUeb6Wn-UcK1Er8HQaqTATNgqmx4u25PtaBpPYhvAk-BLMklOT_w9HTUROuSckuZp2nO-m4j0tp3EXhbp6yBQBLiJAjo81qeCPfWUngp-aG3ZqZ8I
 
