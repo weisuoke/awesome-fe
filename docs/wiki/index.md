@@ -15,6 +15,9 @@ order: 1
 - [osawards](https://osawards.com/)
 - [Medium](https://medium.com/)
 - [Roadmap](https://roadmap.sh/)
+- [Hashnode](https://hashnode.com/)
+- [DevDojo](https://devdojo.com/)
+- [hackernoon](https://hackernoon.com/)
 
 ### Collection
 
@@ -82,8 +85,4 @@ order: 1
 - TED
 - BBC News
 - 英语兔
-
-
-
-http://local.longxins.com:9000/teachers?accessToken=1659170137gAAAAABivWBZVlTBMX6_zb6dAWdTXMeC7hOuR3d-8Wi3qkqPaxbKagmWDsw4OIhC9aDGkpFki1mYrGMiJ7SNvMM2P6HZUeb6Wn-UcK1Er8HQaqTATNgqmx4u25PtaBpPYhvAk-BLMklOT_w9HTUROuSckuZp2nO-m4j0tp3EXhbp6yBQBLiJAjo81qeCPfWUngp-aG3ZqZ8I
 
