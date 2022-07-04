@@ -10,5 +10,6 @@ order: 1
 
 1. react
    1. 正确使用useMemo和useCallback
+   1. 使用TypeScript编写可复用的React组件
 2. react18
 
