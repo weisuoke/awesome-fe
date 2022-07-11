@@ -198,3 +198,17 @@ order: 3
 - 《华为HMS生态与应用开发实战》
 - 《量子理论：可视化量子过程及其应用》 
 - 《元宇宙大爆炸：产业元宇宙的全球洞察与战略落地》
+- 《Clean Architecture: A Craftsman’s Guide to Software Structure and Design》
+- 《Beautiful Architecture: Leading Thinkers Reveal the Hidden Beauty in Software Design》
+- 《Pattern-Oriented Software Architecture, Volume 1, A System of Patterns》
+- 《The Art of Readable Code》
+- 《Design Patterns: Elements of Reusable Object-Oriented Software》
+- 《**The Pragmatic Programmer**》
+- 《Code Complete: A Practical Handbook of Software Construction》
+- 《Head First Design Patterns》
+- 《Cracking the Coding Interview: 189 Programming Questions and Solutions》
+- 《The Phoenix Project: A Novel about IT, DevOps, and Helping Your Busines》
+- 《Fire in the Valley: The Birth and Death of the Personal Computer》
+- 《Where Wizards Stay Up Late: The Origins Of The Internet》
+- 《Soft Skills: The Software Developer’s Life Manual》
+- 《Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones》
