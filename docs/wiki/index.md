@@ -18,6 +18,7 @@ order: 1
 - [Hashnode](https://hashnode.com/)
 - [DevDojo](https://devdojo.com/)
 - [hackernoon](https://hackernoon.com/)
+- [logrocket](https://blog.logrocket.com/)
 
 ### Collection
 
