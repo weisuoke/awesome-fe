@@ -19,6 +19,7 @@ order: 1
 - [DevDojo](https://devdojo.com/)
 - [hackernoon](https://hackernoon.com/)
 - [logrocket](https://blog.logrocket.com/)
+- [gitnation](https://portal.gitnation.org/)
 
 ### Collection
 
