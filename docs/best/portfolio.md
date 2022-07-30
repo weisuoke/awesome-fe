@@ -19,3 +19,6 @@ order: 5
 - [tpl-react-vite-ts](https://github.com/weisuoke/tpl-react-vite-ts)
 - [tpl-react18-w5-swc](https://github.com/weisuoke/tpl-react18-w5-swc)
   - [tpl-react17-w5-swc](https://github.com/weisuoke/tpl-react17-w5-swc) - v18 与 v17还是有区别，这里先建一个仓库
+- tpl-react18-vite3
+
+## Admin sys
