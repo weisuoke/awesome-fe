@@ -10,26 +10,36 @@ order: 1
 
 ## 信息获取
 
+- [Medium](https://medium.com/)
+  - [Better Programming](https://medium.com/better-programming)
+  - [javascript-in-plain-english](https://medium.com/javascript-in-plain-english)
+  - [ITNext](https://itnext.io/)
+  - [Interview Noodle](https://medium.com/interviewnoodle)
+  - [CodeX](https://medium.com/codex)
+  - [Geek Culture](https://medium.com/geekculture)
+  - [Level up Coding](https://levelup.gitconnected.com/)
+  - [Javarevisited](https://medium.com/javarevisited)
+
 - [DEV](https://dev.to/)
 - [Bestofjs](https://bestofjs.org/)
 - [osawards](https://osawards.com/)
-- [Medium](https://medium.com/)
 - [Roadmap](https://roadmap.sh/)
 - [Hashnode](https://hashnode.com/)
 - [DevDojo](https://devdojo.com/)
 - [hackernoon](https://hackernoon.com/)
 - [logrocket](https://blog.logrocket.com/)
 - [gitnation](https://portal.gitnation.org/)
+- [Changelog](https://changelog.com/)
 
 ### Collection
 
 - [made with vue.js](https://madewithvuejs.com/)
 - [openbase](https://openbase.com/)
 
-### 周刊
+### Newsletters
 
 - [This Week In React](https://www.getrevue.co/profile/thisweekinreact)
-- [Changelog](https://changelog.com/)
+- [dormoshe.io](https://dormoshe.io/)
 
 ## Tools
 
