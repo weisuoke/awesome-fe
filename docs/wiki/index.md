@@ -14,12 +14,12 @@ order: 1
   - [Better Programming](https://medium.com/better-programming)
   - [javascript-in-plain-english](https://medium.com/javascript-in-plain-english)
   - [ITNext](https://itnext.io/)
-  - [Interview Noodle](https://medium.com/interviewnoodle)
   - [CodeX](https://medium.com/codex)
   - [Geek Culture](https://medium.com/geekculture)
   - [Level up Coding](https://levelup.gitconnected.com/)
   - [Javarevisited](https://medium.com/javarevisited)
-
+  - [Netanel Basal](https://netbasal.medium.com/?source=user_profile-------------------------------------)
+  - [Interview Noodle](https://medium.com/interviewnoodle)
 - [DEV](https://dev.to/)
 - [Bestofjs](https://bestofjs.org/)
 - [osawards](https://osawards.com/)
@@ -58,6 +58,8 @@ order: 1
 - [Lens](https://github.com/lensapp/lens) 
 
 ## 微信公众号
+
+- 前端早读课
 
 - 趣谈前端
 
