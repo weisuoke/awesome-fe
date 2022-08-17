@@ -18,3 +18,9 @@ order: 0
 2. [实现应用主题切换](/poc/fe/5)
 2. [VSCode 插件开发](/poc/fe/6)
 
+## project
+
+- [Syncing Contacts between Sanity and Active Campaign](https://medium.com/@fibonacid/syncing-contacts-between-sanity-and-active-campaign-2d42f1184a70?source=topics_v2---------9-89--------------------012f4f4a_69a9_47a3_9866_0b97fd2a29bd-------19)
+
+- [How to Create and Publish a Package to NPM Registry](https://levelup.gitconnected.com/how-to-create-and-publish-a-package-to-npm-registry-4967a5c44c69)
+

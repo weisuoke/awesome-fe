@@ -30,6 +30,7 @@ order: 1
 - [logrocket](https://blog.logrocket.com/)
 - [gitnation](https://portal.gitnation.org/)
 - [Changelog](https://changelog.com/)
+- [indepth](https://indepth.dev/)
 
 ### Collection
 
