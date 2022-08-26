@@ -41,6 +41,11 @@ order: 1
 
 - [This Week In React](https://www.getrevue.co/profile/thisweekinreact)
 - [dormoshe.io](https://dormoshe.io/)
+- [Frontend Weekly](https://frontendweekly.co/)
+- [React Status](https://react.statuscode.com/)
+- [JavaScript Weekly](https://javascriptweekly.com/)
+- [Node Weekly](https://nodeweekly.com/)
+- [ES.next News](http://esnextnews.com/)
 
 ## Tools
 

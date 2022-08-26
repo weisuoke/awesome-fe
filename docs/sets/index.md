@@ -12,5 +12,6 @@ order: 1
    1. 正确使用useMemo和useCallback
    1. 使用TypeScript编写可复用的React组件
    1. Hooks
+   1. React Fiber
 2. react18
 3. rust
