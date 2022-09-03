@@ -31,6 +31,7 @@ order: 1
 - [gitnation](https://portal.gitnation.org/)
 - [Changelog](https://changelog.com/)
 - [indepth](https://indepth.dev/)
+- [goland_ch](https://golang.ch/)
 
 ### Collection
 
@@ -115,3 +116,7 @@ order: 1
 - [webdesign-inspiration](https://www.webdesign-inspiration.com/)
 - [css design awards](https://www.cssdesignawards.com/)
 - [Pinterest](https://www.pinterest.com/)
+
+## Remote Job
+
+- [Golang](https://www.golangprojects.com/)
