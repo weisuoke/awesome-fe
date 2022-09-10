@@ -40,13 +40,18 @@ order: 1
 
 ### Newsletters
 
-- [This Week In React](https://www.getrevue.co/profile/thisweekinreact)
+- [This Week In React](https://thisweekinreact.com/)
 - [dormoshe.io](https://dormoshe.io/)
 - [Frontend Weekly](https://frontendweekly.co/)
 - [React Status](https://react.statuscode.com/)
 - [JavaScript Weekly](https://javascriptweekly.com/)
 - [Node Weekly](https://nodeweekly.com/)
 - [ES.next News](http://esnextnews.com/)
+
+### Conf
+
+- [viteconf](https://viteconf.org/)
+- [GitNotion](https://portal.gitnation.org/)
 
 ## Tools
 
