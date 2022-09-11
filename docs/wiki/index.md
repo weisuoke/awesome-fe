@@ -41,6 +41,7 @@ order: 1
 ### Newsletters
 
 - [This Week In React](https://thisweekinreact.com/)
+- [React Newsletter](https://reactnewsletter.com/)
 - [dormoshe.io](https://dormoshe.io/)
 - [Frontend Weekly](https://frontendweekly.co/)
 - [React Status](https://react.statuscode.com/)
