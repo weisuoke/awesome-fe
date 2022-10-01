@@ -126,3 +126,7 @@ order: 1
 ## Remote Job
 
 - [Golang](https://www.golangprojects.com/)
+
+## VPS
+
+- [CONTABO](https://contabo.com)
