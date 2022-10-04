@@ -54,6 +54,10 @@ order: 1
 - [viteconf](https://viteconf.org/)
 - [GitNotion](https://portal.gitnation.org/)
 
+### Blog
+
+- [Developerway](https://www.developerway.com/)
+
 ## Tools
 
 - [tooling.one](https://tooling.one/)
@@ -68,7 +72,7 @@ order: 1
 - [**Regex-Vis**](https://regex-vis.com/)
 - [Jailer](https://wisser.github.io/Jailer/data-browsing.html)
 - https://editor.cilium.io/
-- [Lens](https://github.com/lensapp/lens) 
+- ### [Lens](https://github.com/lensapp/lens) 
 
 ## 微信公众号
 
