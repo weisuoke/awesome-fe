@@ -116,41 +116,83 @@ order: 3
 ## Book
 
 - 《匠艺整洁之道：程序员的职业修养》
+
 - 《软件困局：为什么聪明的程序员会写出糟糕的代码》
+
 - 《善工利器：程序员管理范式》
+
 - 《Docker实战派 - 容器入门七步法》
+
 - 《Java核心技术 卷1：开发基础（原书第12版）》
+
 - 《Go语言学习：惯例模式与编程实践》
+
 - 《链接器和加载器》
+
 - 《多处理器编程的艺术》
+
 - 《汇编语言：基于x86处理器》
+
 - 《模式分类》
+
 - 《自动机理论、语言和计算导论》
+
 - 《分布式算法精髓》
+
 - 《成长力：揭秘高科技人才成长模式》
+
 - **《人机物融合群智计算》**
+
 - 《联邦学习：算法详解与系统实现》
+
 - 《人-机器人交互导论》
+
 - 《数学分析（英文版·原书第2版·典藏版）》
+
 - 《最优化模型：线性代数模型、凸优化模型及应用》
+
 - 《数据应用工程：方法论与实践》
+
 - 《数据合规：入门、实战与进阶》
+
 - 《华为HMS生态与应用开发实战》
+
 - 《量子理论：可视化量子过程及其应用》 
+
 - 《元宇宙大爆炸：产业元宇宙的全球洞察与战略落地》
+
 - 《Clean Architecture: A Craftsman’s Guide to Software Structure and Design》
+
 - 《Beautiful Architecture: Leading Thinkers Reveal the Hidden Beauty in Software Design》
+
 - 《Pattern-Oriented Software Architecture, Volume 1, A System of Patterns》
+
 - 《The Art of Readable Code》
+
 - 《Design Patterns: Elements of Reusable Object-Oriented Software》
+
 - 《**The Pragmatic Programmer**》
+
 - 《Code Complete: A Practical Handbook of Software Construction》
+
 - 《Head First Design Patterns》
+
 - 《Cracking the Coding Interview: 189 Programming Questions and Solutions》
+
 - 《The Phoenix Project: A Novel about IT, DevOps, and Helping Your Busines》
+
 - 《Fire in the Valley: The Birth and Death of the Personal Computer》
+
 - 《Where Wizards Stay Up Late: The Origins Of The Internet》
+
 - 《Soft Skills: The Software Developer’s Life Manual》
+
 - 《Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones》
+
 - 《软件研发效能提升实践》
-- 《高性能MVVM框架的设计与实现-San》
+
+- ~~《高性能MVVM框架的设计与实现-San》~~
+
+- 《Vue.js技术内幕》
+
+  
