@@ -32,6 +32,7 @@ order: 1
 - [Changelog](https://changelog.com/)
 - [indepth](https://indepth.dev/)
 - [goland_ch](https://golang.ch/)
+- [morioh](https://morioh.com)
 
 ### Collection
 

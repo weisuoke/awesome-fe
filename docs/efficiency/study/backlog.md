@@ -87,17 +87,35 @@ order: 3
 
 ## 慕课网
 
-- [ ] Vue3 打造前中台通用提效解决方案
-- [ ] Go底层原理 + 实战重构Redis中间件
-- [ ] 前端必备的7种设计模式
+### 实战课
+
+- [617 - NestJS 入门与实战](https://coding.imooc.com/class/617.html)
+
+- [ ] [613 - 前端面试全家桶：从求职准备到面试演练](https://coding.imooc.com/class/613.html)
+- [610 - SpringBoot2.x + Vue + UniApp，全栈开发医疗小程序](https://coding.imooc.com/class/610.html)
+- [608 - Vue3源码解析，打造自己的 Vue3 框架](https://coding.imooc.com/class/608.html)
+- [607 - 自主搭建 5 个精品脚手架，玩转前端提效](https://coding.imooc.com/class/607.html)
+- [604 - SpringCloud整合Dubbo3实战高并发微服务架构设计](https://coding.imooc.com/class/604.html)
 - [ ] [589 - 算法与数据结构高手养成 - 求职提升特训课](https://coding.imooc.com/class/589.html)
 - [ ] [586 - 职场人必修课：高效沟通与自信表达](https://coding.imooc.com/class/586.html)
 - [ ] [584 - Node.js工程师养成计划](https://coding.imooc.com/class/584.html)
 - [ ] [583 - 基于 Flutter 3.x 实战跨平台混合开发](https://coding.imooc.com/class/583.html)
 - [ ] [581 - 职业生涯第一课，重塑自我认知，做出理想职业规划](https://coding.imooc.com/class/chapter/581.html)
 - [ ] [579 - Go + ES8构建高性能搜索微服务](https://coding.imooc.com/class/579.html)
+- [ ] [577 - 基于 Vue3，打造前台 + 中台通用提效解决方案](https://coding.imooc.com/class/577.html)
+- [ ] [576 - 深入Go底层原理，重写 Redis 中间件实战](https://coding.imooc.com/class/576.html)
+- [ ] [575 - 快速掌握前端必会的7种设计模式](https://coding.imooc.com/class/575.html)
+- [ ] [566 - Vue3打造SSR网站应用，0到1实现服务端渲染](https://coding.imooc.com/class/566.html)
+- [ ] [542 - 基于 Vue3 新标准，打造后台综合解决方案](https://coding.imooc.com/class/542.html)
+- [ ] [535 - Go开发者的涨薪通道：自主开发 Paas 平台核心功能](https://coding.imooc.com/class/535.html)
 
+### 体系课
 
+- [ ] [Java全栈工程师](https://class.imooc.com/sale/javafullstack)
+
+- [ ] [Java亿级项目架构设计与落地应用](https://class.imooc.com/project)
+- [ ] [Java架构师-技术专家](https://class.imooc.com/sale/javaarchitect)
+- [ ] [Java架构师-十项修炼](https://class.imooc.com/sale/javaalmighty)
 
 ## 珠峰架构
 
@@ -153,10 +171,6 @@ order: 3
 
 - 《数据应用工程：方法论与实践》
 
-- 《数据合规：入门、实战与进阶》
-
-- 《华为HMS生态与应用开发实战》
-
 - 《量子理论：可视化量子过程及其应用》 
 
 - 《元宇宙大爆炸：产业元宇宙的全球洞察与战略落地》
@@ -170,8 +184,6 @@ order: 3
 - 《The Art of Readable Code》
 
 - 《Design Patterns: Elements of Reusable Object-Oriented Software》
-
-- 《**The Pragmatic Programmer**》
 
 - 《Code Complete: A Practical Handbook of Software Construction》
 
@@ -191,8 +203,40 @@ order: 3
 
 - 《软件研发效能提升实践》
 
-- ~~《高性能MVVM框架的设计与实现-San》~~
-
 - 《Vue.js技术内幕》
 
-  
+
+### Manning
+
+#### MEAP
+
+- [Microservice APIs](https://www.manning.com/books/microservice-apis)
+- Tiny C Projects
+- BDD in Action, Second Edition
+- **Multiplayer Game Development in Rust**
+- **Refactoring to Rust**
+- **Code Like a Pro in Rust**
+- Python How to
+- The Art of Unit Testing, Third Edition
+- The Well-Grounded Python Developer
+- Thinking Like a CTO
+- **Build an Orchestrator in GO**
+- **Effective Go**
+- Kafka Stream in Action, Second Edition
+- The Tao of Microservices, Second Edition
+- **gRPC Microservices in Go**
+- **Business-Friendly DSLs**
+- Learning C++
+- Functional Design and Architecture
+- Haskell Bookcamp
+- **Go in Action, Second Edition**
+- 100 Go Mistakes and How to Avoid Them
+- Full Stack GraphQL Applications
+- Python for Deep Learning
+- **Rust Web Development**
+- **Tiny CSS Project**
+- **OpenID Connect in Action**
+- **React Quickly, Second Edition**
+- **Tiny Node Projects**
+- **D3.js in Action, Third Edition**
+
