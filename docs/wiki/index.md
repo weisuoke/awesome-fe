@@ -33,6 +33,7 @@ order: 1
 - [indepth](https://indepth.dev/)
 - [goland_ch](https://golang.ch/)
 - [morioh](https://morioh.com)
+- [syntax](https://syntax.fm/)
 
 ### Collection
 
