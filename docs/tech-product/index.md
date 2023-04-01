@@ -2,17 +2,46 @@
 nav:
   title: Tech Product
   order: 25
-title: Tech Product
+title: 个人技术栈
 order: 10
 ---
 
-# 技术产品
+# 个人技术栈
 
-## 基础建设
+## 语言
 
-- 组件库
-- Hooks
+- JavaScript/TypeScript
+- Node.js
+- Java
+- Golang
+- Rust
 
-## 产品
+## 前端
 
-- Admin System
+### React
+
+- React
+- Next.js
+
+### Vue
+
+### 构建工具
+
+- Webpack
+- Vite
+- swc
+
+## Node
+
+- Nest.js
+
+## DB
+
+### 关系型数据库
+
+- MySQL
+
+### NoSQL
+
+- MongoDB
+- Redis
