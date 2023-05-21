@@ -1,0 +1,1166 @@
+{
+  "_chunksMap": {
+    "umi": [
+      "/umi.js"
+    ],
+    "wrappers": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/vendors~wrappers.chunk.css",
+      "/vendors~wrappers.js",
+      "/wrappers.js"
+    ],
+    "null": [],
+    "dumi_demos": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/vendors~docs__best__note.md~docs__poc__oss.md~docs__sets__01.react__02.md~docs__sets__01.react__04.m~2635e3a1.chunk.css",
+      "/vendors~docs__best__note.md~docs__poc__oss.md~docs__sets__01.react__02.md~docs__sets__01.react__04.m~2635e3a1.js",
+      "/vendors~dumi_demos.chunk.css",
+      "/vendors~dumi_demos.js",
+      "/dumi_demos.js"
+    ],
+    "docs__index.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__index.md.js"
+    ],
+    "docs__awesome__index.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__awesome__index.md.js"
+    ],
+    "docs__awesome__personal__01.react.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__awesome__personal__01.react.md.js"
+    ],
+    "docs__awesome__personal__02.js-utils.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__awesome__personal__02.js-utils.md.js"
+    ],
+    "docs__awesome__personal__03.react-native.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__awesome__personal__03.react-native.md.js"
+    ],
+    "docs__awesome__personal__04.node.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__awesome__personal__04.node.md.js"
+    ],
+    "docs__awesome__personal__05.algorithm.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__awesome__personal__05.algorithm.md.js"
+    ],
+    "docs__awesome__personal__06.js.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__awesome__personal__06.js.md.js"
+    ],
+    "docs__awesome__personal__07.css.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__awesome__personal__07.css.md.js"
+    ],
+    "docs__awesome__personal__08.golang.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__awesome__personal__08.golang.md.js"
+    ],
+    "docs__awesome__personal__09.rust.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__awesome__personal__09.rust.md.js"
+    ],
+    "docs__awesome__personal__10.vue.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__awesome__personal__10.vue.md.js"
+    ],
+    "docs__awesome__personal__11.database.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__awesome__personal__11.database.md.js"
+    ],
+    "docs__awesome__personal__12.general.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__awesome__personal__12.general.md.js"
+    ],
+    "docs__awesome__personal__13.angular.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__awesome__personal__13.angular.md.js"
+    ],
+    "docs__awesome__personal__14.bun.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__awesome__personal__14.bun.md.js"
+    ],
+    "docs__awesome__personal__15.nestjs.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__awesome__personal__15.nestjs.md.js"
+    ],
+    "docs__awesome__play__01.简历.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__awesome__play__01.简历.md.js"
+    ],
+    "docs__awesome__play__02.low-code.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__awesome__play__02.low-code.md.js"
+    ],
+    "docs__awesome__play__03.monorepo.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__awesome__play__03.monorepo.md.js"
+    ],
+    "docs__awesome__play__04.mfe.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__awesome__play__04.mfe.md.js"
+    ],
+    "docs__awesome__play__05.web3.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__awesome__play__05.web3.md.js"
+    ],
+    "docs__awesome__play__06.editor.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__awesome__play__06.editor.md.js"
+    ],
+    "docs__awesome__play__07.design.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__awesome__play__07.design.md.js"
+    ],
+    "docs__awesome__play__08.application.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__awesome__play__08.application.md.js"
+    ],
+    "docs__awesome__play__09.test.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__awesome__play__09.test.md.js"
+    ],
+    "docs__awesome__play__10.interview.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__awesome__play__10.interview.md.js"
+    ],
+    "docs__awesome__play__11.cli.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__awesome__play__11.cli.md.js"
+    ],
+    "docs__awesome__play__12.visualization.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__awesome__play__12.visualization.md.js"
+    ],
+    "docs__awesome__play__13.canvas.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__awesome__play__13.canvas.md.js"
+    ],
+    "docs__awesome__play__14.ideas.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__awesome__play__14.ideas.md.js"
+    ],
+    "docs__awesome__play__15.frp.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__awesome__play__15.frp.md.js"
+    ],
+    "docs__awesome__play__16.electron.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__awesome__play__16.electron.md.js"
+    ],
+    "docs__awesome__play__17.side-job.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__awesome__play__17.side-job.md.js"
+    ],
+    "docs__backlog__index.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__backlog__index.md.js"
+    ],
+    "docs__backlog__knowledge.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__backlog__knowledge.md.js"
+    ],
+    "docs__backlog__Interest__01.rust.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__backlog__Interest__01.rust.md.js"
+    ],
+    "docs__backlog__Interest__02.golang.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__backlog__Interest__02.golang.md.js"
+    ],
+    "docs__backlog__Interest__04.web3.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__backlog__Interest__04.web3.md.js"
+    ],
+    "docs__backlog__Interest__06.practice.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__backlog__Interest__06.practice.md.js"
+    ],
+    "docs__backlog__Interest__07.devops.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__backlog__Interest__07.devops.md.js"
+    ],
+    "docs__backlog__Interest__08.DB.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__backlog__Interest__08.DB.md.js"
+    ],
+    "docs__backlog__Interest__09.Python.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__backlog__Interest__09.Python.md.js"
+    ],
+    "docs__backlog__Interest__10.Serverless.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__backlog__Interest__10.Serverless.md.js"
+    ],
+    "docs__backlog__Interest__12.iOS.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__backlog__Interest__12.iOS.md.js"
+    ],
+    "docs__backlog__Interest__13.UIUX.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__backlog__Interest__13.UIUX.md.js"
+    ],
+    "docs__backlog__Interest__14.java.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__backlog__Interest__14.java.md.js"
+    ],
+    "docs__backlog__Interest__15.bun.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__backlog__Interest__15.bun.md.js"
+    ],
+    "docs__backlog__Interest__16.flutter.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__backlog__Interest__16.flutter.md.js"
+    ],
+    "docs__backlog__Interest__17.android.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__backlog__Interest__17.android.md.js"
+    ],
+    "docs__backlog__Interview__01.Algorithm.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__backlog__Interview__01.Algorithm.md.js"
+    ],
+    "docs__backlog__Interview__02.System Design.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__backlog__Interview__02.System Design.md.js"
+    ],
+    "docs__backlog__Work__01.react.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__backlog__Work__01.react.md.js"
+    ],
+    "docs__backlog__Work__02.react-native.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__backlog__Work__02.react-native.md.js"
+    ],
+    "docs__backlog__Work__03.nodejs.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__backlog__Work__03.nodejs.md.js"
+    ],
+    "docs__backlog__Work__04.js.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__backlog__Work__04.js.md.js"
+    ],
+    "docs__backlog__Work__05.ts.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__backlog__Work__05.ts.md.js"
+    ],
+    "docs__backlog__Work__06.css.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__backlog__Work__06.css.md.js"
+    ],
+    "docs__backlog__Work__07.network.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__backlog__Work__07.network.md.js"
+    ],
+    "docs__backlog__Work__08.bundle.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__backlog__Work__08.bundle.md.js"
+    ],
+    "docs__backlog__Work__09.git.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__backlog__Work__09.git.md.js"
+    ],
+    "docs__backlog__Work__10.agile.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__backlog__Work__10.agile.md.js"
+    ],
+    "docs__backlog__Work__11.flow.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__backlog__Work__11.flow.md.js"
+    ],
+    "docs__backlog__Work__12.test.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__backlog__Work__12.test.md.js"
+    ],
+    "docs__backlog__Work__13.SEO.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__backlog__Work__13.SEO.md.js"
+    ],
+    "docs__backlog__Work__14.Growth.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__backlog__Work__14.Growth.md.js"
+    ],
+    "docs__backlog__Work__15.resource.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__backlog__Work__15.resource.md.js"
+    ],
+    "docs__backlog__Work__16.advice.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__backlog__Work__16.advice.md.js"
+    ],
+    "docs__backlog__Work__17.optimization.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__backlog__Work__17.optimization.md.js"
+    ],
+    "docs__backlog__course__1.1.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__backlog__course__1.1.md.js"
+    ],
+    "docs__backlog__course__3.1.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__backlog__course__3.1.md.js"
+    ],
+    "docs__backlog__course__3.2.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__backlog__course__3.2.md.js"
+    ],
+    "docs__backlog__crashCourse__01.zzl.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__backlog__crashCourse__01.zzl.md.js"
+    ],
+    "docs__backlog__crashCourse__02.udemy.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__backlog__crashCourse__02.udemy.md.js"
+    ],
+    "docs__backlog__crashCourse__03.youtube.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__backlog__crashCourse__03.youtube.md.js"
+    ],
+    "docs__backlog__crashCourse__04.freeCodeCamp.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__backlog__crashCourse__04.freeCodeCamp.md.js"
+    ],
+    "docs__backlog__crashCourse__05.fake.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__backlog__crashCourse__05.fake.md.js"
+    ],
+    "docs__backlog__crashCourse__06.imooc.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__backlog__crashCourse__06.imooc.md.js"
+    ],
+    "docs__best__engineer-sence.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__best__engineer-sence.md.js"
+    ],
+    "docs__best__lunzi.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__best__lunzi.md.js"
+    ],
+    "docs__best__mystack.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__best__mystack.md.js"
+    ],
+    "docs__best__note.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/vendors~docs__best__note.md~docs__poc__oss.md~docs__sets__01.react__02.md~docs__sets__01.react__04.m~2635e3a1.chunk.css",
+      "/vendors~docs__best__note.md~docs__poc__oss.md~docs__sets__01.react__02.md~docs__sets__01.react__04.m~2635e3a1.js",
+      "/docs__best__note.md.js"
+    ],
+    "docs__best__portfolio.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__best__portfolio.md.js"
+    ],
+    "docs__best__scrum.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__best__scrum.md.js"
+    ],
+    "docs__deep-learn__index.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__deep-learn__index.md.js"
+    ],
+    "docs__deep-learn__fe__01.react-query.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__deep-learn__fe__01.react-query.md.js"
+    ],
+    "docs__deep-learn__fe__02.react-hook-form.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__deep-learn__fe__02.react-hook-form.md.js"
+    ],
+    "docs__deep-learn__fe__03.jotai.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__deep-learn__fe__03.jotai.md.js"
+    ],
+    "docs__deep-learn__fe__04.Gatsby.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__deep-learn__fe__04.Gatsby.md.js"
+    ],
+    "docs__deep-learn__fe__05.shopify.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__deep-learn__fe__05.shopify.md.js"
+    ],
+    "docs__deep-learn__fe__06.vite3.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__deep-learn__fe__06.vite3.md.js"
+    ],
+    "docs__deep-learn__fe__07.immer.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__deep-learn__fe__07.immer.md.js"
+    ],
+    "docs__deep-learn__fe__08.oclif.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__deep-learn__fe__08.oclif.md.js"
+    ],
+    "docs__deep-learn__rust__01.rocket.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__deep-learn__rust__01.rocket.md.js"
+    ],
+    "docs__efficiency__Todo__202204.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__efficiency__Todo__202204.md.js"
+    ],
+    "docs__efficiency__Todo__202205.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__efficiency__Todo__202205.md.js"
+    ],
+    "docs__efficiency__Todo__202206.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__efficiency__Todo__202206.md.js"
+    ],
+    "docs__efficiency__Todo__202207.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__efficiency__Todo__202207.md.js"
+    ],
+    "docs__efficiency__Todo__202208.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__efficiency__Todo__202208.md.js"
+    ],
+    "docs__efficiency__advise__index.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__efficiency__advise__index.md.js"
+    ],
+    "docs__efficiency__advise__思考框架.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__efficiency__advise__思考框架.md.js"
+    ],
+    "docs__efficiency__advise__概念思考.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__efficiency__advise__概念思考.md.js"
+    ],
+    "docs__efficiency__future__5g.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__efficiency__future__5g.md.js"
+    ],
+    "docs__efficiency__study__201.rn.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__efficiency__study__201.rn.md.js"
+    ],
+    "docs__efficiency__study__202.react.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__efficiency__study__202.react.md.js"
+    ],
+    "docs__efficiency__study__backlog.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__efficiency__study__backlog.md.js"
+    ],
+    "docs__efficiency__study__fragment-record.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__efficiency__study__fragment-record.md.js"
+    ],
+    "docs__efficiency__study__roadmap.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__efficiency__study__roadmap.md.js"
+    ],
+    "docs__efficiency__study__template.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__efficiency__study__template.md.js"
+    ],
+    "docs__efficiency__study__todo.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__efficiency__study__todo.md.js"
+    ],
+    "docs__poc__demo.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__poc__demo.md.js"
+    ],
+    "docs__poc__edit-photo.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__poc__edit-photo.md.js"
+    ],
+    "docs__poc__index.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__poc__index.md.js"
+    ],
+    "docs__poc__new-tech.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__poc__new-tech.md.js"
+    ],
+    "docs__poc__oss.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/vendors~docs__best__note.md~docs__poc__oss.md~docs__sets__01.react__02.md~docs__sets__01.react__04.m~2635e3a1.chunk.css",
+      "/vendors~docs__best__note.md~docs__poc__oss.md~docs__sets__01.react__02.md~docs__sets__01.react__04.m~2635e3a1.js",
+      "/docs__poc__oss.md.js"
+    ],
+    "docs__poc__fe__1.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__poc__fe__1.md.js"
+    ],
+    "docs__poc__fe__2.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__poc__fe__2.md.js"
+    ],
+    "docs__poc__fe__3.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__poc__fe__3.md.js"
+    ],
+    "docs__poc__fe__4.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__poc__fe__4.md.js"
+    ],
+    "docs__poc__fe__5.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__poc__fe__5.md.js"
+    ],
+    "docs__poc__fe__6.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__poc__fe__6.md.js"
+    ],
+    "docs__poc__fe__index.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__poc__fe__index.md.js"
+    ],
+    "docs__sets__index.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__sets__index.md.js"
+    ],
+    "docs__sets__01.react__01.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__sets__01.react__01.md.js"
+    ],
+    "docs__sets__01.react__02.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/vendors~docs__best__note.md~docs__poc__oss.md~docs__sets__01.react__02.md~docs__sets__01.react__04.m~2635e3a1.chunk.css",
+      "/vendors~docs__best__note.md~docs__poc__oss.md~docs__sets__01.react__02.md~docs__sets__01.react__04.m~2635e3a1.js",
+      "/docs__sets__01.react__02.md.js"
+    ],
+    "docs__sets__01.react__03.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__sets__01.react__03.md.js"
+    ],
+    "docs__sets__01.react__04.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/vendors~docs__best__note.md~docs__poc__oss.md~docs__sets__01.react__02.md~docs__sets__01.react__04.m~2635e3a1.chunk.css",
+      "/vendors~docs__best__note.md~docs__poc__oss.md~docs__sets__01.react__02.md~docs__sets__01.react__04.m~2635e3a1.js",
+      "/docs__sets__01.react__04.md.js"
+    ],
+    "docs__sets__03.rust__01.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__sets__03.rust__01.md.js"
+    ],
+    "docs__simple-course__index.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__simple-course__index.md.js"
+    ],
+    "docs__simple-course__devops__01.Docker.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__simple-course__devops__01.Docker.md.js"
+    ],
+    "docs__simple-course__devops__02.Docker入门.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/vendors~docs__best__note.md~docs__poc__oss.md~docs__sets__01.react__02.md~docs__sets__01.react__04.m~2635e3a1.chunk.css",
+      "/vendors~docs__best__note.md~docs__poc__oss.md~docs__sets__01.react__02.md~docs__sets__01.react__04.m~2635e3a1.js",
+      "/docs__simple-course__devops__02.Docker入门.md.chunk.css",
+      "/docs__simple-course__devops__02.Docker入门.md.js"
+    ],
+    "docs__simple-course__fe__01.react18.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__simple-course__fe__01.react18.md.js"
+    ],
+    "docs__simple-course__fe__02.postgreSQL.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/vendors~docs__best__note.md~docs__poc__oss.md~docs__sets__01.react__02.md~docs__sets__01.react__04.m~2635e3a1.chunk.css",
+      "/vendors~docs__best__note.md~docs__poc__oss.md~docs__sets__01.react__02.md~docs__sets__01.react__04.m~2635e3a1.js",
+      "/docs__simple-course__fe__02.postgreSQL.md.js"
+    ],
+    "docs__simple-course__fe__03.sequelize.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__simple-course__fe__03.sequelize.md.js"
+    ],
+    "docs__simple-course__fe__04.lerna.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/vendors~docs__best__note.md~docs__poc__oss.md~docs__sets__01.react__02.md~docs__sets__01.react__04.m~2635e3a1.chunk.css",
+      "/vendors~docs__best__note.md~docs__poc__oss.md~docs__sets__01.react__02.md~docs__sets__01.react__04.m~2635e3a1.js",
+      "/docs__simple-course__fe__04.lerna.md.js"
+    ],
+    "docs__simple-course__fe__05.vite.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/vendors~docs__best__note.md~docs__poc__oss.md~docs__sets__01.react__02.md~docs__sets__01.react__04.m~2635e3a1.chunk.css",
+      "/vendors~docs__best__note.md~docs__poc__oss.md~docs__sets__01.react__02.md~docs__sets__01.react__04.m~2635e3a1.js",
+      "/docs__simple-course__fe__05.vite.md.js"
+    ],
+    "docs__simple-course__fe__06.css-skill.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/vendors~docs__best__note.md~docs__poc__oss.md~docs__sets__01.react__02.md~docs__sets__01.react__04.m~2635e3a1.chunk.css",
+      "/vendors~docs__best__note.md~docs__poc__oss.md~docs__sets__01.react__02.md~docs__sets__01.react__04.m~2635e3a1.js",
+      "/docs__simple-course__fe__06.css-skill.md.js"
+    ],
+    "docs__simple-course__fe__07.react-fiber.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__simple-course__fe__07.react-fiber.md.js"
+    ],
+    "docs__simple-course__fe__08.rxjs.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/vendors~docs__best__note.md~docs__poc__oss.md~docs__sets__01.react__02.md~docs__sets__01.react__04.m~2635e3a1.chunk.css",
+      "/vendors~docs__best__note.md~docs__poc__oss.md~docs__sets__01.react__02.md~docs__sets__01.react__04.m~2635e3a1.js",
+      "/docs__simple-course__fe__08.rxjs.md.js"
+    ],
+    "docs__simple-course__fe__10.monitor.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__simple-course__fe__10.monitor.md.js"
+    ],
+    "docs__simple-course__fe__11.mfe.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__simple-course__fe__11.mfe.md.js"
+    ],
+    "docs__simple-course__fe__12.yargs.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/vendors~docs__best__note.md~docs__poc__oss.md~docs__sets__01.react__02.md~docs__sets__01.react__04.m~2635e3a1.chunk.css",
+      "/vendors~docs__best__note.md~docs__poc__oss.md~docs__sets__01.react__02.md~docs__sets__01.react__04.m~2635e3a1.js",
+      "/docs__simple-course__fe__12.yargs.md.js"
+    ],
+    "docs__simple-course__fe__13.chalk.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/vendors~docs__best__note.md~docs__poc__oss.md~docs__sets__01.react__02.md~docs__sets__01.react__04.m~2635e3a1.chunk.css",
+      "/vendors~docs__best__note.md~docs__poc__oss.md~docs__sets__01.react__02.md~docs__sets__01.react__04.m~2635e3a1.js",
+      "/docs__simple-course__fe__13.chalk.md.js"
+    ],
+    "docs__simple-course__fe__14.inquirer.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/vendors~docs__best__note.md~docs__poc__oss.md~docs__sets__01.react__02.md~docs__sets__01.react__04.m~2635e3a1.chunk.css",
+      "/vendors~docs__best__note.md~docs__poc__oss.md~docs__sets__01.react__02.md~docs__sets__01.react__04.m~2635e3a1.js",
+      "/docs__simple-course__fe__14.inquirer.md.js"
+    ],
+    "docs__simple-course__fe__15.lerna.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/vendors~docs__best__note.md~docs__poc__oss.md~docs__sets__01.react__02.md~docs__sets__01.react__04.m~2635e3a1.chunk.css",
+      "/vendors~docs__best__note.md~docs__poc__oss.md~docs__sets__01.react__02.md~docs__sets__01.react__04.m~2635e3a1.js",
+      "/docs__simple-course__fe__15.lerna.md.js"
+    ],
+    "docs__simple-course__fe__16.Gatsby.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/vendors~docs__best__note.md~docs__poc__oss.md~docs__sets__01.react__02.md~docs__sets__01.react__04.m~2635e3a1.chunk.css",
+      "/vendors~docs__best__note.md~docs__poc__oss.md~docs__sets__01.react__02.md~docs__sets__01.react__04.m~2635e3a1.js",
+      "/docs__simple-course__fe__16.Gatsby.md.js"
+    ],
+    "docs__simple-course__fe__17.cpx.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/vendors~docs__best__note.md~docs__poc__oss.md~docs__sets__01.react__02.md~docs__sets__01.react__04.m~2635e3a1.chunk.css",
+      "/vendors~docs__best__note.md~docs__poc__oss.md~docs__sets__01.react__02.md~docs__sets__01.react__04.m~2635e3a1.js",
+      "/docs__simple-course__fe__17.cpx.md.js"
+    ],
+    "docs__simple-course__fe__18.core-js.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/vendors~docs__best__note.md~docs__poc__oss.md~docs__sets__01.react__02.md~docs__sets__01.react__04.m~2635e3a1.chunk.css",
+      "/vendors~docs__best__note.md~docs__poc__oss.md~docs__sets__01.react__02.md~docs__sets__01.react__04.m~2635e3a1.js",
+      "/docs__simple-course__fe__18.core-js.md.js"
+    ],
+    "docs__simple-course__fe__19.esbuild.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__simple-course__fe__19.esbuild.md.js"
+    ],
+    "docs__simple-course__fe__21.babel.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/vendors~docs__best__note.md~docs__poc__oss.md~docs__sets__01.react__02.md~docs__sets__01.react__04.m~2635e3a1.chunk.css",
+      "/vendors~docs__best__note.md~docs__poc__oss.md~docs__sets__01.react__02.md~docs__sets__01.react__04.m~2635e3a1.js",
+      "/docs__simple-course__fe__21.babel.md.js"
+    ],
+    "docs__simple-course__fe__25.ast.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__simple-course__fe__25.ast.md.js"
+    ],
+    "docs__simple-course__fe__27.react.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__simple-course__fe__27.react.md.js"
+    ],
+    "docs__simple-course__fe__28.tcp.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__simple-course__fe__28.tcp.md.js"
+    ],
+    "docs__simple-course__fe__30.typescript-ticao.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/vendors~docs__best__note.md~docs__poc__oss.md~docs__sets__01.react__02.md~docs__sets__01.react__04.m~2635e3a1.chunk.css",
+      "/vendors~docs__best__note.md~docs__poc__oss.md~docs__sets__01.react__02.md~docs__sets__01.react__04.m~2635e3a1.js",
+      "/docs__simple-course__fe__30.typescript-ticao.md.js"
+    ],
+    "docs__simple-course__fe__31.nx.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__simple-course__fe__31.nx.md.js"
+    ],
+    "docs__simple-course__fe__32.systemjs.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__simple-course__fe__32.systemjs.md.js"
+    ],
+    "docs__simple-course__fe__33.english-grammar.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__simple-course__fe__33.english-grammar.md.js"
+    ],
+    "docs__simple-course__fe__34.type-challenge.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/vendors~docs__best__note.md~docs__poc__oss.md~docs__sets__01.react__02.md~docs__sets__01.react__04.m~2635e3a1.chunk.css",
+      "/vendors~docs__best__note.md~docs__poc__oss.md~docs__sets__01.react__02.md~docs__sets__01.react__04.m~2635e3a1.js",
+      "/docs__simple-course__fe__34.type-challenge.md.js"
+    ],
+    "docs__simple-course__fe__36.web3-roadmap.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__simple-course__fe__36.web3-roadmap.md.js"
+    ],
+    "docs__simple-course__fe__37.es6+.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/vendors~docs__best__note.md~docs__poc__oss.md~docs__sets__01.react__02.md~docs__sets__01.react__04.m~2635e3a1.chunk.css",
+      "/vendors~docs__best__note.md~docs__poc__oss.md~docs__sets__01.react__02.md~docs__sets__01.react__04.m~2635e3a1.js",
+      "/docs__simple-course__fe__37.es6+.md.js"
+    ],
+    "docs__simple-course__fe__38.fe-tools.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__simple-course__fe__38.fe-tools.md.js"
+    ],
+    "docs__simple-course__fe__39.bun.sh.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__simple-course__fe__39.bun.sh.md.js"
+    ],
+    "docs__simple-course__fe__41.react.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__simple-course__fe__41.react.md.js"
+    ],
+    "docs__simple-course__java__01.maven.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__simple-course__java__01.maven.md.js"
+    ],
+    "docs__simple-course__java__02.redis.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/vendors~docs__best__note.md~docs__poc__oss.md~docs__sets__01.react__02.md~docs__sets__01.react__04.m~2635e3a1.chunk.css",
+      "/vendors~docs__best__note.md~docs__poc__oss.md~docs__sets__01.react__02.md~docs__sets__01.react__04.m~2635e3a1.js",
+      "/docs__simple-course__java__02.redis.md.js"
+    ],
+    "docs__simple-course__java__03.Zookeeper.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__simple-course__java__03.Zookeeper.md.js"
+    ],
+    "docs__simple-course__java__04.SpringBoot.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__simple-course__java__04.SpringBoot.md.js"
+    ],
+    "docs__simple-course__note__01.udemy-rust.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/vendors~docs__best__note.md~docs__poc__oss.md~docs__sets__01.react__02.md~docs__sets__01.react__04.m~2635e3a1.chunk.css",
+      "/vendors~docs__best__note.md~docs__poc__oss.md~docs__sets__01.react__02.md~docs__sets__01.react__04.m~2635e3a1.js",
+      "/docs__simple-course__note__01.udemy-rust.md.chunk.css",
+      "/docs__simple-course__note__01.udemy-rust.md.js"
+    ],
+    "docs__simple-course__note__02.udemy-master-phrasal-verb.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__simple-course__note__02.udemy-master-phrasal-verb.md.js"
+    ],
+    "docs__solution__index.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__solution__index.md.js"
+    ],
+    "docs__tech-product__01.personal.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__tech-product__01.personal.md.js"
+    ],
+    "docs__tech-product__02.personal_business.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__tech-product__02.personal_business.md.js"
+    ],
+    "docs__tech-product__03.experimental_fe.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__tech-product__03.experimental_fe.md.js"
+    ],
+    "docs__tech-product__index.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__tech-product__index.md.js"
+    ],
+    "docs__wiki__documents.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__wiki__documents.md.js"
+    ],
+    "docs__wiki__index.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__wiki__index.md.js"
+    ],
+    "docs__wiki__site.md": [
+      "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+      "/docs__wiki__site.md.js"
+    ]
+  },
+  "vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js": "/vendors~docs__awesome__index.md~docs__awesome__personal__01.react.md~docs__awesome__personal__02.js-~797bb593.js",
+  "vendors~docs__best__note.md~docs__poc__oss.md~docs__sets__01.react__02.md~docs__sets__01.react__04.m~2635e3a1.css": "/vendors~docs__best__note.md~docs__poc__oss.md~docs__sets__01.react__02.md~docs__sets__01.react__04.m~2635e3a1.chunk.css",
+  "vendors~docs__best__note.md~docs__poc__oss.md~docs__sets__01.react__02.md~docs__sets__01.react__04.m~2635e3a1.js": "/vendors~docs__best__note.md~docs__poc__oss.md~docs__sets__01.react__02.md~docs__sets__01.react__04.m~2635e3a1.js",
+  "docs__awesome__index.md.js": "/docs__awesome__index.md.js",
+  "docs__awesome__personal__01.react.md.js": "/docs__awesome__personal__01.react.md.js",
+  "docs__awesome__personal__02.js-utils.md.js": "/docs__awesome__personal__02.js-utils.md.js",
+  "docs__awesome__personal__03.react-native.md.js": "/docs__awesome__personal__03.react-native.md.js",
+  "docs__awesome__personal__04.node.md.js": "/docs__awesome__personal__04.node.md.js",
+  "docs__awesome__personal__05.algorithm.md.js": "/docs__awesome__personal__05.algorithm.md.js",
+  "docs__awesome__personal__06.js.md.js": "/docs__awesome__personal__06.js.md.js",
+  "docs__awesome__personal__07.css.md.js": "/docs__awesome__personal__07.css.md.js",
+  "docs__awesome__personal__08.golang.md.js": "/docs__awesome__personal__08.golang.md.js",
+  "docs__awesome__personal__09.rust.md.js": "/docs__awesome__personal__09.rust.md.js",
+  "docs__awesome__personal__10.vue.md.js": "/docs__awesome__personal__10.vue.md.js",
+  "docs__awesome__personal__11.database.md.js": "/docs__awesome__personal__11.database.md.js",
+  "docs__awesome__personal__12.general.md.js": "/docs__awesome__personal__12.general.md.js",
+  "docs__awesome__personal__13.angular.md.js": "/docs__awesome__personal__13.angular.md.js",
+  "docs__awesome__personal__14.bun.md.js": "/docs__awesome__personal__14.bun.md.js",
+  "docs__awesome__personal__15.nestjs.md.js": "/docs__awesome__personal__15.nestjs.md.js",
+  "docs__awesome__play__01.简历.md.js": "/docs__awesome__play__01.简历.md.js",
+  "docs__awesome__play__02.low-code.md.js": "/docs__awesome__play__02.low-code.md.js",
+  "docs__awesome__play__03.monorepo.md.js": "/docs__awesome__play__03.monorepo.md.js",
+  "docs__awesome__play__04.mfe.md.js": "/docs__awesome__play__04.mfe.md.js",
+  "docs__awesome__play__05.web3.md.js": "/docs__awesome__play__05.web3.md.js",
+  "docs__awesome__play__06.editor.md.js": "/docs__awesome__play__06.editor.md.js",
+  "docs__awesome__play__07.design.md.js": "/docs__awesome__play__07.design.md.js",
+  "docs__awesome__play__08.application.md.js": "/docs__awesome__play__08.application.md.js",
+  "docs__awesome__play__09.test.md.js": "/docs__awesome__play__09.test.md.js",
+  "docs__awesome__play__10.interview.md.js": "/docs__awesome__play__10.interview.md.js",
+  "docs__awesome__play__11.cli.md.js": "/docs__awesome__play__11.cli.md.js",
+  "docs__awesome__play__12.visualization.md.js": "/docs__awesome__play__12.visualization.md.js",
+  "docs__awesome__play__13.canvas.md.js": "/docs__awesome__play__13.canvas.md.js",
+  "docs__awesome__play__14.ideas.md.js": "/docs__awesome__play__14.ideas.md.js",
+  "docs__awesome__play__15.frp.md.js": "/docs__awesome__play__15.frp.md.js",
+  "docs__awesome__play__16.electron.md.js": "/docs__awesome__play__16.electron.md.js",
+  "docs__awesome__play__17.side-job.md.js": "/docs__awesome__play__17.side-job.md.js",
+  "docs__backlog__Interest__01.rust.md.js": "/docs__backlog__Interest__01.rust.md.js",
+  "docs__backlog__Interest__02.golang.md.js": "/docs__backlog__Interest__02.golang.md.js",
+  "docs__backlog__Interest__04.web3.md.js": "/docs__backlog__Interest__04.web3.md.js",
+  "docs__backlog__Interest__06.practice.md.js": "/docs__backlog__Interest__06.practice.md.js",
+  "docs__backlog__Interest__07.devops.md.js": "/docs__backlog__Interest__07.devops.md.js",
+  "docs__backlog__Interest__08.DB.md.js": "/docs__backlog__Interest__08.DB.md.js",
+  "docs__backlog__Interest__09.Python.md.js": "/docs__backlog__Interest__09.Python.md.js",
+  "docs__backlog__Interest__10.Serverless.md.js": "/docs__backlog__Interest__10.Serverless.md.js",
+  "docs__backlog__Interest__12.iOS.md.js": "/docs__backlog__Interest__12.iOS.md.js",
+  "docs__backlog__Interest__13.UIUX.md.js": "/docs__backlog__Interest__13.UIUX.md.js",
+  "docs__backlog__Interest__14.java.md.js": "/docs__backlog__Interest__14.java.md.js",
+  "docs__backlog__Interest__15.bun.md.js": "/docs__backlog__Interest__15.bun.md.js",
+  "docs__backlog__Interest__16.flutter.md.js": "/docs__backlog__Interest__16.flutter.md.js",
+  "docs__backlog__Interest__17.android.md.js": "/docs__backlog__Interest__17.android.md.js",
+  "docs__backlog__Interview__01.Algorithm.md.js": "/docs__backlog__Interview__01.Algorithm.md.js",
+  "docs__backlog__Interview__02.System Design.md.js": "/docs__backlog__Interview__02.System Design.md.js",
+  "docs__backlog__Work__01.react.md.js": "/docs__backlog__Work__01.react.md.js",
+  "docs__backlog__Work__02.react-native.md.js": "/docs__backlog__Work__02.react-native.md.js",
+  "docs__backlog__Work__03.nodejs.md.js": "/docs__backlog__Work__03.nodejs.md.js",
+  "docs__backlog__Work__04.js.md.js": "/docs__backlog__Work__04.js.md.js",
+  "docs__backlog__Work__05.ts.md.js": "/docs__backlog__Work__05.ts.md.js",
+  "docs__backlog__Work__06.css.md.js": "/docs__backlog__Work__06.css.md.js",
+  "docs__backlog__Work__07.network.md.js": "/docs__backlog__Work__07.network.md.js",
+  "docs__backlog__Work__08.bundle.md.js": "/docs__backlog__Work__08.bundle.md.js",
+  "docs__backlog__Work__09.git.md.js": "/docs__backlog__Work__09.git.md.js",
+  "docs__backlog__Work__10.agile.md.js": "/docs__backlog__Work__10.agile.md.js",
+  "docs__backlog__Work__11.flow.md.js": "/docs__backlog__Work__11.flow.md.js",
+  "docs__backlog__Work__12.test.md.js": "/docs__backlog__Work__12.test.md.js",
+  "docs__backlog__Work__13.SEO.md.js": "/docs__backlog__Work__13.SEO.md.js",
+  "docs__backlog__Work__14.Growth.md.js": "/docs__backlog__Work__14.Growth.md.js",
+  "docs__backlog__Work__15.resource.md.js": "/docs__backlog__Work__15.resource.md.js",
+  "docs__backlog__Work__16.advice.md.js": "/docs__backlog__Work__16.advice.md.js",
+  "docs__backlog__Work__17.optimization.md.js": "/docs__backlog__Work__17.optimization.md.js",
+  "docs__backlog__course__1.1.md.js": "/docs__backlog__course__1.1.md.js",
+  "docs__backlog__course__3.1.md.js": "/docs__backlog__course__3.1.md.js",
+  "docs__backlog__course__3.2.md.js": "/docs__backlog__course__3.2.md.js",
+  "docs__backlog__crashCourse__01.zzl.md.js": "/docs__backlog__crashCourse__01.zzl.md.js",
+  "docs__backlog__crashCourse__02.udemy.md.js": "/docs__backlog__crashCourse__02.udemy.md.js",
+  "docs__backlog__crashCourse__03.youtube.md.js": "/docs__backlog__crashCourse__03.youtube.md.js",
+  "docs__backlog__crashCourse__04.freeCodeCamp.md.js": "/docs__backlog__crashCourse__04.freeCodeCamp.md.js",
+  "docs__backlog__crashCourse__05.fake.md.js": "/docs__backlog__crashCourse__05.fake.md.js",
+  "docs__backlog__crashCourse__06.imooc.md.js": "/docs__backlog__crashCourse__06.imooc.md.js",
+  "docs__backlog__index.md.js": "/docs__backlog__index.md.js",
+  "docs__backlog__knowledge.md.js": "/docs__backlog__knowledge.md.js",
+  "docs__best__engineer-sence.md.js": "/docs__best__engineer-sence.md.js",
+  "docs__best__lunzi.md.js": "/docs__best__lunzi.md.js",
+  "docs__best__mystack.md.js": "/docs__best__mystack.md.js",
+  "docs__best__note.md.js": "/docs__best__note.md.js",
+  "docs__best__portfolio.md.js": "/docs__best__portfolio.md.js",
+  "docs__best__scrum.md.js": "/docs__best__scrum.md.js",
+  "docs__deep-learn__fe__01.react-query.md.js": "/docs__deep-learn__fe__01.react-query.md.js",
+  "docs__deep-learn__fe__02.react-hook-form.md.js": "/docs__deep-learn__fe__02.react-hook-form.md.js",
+  "docs__deep-learn__fe__03.jotai.md.js": "/docs__deep-learn__fe__03.jotai.md.js",
+  "docs__deep-learn__fe__04.Gatsby.md.js": "/docs__deep-learn__fe__04.Gatsby.md.js",
+  "docs__deep-learn__fe__05.shopify.md.js": "/docs__deep-learn__fe__05.shopify.md.js",
+  "docs__deep-learn__fe__06.vite3.md.js": "/docs__deep-learn__fe__06.vite3.md.js",
+  "docs__deep-learn__fe__07.immer.md.js": "/docs__deep-learn__fe__07.immer.md.js",
+  "docs__deep-learn__fe__08.oclif.md.js": "/docs__deep-learn__fe__08.oclif.md.js",
+  "docs__deep-learn__index.md.js": "/docs__deep-learn__index.md.js",
+  "docs__deep-learn__rust__01.rocket.md.js": "/docs__deep-learn__rust__01.rocket.md.js",
+  "docs__efficiency__Todo__202204.md.js": "/docs__efficiency__Todo__202204.md.js",
+  "docs__efficiency__Todo__202205.md.js": "/docs__efficiency__Todo__202205.md.js",
+  "docs__efficiency__Todo__202206.md.js": "/docs__efficiency__Todo__202206.md.js",
+  "docs__efficiency__Todo__202207.md.js": "/docs__efficiency__Todo__202207.md.js",
+  "docs__efficiency__Todo__202208.md.js": "/docs__efficiency__Todo__202208.md.js",
+  "docs__efficiency__advise__index.md.js": "/docs__efficiency__advise__index.md.js",
+  "docs__efficiency__advise__思考框架.md.js": "/docs__efficiency__advise__思考框架.md.js",
+  "docs__efficiency__advise__概念思考.md.js": "/docs__efficiency__advise__概念思考.md.js",
+  "docs__efficiency__future__5g.md.js": "/docs__efficiency__future__5g.md.js",
+  "docs__efficiency__study__201.rn.md.js": "/docs__efficiency__study__201.rn.md.js",
+  "docs__efficiency__study__202.react.md.js": "/docs__efficiency__study__202.react.md.js",
+  "docs__efficiency__study__backlog.md.js": "/docs__efficiency__study__backlog.md.js",
+  "docs__efficiency__study__fragment-record.md.js": "/docs__efficiency__study__fragment-record.md.js",
+  "docs__efficiency__study__roadmap.md.js": "/docs__efficiency__study__roadmap.md.js",
+  "docs__efficiency__study__template.md.js": "/docs__efficiency__study__template.md.js",
+  "docs__efficiency__study__todo.md.js": "/docs__efficiency__study__todo.md.js",
+  "docs__index.md.js": "/docs__index.md.js",
+  "docs__poc__demo.md.js": "/docs__poc__demo.md.js",
+  "docs__poc__edit-photo.md.js": "/docs__poc__edit-photo.md.js",
+  "docs__poc__fe__1.md.js": "/docs__poc__fe__1.md.js",
+  "docs__poc__fe__2.md.js": "/docs__poc__fe__2.md.js",
+  "docs__poc__fe__3.md.js": "/docs__poc__fe__3.md.js",
+  "docs__poc__fe__4.md.js": "/docs__poc__fe__4.md.js",
+  "docs__poc__fe__5.md.js": "/docs__poc__fe__5.md.js",
+  "docs__poc__fe__6.md.js": "/docs__poc__fe__6.md.js",
+  "docs__poc__fe__index.md.js": "/docs__poc__fe__index.md.js",
+  "docs__poc__index.md.js": "/docs__poc__index.md.js",
+  "docs__poc__new-tech.md.js": "/docs__poc__new-tech.md.js",
+  "docs__poc__oss.md.js": "/docs__poc__oss.md.js",
+  "docs__sets__01.react__01.md.js": "/docs__sets__01.react__01.md.js",
+  "docs__sets__01.react__02.md.js": "/docs__sets__01.react__02.md.js",
+  "docs__sets__01.react__03.md.js": "/docs__sets__01.react__03.md.js",
+  "docs__sets__01.react__04.md.js": "/docs__sets__01.react__04.md.js",
+  "docs__sets__03.rust__01.md.js": "/docs__sets__03.rust__01.md.js",
+  "docs__sets__index.md.js": "/docs__sets__index.md.js",
+  "docs__simple-course__devops__01.Docker.md.js": "/docs__simple-course__devops__01.Docker.md.js",
+  "docs__simple-course__devops__02.Docker入门.md.css": "/docs__simple-course__devops__02.Docker入门.md.chunk.css",
+  "docs__simple-course__devops__02.Docker入门.md.js": "/docs__simple-course__devops__02.Docker入门.md.js",
+  "docs__simple-course__fe__01.react18.md.js": "/docs__simple-course__fe__01.react18.md.js",
+  "docs__simple-course__fe__02.postgreSQL.md.js": "/docs__simple-course__fe__02.postgreSQL.md.js",
+  "docs__simple-course__fe__03.sequelize.md.js": "/docs__simple-course__fe__03.sequelize.md.js",
+  "docs__simple-course__fe__04.lerna.md.js": "/docs__simple-course__fe__04.lerna.md.js",
+  "docs__simple-course__fe__05.vite.md.js": "/docs__simple-course__fe__05.vite.md.js",
+  "docs__simple-course__fe__06.css-skill.md.js": "/docs__simple-course__fe__06.css-skill.md.js",
+  "docs__simple-course__fe__07.react-fiber.md.js": "/docs__simple-course__fe__07.react-fiber.md.js",
+  "docs__simple-course__fe__08.rxjs.md.js": "/docs__simple-course__fe__08.rxjs.md.js",
+  "docs__simple-course__fe__10.monitor.md.js": "/docs__simple-course__fe__10.monitor.md.js",
+  "docs__simple-course__fe__11.mfe.md.js": "/docs__simple-course__fe__11.mfe.md.js",
+  "docs__simple-course__fe__12.yargs.md.js": "/docs__simple-course__fe__12.yargs.md.js",
+  "docs__simple-course__fe__13.chalk.md.js": "/docs__simple-course__fe__13.chalk.md.js",
+  "docs__simple-course__fe__14.inquirer.md.js": "/docs__simple-course__fe__14.inquirer.md.js",
+  "docs__simple-course__fe__15.lerna.md.js": "/docs__simple-course__fe__15.lerna.md.js",
+  "docs__simple-course__fe__16.Gatsby.md.js": "/docs__simple-course__fe__16.Gatsby.md.js",
+  "docs__simple-course__fe__17.cpx.md.js": "/docs__simple-course__fe__17.cpx.md.js",
+  "docs__simple-course__fe__18.core-js.md.js": "/docs__simple-course__fe__18.core-js.md.js",
+  "docs__simple-course__fe__19.esbuild.md.js": "/docs__simple-course__fe__19.esbuild.md.js",
+  "docs__simple-course__fe__21.babel.md.js": "/docs__simple-course__fe__21.babel.md.js",
+  "docs__simple-course__fe__25.ast.md.js": "/docs__simple-course__fe__25.ast.md.js",
+  "docs__simple-course__fe__27.react.md.js": "/docs__simple-course__fe__27.react.md.js",
+  "docs__simple-course__fe__28.tcp.md.js": "/docs__simple-course__fe__28.tcp.md.js",
+  "docs__simple-course__fe__30.typescript-ticao.md.js": "/docs__simple-course__fe__30.typescript-ticao.md.js",
+  "docs__simple-course__fe__31.nx.md.js": "/docs__simple-course__fe__31.nx.md.js",
+  "docs__simple-course__fe__32.systemjs.md.js": "/docs__simple-course__fe__32.systemjs.md.js",
+  "docs__simple-course__fe__33.english-grammar.md.js": "/docs__simple-course__fe__33.english-grammar.md.js",
+  "docs__simple-course__fe__34.type-challenge.md.js": "/docs__simple-course__fe__34.type-challenge.md.js",
+  "docs__simple-course__fe__36.web3-roadmap.md.js": "/docs__simple-course__fe__36.web3-roadmap.md.js",
+  "docs__simple-course__fe__37.es6+.md.js": "/docs__simple-course__fe__37.es6+.md.js",
+  "docs__simple-course__fe__38.fe-tools.md.js": "/docs__simple-course__fe__38.fe-tools.md.js",
+  "docs__simple-course__fe__39.bun.sh.md.js": "/docs__simple-course__fe__39.bun.sh.md.js",
+  "docs__simple-course__fe__41.react.md.js": "/docs__simple-course__fe__41.react.md.js",
+  "docs__simple-course__index.md.js": "/docs__simple-course__index.md.js",
+  "docs__simple-course__java__01.maven.md.js": "/docs__simple-course__java__01.maven.md.js",
+  "docs__simple-course__java__02.redis.md.js": "/docs__simple-course__java__02.redis.md.js",
+  "docs__simple-course__java__03.Zookeeper.md.js": "/docs__simple-course__java__03.Zookeeper.md.js",
+  "docs__simple-course__java__04.SpringBoot.md.js": "/docs__simple-course__java__04.SpringBoot.md.js",
+  "docs__simple-course__note__01.udemy-rust.md.css": "/docs__simple-course__note__01.udemy-rust.md.chunk.css",
+  "docs__simple-course__note__01.udemy-rust.md.js": "/docs__simple-course__note__01.udemy-rust.md.js",
+  "docs__simple-course__note__02.udemy-master-phrasal-verb.md.js": "/docs__simple-course__note__02.udemy-master-phrasal-verb.md.js",
+  "docs__solution__index.md.js": "/docs__solution__index.md.js",
+  "docs__tech-product__01.personal.md.js": "/docs__tech-product__01.personal.md.js",
+  "docs__tech-product__02.personal_business.md.js": "/docs__tech-product__02.personal_business.md.js",
+  "docs__tech-product__03.experimental_fe.md.js": "/docs__tech-product__03.experimental_fe.md.js",
+  "docs__tech-product__index.md.js": "/docs__tech-product__index.md.js",
+  "docs__wiki__documents.md.js": "/docs__wiki__documents.md.js",
+  "docs__wiki__index.md.js": "/docs__wiki__index.md.js",
+  "docs__wiki__site.md.js": "/docs__wiki__site.md.js",
+  "dumi_demos.js": "/dumi_demos.js",
+  "umi.js": "/umi.js",
+  "vendors~dumi_demos.css": "/vendors~dumi_demos.chunk.css",
+  "vendors~dumi_demos.js": "/vendors~dumi_demos.js",
+  "vendors~wrappers.css": "/vendors~wrappers.chunk.css",
+  "vendors~wrappers.js": "/vendors~wrappers.js",
+  "wrappers.js": "/wrappers.js",
+  "404.html": "/404.html",
+  "_demos/:uuid/index.html": "/_demos/:uuid/index.html",
+  "awesome/index.html": "/awesome/index.html",
+  "awesome/personal/01/index.html": "/awesome/personal/01/index.html",
+  "awesome/personal/02/index.html": "/awesome/personal/02/index.html",
+  "awesome/personal/03/index.html": "/awesome/personal/03/index.html",
+  "awesome/personal/04/index.html": "/awesome/personal/04/index.html",
+  "awesome/personal/05/index.html": "/awesome/personal/05/index.html",
+  "awesome/personal/06/index.html": "/awesome/personal/06/index.html",
+  "awesome/personal/07/index.html": "/awesome/personal/07/index.html",
+  "awesome/personal/08/index.html": "/awesome/personal/08/index.html",
+  "awesome/personal/09/index.html": "/awesome/personal/09/index.html",
+  "awesome/personal/10/index.html": "/awesome/personal/10/index.html",
+  "awesome/personal/11/index.html": "/awesome/personal/11/index.html",
+  "awesome/personal/12/index.html": "/awesome/personal/12/index.html",
+  "awesome/personal/13/index.html": "/awesome/personal/13/index.html",
+  "awesome/personal/14/index.html": "/awesome/personal/14/index.html",
+  "awesome/personal/15/index.html": "/awesome/personal/15/index.html",
+  "awesome/personal/index.html": "/awesome/personal/index.html",
+  "awesome/play/01/index.html": "/awesome/play/01/index.html",
+  "awesome/play/02/index.html": "/awesome/play/02/index.html",
+  "awesome/play/03/index.html": "/awesome/play/03/index.html",
+  "awesome/play/04/index.html": "/awesome/play/04/index.html",
+  "awesome/play/05/index.html": "/awesome/play/05/index.html",
+  "awesome/play/06/index.html": "/awesome/play/06/index.html",
+  "awesome/play/07/index.html": "/awesome/play/07/index.html",
+  "awesome/play/08/index.html": "/awesome/play/08/index.html",
+  "awesome/play/09/index.html": "/awesome/play/09/index.html",
+  "awesome/play/10/index.html": "/awesome/play/10/index.html",
+  "awesome/play/11/index.html": "/awesome/play/11/index.html",
+  "awesome/play/12/index.html": "/awesome/play/12/index.html",
+  "awesome/play/13/index.html": "/awesome/play/13/index.html",
+  "awesome/play/14/index.html": "/awesome/play/14/index.html",
+  "awesome/play/15/index.html": "/awesome/play/15/index.html",
+  "awesome/play/16/index.html": "/awesome/play/16/index.html",
+  "awesome/play/17/index.html": "/awesome/play/17/index.html",
+  "awesome/play/index.html": "/awesome/play/index.html",
+  "backlog/course/1/index.html": "/backlog/course/1/index.html",
+  "backlog/course/3/index.html": "/backlog/course/3/index.html",
+  "backlog/course/index.html": "/backlog/course/index.html",
+  "backlog/crash-course/01/index.html": "/backlog/crash-course/01/index.html",
+  "backlog/crash-course/02/index.html": "/backlog/crash-course/02/index.html",
+  "backlog/crash-course/03/index.html": "/backlog/crash-course/03/index.html",
+  "backlog/crash-course/04/index.html": "/backlog/crash-course/04/index.html",
+  "backlog/crash-course/05/index.html": "/backlog/crash-course/05/index.html",
+  "backlog/crash-course/06/index.html": "/backlog/crash-course/06/index.html",
+  "backlog/crash-course/index.html": "/backlog/crash-course/index.html",
+  "backlog/index.html": "/backlog/index.html",
+  "backlog/interest/01/index.html": "/backlog/interest/01/index.html",
+  "backlog/interest/02/index.html": "/backlog/interest/02/index.html",
+  "backlog/interest/04/index.html": "/backlog/interest/04/index.html",
+  "backlog/interest/06/index.html": "/backlog/interest/06/index.html",
+  "backlog/interest/07/index.html": "/backlog/interest/07/index.html",
+  "backlog/interest/08/index.html": "/backlog/interest/08/index.html",
+  "backlog/interest/09/index.html": "/backlog/interest/09/index.html",
+  "backlog/interest/10/index.html": "/backlog/interest/10/index.html",
+  "backlog/interest/12/index.html": "/backlog/interest/12/index.html",
+  "backlog/interest/13/index.html": "/backlog/interest/13/index.html",
+  "backlog/interest/14/index.html": "/backlog/interest/14/index.html",
+  "backlog/interest/15/index.html": "/backlog/interest/15/index.html",
+  "backlog/interest/16/index.html": "/backlog/interest/16/index.html",
+  "backlog/interest/17/index.html": "/backlog/interest/17/index.html",
+  "backlog/interest/index.html": "/backlog/interest/index.html",
+  "backlog/interview/01/index.html": "/backlog/interview/01/index.html",
+  "backlog/interview/02/index.html": "/backlog/interview/02/index.html",
+  "backlog/interview/index.html": "/backlog/interview/index.html",
+  "backlog/knowledge/index.html": "/backlog/knowledge/index.html",
+  "backlog/work/01/index.html": "/backlog/work/01/index.html",
+  "backlog/work/02/index.html": "/backlog/work/02/index.html",
+  "backlog/work/03/index.html": "/backlog/work/03/index.html",
+  "backlog/work/04/index.html": "/backlog/work/04/index.html",
+  "backlog/work/05/index.html": "/backlog/work/05/index.html",
+  "backlog/work/06/index.html": "/backlog/work/06/index.html",
+  "backlog/work/07/index.html": "/backlog/work/07/index.html",
+  "backlog/work/08/index.html": "/backlog/work/08/index.html",
+  "backlog/work/09/index.html": "/backlog/work/09/index.html",
+  "backlog/work/10/index.html": "/backlog/work/10/index.html",
+  "backlog/work/11/index.html": "/backlog/work/11/index.html",
+  "backlog/work/12/index.html": "/backlog/work/12/index.html",
+  "backlog/work/13/index.html": "/backlog/work/13/index.html",
+  "backlog/work/14/index.html": "/backlog/work/14/index.html",
+  "backlog/work/15/index.html": "/backlog/work/15/index.html",
+  "backlog/work/16/index.html": "/backlog/work/16/index.html",
+  "backlog/work/17/index.html": "/backlog/work/17/index.html",
+  "backlog/work/index.html": "/backlog/work/index.html",
+  "best/engineer-sence/index.html": "/best/engineer-sence/index.html",
+  "best/index.html": "/best/index.html",
+  "best/lunzi/index.html": "/best/lunzi/index.html",
+  "best/mystack/index.html": "/best/mystack/index.html",
+  "best/note/index.html": "/best/note/index.html",
+  "best/portfolio/index.html": "/best/portfolio/index.html",
+  "best/scrum/index.html": "/best/scrum/index.html",
+  "deep-learn/fe/01/index.html": "/deep-learn/fe/01/index.html",
+  "deep-learn/fe/02/index.html": "/deep-learn/fe/02/index.html",
+  "deep-learn/fe/03/index.html": "/deep-learn/fe/03/index.html",
+  "deep-learn/fe/04/index.html": "/deep-learn/fe/04/index.html",
+  "deep-learn/fe/05/index.html": "/deep-learn/fe/05/index.html",
+  "deep-learn/fe/06/index.html": "/deep-learn/fe/06/index.html",
+  "deep-learn/fe/07/index.html": "/deep-learn/fe/07/index.html",
+  "deep-learn/fe/08/index.html": "/deep-learn/fe/08/index.html",
+  "deep-learn/fe/index.html": "/deep-learn/fe/index.html",
+  "deep-learn/index.html": "/deep-learn/index.html",
+  "deep-learn/rust/01/index.html": "/deep-learn/rust/01/index.html",
+  "deep-learn/rust/index.html": "/deep-learn/rust/index.html",
+  "efficiency/advise/index.html": "/efficiency/advise/index.html",
+  "efficiency/advise/思考框架/index.html": "/efficiency/advise/思考框架/index.html",
+  "efficiency/advise/概念思考/index.html": "/efficiency/advise/概念思考/index.html",
+  "efficiency/future/5g/index.html": "/efficiency/future/5g/index.html",
+  "efficiency/future/index.html": "/efficiency/future/index.html",
+  "efficiency/index.html": "/efficiency/index.html",
+  "efficiency/study/201/index.html": "/efficiency/study/201/index.html",
+  "efficiency/study/202/index.html": "/efficiency/study/202/index.html",
+  "efficiency/study/backlog/index.html": "/efficiency/study/backlog/index.html",
+  "efficiency/study/fragment-record/index.html": "/efficiency/study/fragment-record/index.html",
+  "efficiency/study/index.html": "/efficiency/study/index.html",
+  "efficiency/study/roadmap/index.html": "/efficiency/study/roadmap/index.html",
+  "efficiency/study/template/index.html": "/efficiency/study/template/index.html",
+  "efficiency/study/todo/index.html": "/efficiency/study/todo/index.html",
+  "efficiency/todo/202204/index.html": "/efficiency/todo/202204/index.html",
+  "efficiency/todo/202205/index.html": "/efficiency/todo/202205/index.html",
+  "efficiency/todo/202206/index.html": "/efficiency/todo/202206/index.html",
+  "efficiency/todo/202207/index.html": "/efficiency/todo/202207/index.html",
+  "efficiency/todo/202208/index.html": "/efficiency/todo/202208/index.html",
+  "efficiency/todo/index.html": "/efficiency/todo/index.html",
+  "index.html": "/index.html",
+  "poc/demo/index.html": "/poc/demo/index.html",
+  "poc/edit-photo/index.html": "/poc/edit-photo/index.html",
+  "poc/fe/1/index.html": "/poc/fe/1/index.html",
+  "poc/fe/2/index.html": "/poc/fe/2/index.html",
+  "poc/fe/3/index.html": "/poc/fe/3/index.html",
+  "poc/fe/4/index.html": "/poc/fe/4/index.html",
+  "poc/fe/5/index.html": "/poc/fe/5/index.html",
+  "poc/fe/6/index.html": "/poc/fe/6/index.html",
+  "poc/fe/index.html": "/poc/fe/index.html",
+  "poc/index.html": "/poc/index.html",
+  "poc/new-tech/index.html": "/poc/new-tech/index.html",
+  "poc/oss/index.html": "/poc/oss/index.html",
+  "sets/01.react/01/index.html": "/sets/01.react/01/index.html",
+  "sets/01.react/02/index.html": "/sets/01.react/02/index.html",
+  "sets/01.react/03/index.html": "/sets/01.react/03/index.html",
+  "sets/01.react/04/index.html": "/sets/01.react/04/index.html",
+  "sets/01.react/index.html": "/sets/01.react/index.html",
+  "sets/03.rust/01/index.html": "/sets/03.rust/01/index.html",
+  "sets/03.rust/index.html": "/sets/03.rust/index.html",
+  "sets/index.html": "/sets/index.html",
+  "simple-course/devops/01/index.html": "/simple-course/devops/01/index.html",
+  "simple-course/devops/02/index.html": "/simple-course/devops/02/index.html",
+  "simple-course/devops/index.html": "/simple-course/devops/index.html",
+  "simple-course/fe/01/index.html": "/simple-course/fe/01/index.html",
+  "simple-course/fe/02/index.html": "/simple-course/fe/02/index.html",
+  "simple-course/fe/03/index.html": "/simple-course/fe/03/index.html",
+  "simple-course/fe/04/index.html": "/simple-course/fe/04/index.html",
+  "simple-course/fe/05/index.html": "/simple-course/fe/05/index.html",
+  "simple-course/fe/06/index.html": "/simple-course/fe/06/index.html",
+  "simple-course/fe/07/index.html": "/simple-course/fe/07/index.html",
+  "simple-course/fe/08/index.html": "/simple-course/fe/08/index.html",
+  "simple-course/fe/10/index.html": "/simple-course/fe/10/index.html",
+  "simple-course/fe/11/index.html": "/simple-course/fe/11/index.html",
+  "simple-course/fe/12/index.html": "/simple-course/fe/12/index.html",
+  "simple-course/fe/13/index.html": "/simple-course/fe/13/index.html",
+  "simple-course/fe/14/index.html": "/simple-course/fe/14/index.html",
+  "simple-course/fe/15/index.html": "/simple-course/fe/15/index.html",
+  "simple-course/fe/16/index.html": "/simple-course/fe/16/index.html",
+  "simple-course/fe/17/index.html": "/simple-course/fe/17/index.html",
+  "simple-course/fe/18/index.html": "/simple-course/fe/18/index.html",
+  "simple-course/fe/19/index.html": "/simple-course/fe/19/index.html",
+  "simple-course/fe/21/index.html": "/simple-course/fe/21/index.html",
+  "simple-course/fe/25/index.html": "/simple-course/fe/25/index.html",
+  "simple-course/fe/27/index.html": "/simple-course/fe/27/index.html",
+  "simple-course/fe/28/index.html": "/simple-course/fe/28/index.html",
+  "simple-course/fe/30/index.html": "/simple-course/fe/30/index.html",
+  "simple-course/fe/31/index.html": "/simple-course/fe/31/index.html",
+  "simple-course/fe/32/index.html": "/simple-course/fe/32/index.html",
+  "simple-course/fe/33/index.html": "/simple-course/fe/33/index.html",
+  "simple-course/fe/34/index.html": "/simple-course/fe/34/index.html",
+  "simple-course/fe/36/index.html": "/simple-course/fe/36/index.html",
+  "simple-course/fe/37/index.html": "/simple-course/fe/37/index.html",
+  "simple-course/fe/38/index.html": "/simple-course/fe/38/index.html",
+  "simple-course/fe/39.bun/index.html": "/simple-course/fe/39.bun/index.html",
+  "simple-course/fe/41/index.html": "/simple-course/fe/41/index.html",
+  "simple-course/fe/index.html": "/simple-course/fe/index.html",
+  "simple-course/index.html": "/simple-course/index.html",
+  "simple-course/java/01/index.html": "/simple-course/java/01/index.html",
+  "simple-course/java/02/index.html": "/simple-course/java/02/index.html",
+  "simple-course/java/03/index.html": "/simple-course/java/03/index.html",
+  "simple-course/java/04/index.html": "/simple-course/java/04/index.html",
+  "simple-course/java/index.html": "/simple-course/java/index.html",
+  "simple-course/note/01/index.html": "/simple-course/note/01/index.html",
+  "simple-course/note/02/index.html": "/simple-course/note/02/index.html",
+  "simple-course/note/index.html": "/simple-course/note/index.html",
+  "solution/index.html": "/solution/index.html",
+  "tech-product/01/index.html": "/tech-product/01/index.html",
+  "tech-product/02/index.html": "/tech-product/02/index.html",
+  "tech-product/03/index.html": "/tech-product/03/index.html",
+  "tech-product/index.html": "/tech-product/index.html",
+  "wiki/documents/index.html": "/wiki/documents/index.html",
+  "wiki/index.html": "/wiki/index.html",
+  "wiki/site/index.html": "/wiki/site/index.html",
+  "~demos/:uuid/index.html": "/~demos/:uuid/index.html"
+}
