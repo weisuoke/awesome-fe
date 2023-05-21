@@ -13,8 +13,7 @@ order: 10
 
 ## Java架构师(main stream)
 
-- [ ] [Java Programming Masterclass updated to Java 17](https://www.udemy.com/course/java-the-complete-java-developer-course/)
-- [ ] [慕课网 - 体系课 - Java工程师](https://class.imooc.com/sale/java2021)
+- [ ] [马士兵Java后端工程师从入门到精通](https://javaxxz.com/thread-400704-1-1.html)
   - 实战课(简单)
     - Spring/SpringBoot/SpringCloud
       - [ ] [Spring Boot3, Spring6 & Hibernate for Beginners](https://www.udemy.com/course/spring-hibernate-tutorial/)
@@ -53,7 +52,9 @@ order: 10
         - [ ] [多端全栈项目实战：商业级代驾全流程落地](https://coding.imooc.com/class/568.html)
         - [ ] 小滴课堂 - 工业级PaaS云平台 综合分布式项目
         - [ ] 小滴课堂 - 海量数据商用短链接平台项目
+        - [ ] 博学谷 - 基于Saas的餐掌柜项目实战
         - 大实战
+          - [ ] 图灵架构师5期
           - [ ] [Java全栈工程师](https://class.imooc.com/sale/javafullstack)
           - [ ] [Java架构师技术专家](https://class.imooc.com/sale/javaarchitect)
           - [ ] [Java高级工程师](https://class.imooc.com/javasenior)
@@ -93,6 +94,8 @@ order: 10
 ## Web3 Engineer (101)
 
 - [ ] [Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/)
+- [ ] [Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=587s)
+- [ ] [Web3 Course Walkthrough on freeCodeCamp.org (Rust, Blockchain Development, and Smart Contracts)](https://www.youtube.com/watch?v=hDfkyF8U-pw&t=2142s)
 - [ ] [Ethereum Blockchain Developer Bootcamp with Solidity](https://www.udemy.com/course/blockchain-developer/)
 - [ ] [Solidity & Ethereum in React(Next JS): The Complete Guide](https://www.udemy.com/course/solidity-ethereum-in-react-next-js-the-complete-guide/)
 - [ ] [NFT Marketplace in React, TypeScript & Solidity - Full Guide](https://www.udemy.com/course/nft-marketplace-in-react-typescript-solidity-full-guide/)
@@ -104,11 +107,26 @@ order: 10
 
 ## 跨端
 
-- [ ] [The Complete React Native + Hooks Course](https://www.udemy.com/course/the-complete-react-native-and-redux-course/)
-- [ ] [iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
+- [ ] ~~[The Complete React Native + Hooks Course](https://www.udemy.com/course/the-complete-react-native-and-redux-course/)~~
+- [x] [React Native Course – Android and iOS App Development](https://www.youtube.com/watch?v=obH0Po_RdWk&t=13510s) (2023-5-20)
+- [ ] [Swift Programming Tutorial – Full Course for Beginners](https://www.youtube.com/watch?v=8Xg7E9shq0U&t=316s)
+- [ ] ~~[Learn Kotlin Programming – Full Course for Beginners](https://www.youtube.com/watch?v=EExSSotojVI)~~ (废弃 2023-5-21)
+- [ ] **Kotlin Books** (新增 2023-5-21)
+  - [ ] 《Beginning Kotlin(Ted Hagos)》
+  - [ ] 《Kotlin Design Patterns and Best Practices》
+  - [ ] 《How to Build Android Apps with Kotlin》
+  - [ ] 《Kickstart Modern Android Development with Jetpack and Kotlin》
+  - [ ] 《Simplifying Application Development with Kotlin Multiplatform Mobile》
+
+- [ ] [SwiftUI Masterclass 2023 - iOS App Development & Swift](https://www.udemy.com/course/swiftui-masterclass-course-ios-development-with-swift/)
 - [ ] [The Complete Android 13 Developer Course - Build 52 Apps](https://www.udemy.com/course/the-complete-android-10-developer-course-mastering-android/)
   - [ ] [Flutter & Dart - The Complete Guide [2023 Edition]](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
-    - [ ] [移动端架构师](https://class.imooc.com/sale/mobilearchitect)
+  - [ ] [Flutter Course for Beginners – 37-hour Cross Platform App Development Tutorial](https://www.youtube.com/watch?v=VPvVD8t02U8&t=11s)
+    - [ ] [Flutter Course – Build Full Stack Google Docs Clone](https://www.youtube.com/watch?v=F6P0hve2clE)
+    - [ ] [Flutter App Development Course – Build a Twitter Clone with Appwrite and Riverpod](https://www.youtube.com/watch?v=njLEDvoDjtk&t=1s)
+    - [ ] [Flutter Mobile App + Node.js Back End Tutorial – Code an Amazon Clone [Full Course]](https://www.youtube.com/watch?v=ylJz7N-dv1E&t=7s) 
+    - [ ] [Build a Live Stream Flutter App – Android & iOS Course](https://www.youtube.com/watch?v=hN4Q04ODOEw&t=6s)
+      - [ ] [移动端架构师](https://class.imooc.com/sale/mobilearchitect)
 
 ## Devops
 
@@ -129,3 +147,9 @@ order: 10
     - tekton( k8s原生cicd框架）实战和可视化开发
     - Operator实战第一波:手撸http ingress网关
     - k8s Operator实战进阶第二波
+
+## Interest
+
+- [Full Stack Clone](https://www.youtube.com/playlist?list=PLIGDNOJWiL19kquPvnT1jn6tnYEiXWpGl)
+- [Nest JS Microservices with Monorepo NX](https://www.youtube.com/playlist?list=PLIGDNOJWiL1-zscX224pibRBb4RChTpgM)
+- [Full Stack Clone - Uber Eats Clone](https://www.youtube.com/playlist?list=PLIGDNOJWiL1-Smf4ABmuvcOrV7E4mCqN3)

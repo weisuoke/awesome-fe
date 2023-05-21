@@ -20,6 +20,8 @@ order: 1
   - [Javarevisited](https://medium.com/javarevisited)
   - [Netanel Basal](https://netbasal.medium.com/?source=user_profile-------------------------------------)
   - [Interview Noodle](https://medium.com/interviewnoodle)
+  - Author:
+    - [Allen Helton](https://allenheltondev.medium.com/)
 - [DEV](https://dev.to/)
 - [Bestofjs](https://bestofjs.org/)
 - [osawards](https://osawards.com/)
@@ -81,6 +83,10 @@ order: 1
 - 前端早读课
 
 - 趣谈前端
+
+- 印记中文
+
+- 前端之巅
 
 ## Study
 
